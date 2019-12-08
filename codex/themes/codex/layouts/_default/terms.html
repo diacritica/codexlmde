@@ -1,0 +1,126 @@
+{{ define "main" -}}
+
+
+{{ $name := .Data.Plural -}}
+  {{ $terms := .Data.Terms.ByCount -}}
+  {{ $length := len $terms -}}
+
+  {{ if eq $name "categories" }}
+  <header class="page-head">
+    <h2 class="page-head-title">Líneas</h2>
+  </header>
+    <div class="w3-container w3-center">
+      <div class="w3-container  w3-section w3-center">
+        {{ range $key, $value := $terms }}
+          <a  href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
+          	<button class="w3-btn w3-round w3-green w3-section">
+          	 {{ $value.Term }}
+			<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
+			</button>
+
+          </a>
+           &nbsp; &nbsp;
+        {{ end }}
+      </div>
+    </div>
+  {{ else if eq $name "tags" }}
+  <header class="page-head">
+    <h2 class="page-head-title">Etiquetas</h2>
+  </header>
+    <div class="w3-container  w3-section w3-center">
+      <div class="w3-container w3-center">
+        {{ range $key, $value := $terms }}
+          <a href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
+            <button class="w3-btn w3-round w3-green w3-section">
+          	 {{ $value.Term }}
+			<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
+			</button>
+
+          </a>
+           &nbsp; &nbsp;
+        {{ end }}
+      </div>
+    </div>
+    {{ else if eq $name "minlevels" }}
+    <header class="page-head">
+      <h2 class="page-head-title">Nível mínimo</h2>
+    </header>
+      <div class="w3-container  w3-section w3-center">
+        <div class="w3-container w3-center">
+          {{ range $key, $value := $terms }}
+            <a href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
+              <button class="w3-btn w3-round w3-green w3-section">
+            	 {{ $value.Term }}
+  			<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
+  			</button>
+
+            </a>
+             &nbsp; &nbsp;
+          {{ end }}
+        </div>
+      </div>
+
+
+      {{ else if eq $name "maxlevels" }}
+      <header class="page-head">
+        <h2 class="page-head-title">Nivel máximo</h2>
+      </header>
+        <div class="w3-container  w3-section w3-center">
+          <div class="w3-container w3-center">
+            {{ range $key, $value := $terms }}
+              <a href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
+                <button class="w3-btn w3-round w3-green w3-section">
+              	 {{ $value.Term }}
+    			<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
+    			</button>
+
+              </a>
+               &nbsp; &nbsp;
+            {{ end }}
+          </div>
+        </div>
+
+
+        {{ else if eq $name "authors" }}
+        <header class="page-head">
+          <h2 class="page-head-title">Autoría</h2>
+        </header>
+          <div class="w3-container  w3-section w3-center">
+            <div class="w3-container w3-center">
+              {{ range $key, $value := $terms }}
+                <a href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
+                  <button class="w3-btn w3-round w3-green w3-section">
+                	 {{ $value.Term }}
+      		<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
+      			</button>
+
+                </a>
+                 &nbsp; &nbsp;
+              {{ end }}
+            </div>
+          </div>
+
+          {{ else if eq $name "prices" }}
+          <header class="page-head">
+            <h2 class="page-head-title">Precios</h2>
+          </header>
+            <div class="w3-container  w3-section w3-center">
+
+              <div class="w3-container w3-center">
+                {{ range $key, $value := $terms }}
+                  <a href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
+                    <button class="w3-btn w3-round w3-green w3-section">
+                  	 {{ $value.Term }}
+        			<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
+        			</button>
+
+                  </a>
+                   &nbsp; &nbsp;
+                {{ end }}
+              </div>
+            </div>
+
+
+  {{ end }}
+</div>
+{{- end }}

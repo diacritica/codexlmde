@@ -1,0 +1,89 @@
+# ===== title =====
+tags:
+  other: "Tags"
+
+categories:
+  other: "Categories"
+
+# ===== footer =====
+powered:
+  other: "Powered by %s"
+
+theme:
+  other: "Theme"
+
+# ===== post =====
+prevPage:
+  other: "Prev"
+
+nextPage:
+  other: "Next"
+
+prevPost:
+  other: "Prev"
+
+nextPost:
+  other: "Next"
+
+toc:
+  other: "Contents"
+
+backtotop:
+  other: "Back To Top"
+
+readMore:
+  other: "Read More"
+
+wordCount:
+  one: "{{ .Count }} word"
+  other: "{{ .Count }} words"
+
+readingTime:
+  one: "{{ .Count }} min read"
+  other: "{{ .Count }} mins read"
+
+
+# ===== content license =====
+author:
+  other: "Author"
+
+license:
+  other: "License"
+
+# ===== all posts =====
+poststitle:
+  other: "Título"
+
+postsdate:
+  other: "Fecha de publicación"
+
+postsword:
+  other: "Número de palabras"
+
+postsauthor:
+  other: "Autoría"
+
+postsminlevel:
+  other: "Nivel mínimo"
+
+postsmaxlevel:
+  other: "Nivel máximo"
+
+postsmincharacter:
+  other: "Mínimo nº PJs"
+
+postsmaxcharacter:
+  other: "Máximo nº PJs"
+
+
+postssearch:
+  other: "Search Posts..."
+
+relatedposts:
+  other: "Related Articles:"
+
+issocomment:
+  other: "Post Your Comments Here:"
+#==== privacy policy cookie bar ======
+gotit:
+  other: "Got it"

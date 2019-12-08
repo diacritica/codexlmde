@@ -1,0 +1,73 @@
+/* Adventure
+/* ---------------------------------------------------------- */
+.adventure-box {
+    position: relative;
+    min-width: 100%;
+    margin: 4vw calc(50% - 50vw);
+    transform: translateX(calc(50vw - 50%));
+    width: 75vw;
+}
+
+ul.adventure-info {
+    align-items: center;
+    border: 1px solid rgba(0,0,0, .2);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+}
+
+ul.adventure-info li {
+    align-items: center;
+    display: flex;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 0;
+}
+
+ul.adventure-info li span {
+    font-size: 1.5rem;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+ul.adventure-info li img {
+    margin-right: 10px;
+    width: 34px;
+}
+
+@media (max-width: 700px) {
+    ul.adventure-info {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+}
+
+/* ATTACHMENTS */
+.attachment-list {
+    border-top: 1px solid rgba(0,0,0, .2);
+    display: flex;
+    flex-direction: column;
+    margin: 3em 0;
+    padding: 2rem 0;
+}
+
+.list-item {
+    align-items: center;
+    background-color: white;
+    display: flex;
+    padding: 1rem 2rem;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+.list-item a {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2rem;
+}
+
+.list-item img {
+    margin-right: 2rem;
+    width: 60px;
+}
