@@ -1,4 +1,4 @@
-baseurl = "https://codexdelamarca.com/"
+baseurl = "https://test.codexdelamarca.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en" # en / zh-CN / ... (This field determines which i18n file to use)
 

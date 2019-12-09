@@ -2,40 +2,39 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
+
   <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
 
 
- 
+
 <!-- Enable responsiveness on mobile devices -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="generator" content="Hugo 0.59.1" />
+<meta name="generator" content="Hugo 0.60.1" />
 
 
     
 
-<title></title>
+<title>Codex de la Marca</title>
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="My New Hugo Site"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="Hugo W3 Simple Theme"/>
 
-<meta property="og:title" content="My New Hugo Site" />
-<meta property="og:description" content="" />
+<meta property="og:title" content="" />
+<meta property="og:description" content="Hugo W3 Simple Theme" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://example.org/" />
-
-<meta property="og:updated_time" content="2017-04-14T11:25:05-04:00" />
-
+<meta property="og:url" content="https://test.codexdelamarca.com/" />
+<meta property="og:updated_time" content="2019-12-09T00:00:00+00:00" /><meta property="og:site_name" content="Codex de la Marca" />
 
 
-<link rel="canonical" href="http://example.org/" />
-<link href="http://example.org/index.xml" rel="alternate" type="application/rss+xml" title="My New Hugo Site" />
-  <link href="http://example.org/index.xml" rel="feed" type="application/rss+xml" title="My New Hugo Site" />
+
+<link rel="canonical" href="https://test.codexdelamarca.com/" />
+<link href="https://test.codexdelamarca.com/index.xml" rel="alternate" type="application/rss+xml" title="" />
+  <link href="https://test.codexdelamarca.com/index.xml" rel="feed" type="application/rss+xml" title="" />
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -47,10 +46,19 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allerta+Stencil">
 
+<link rel="stylesheet" href="/css/style.css" />
 <link rel="stylesheet" href="/css/w3.css" />
 
 
-<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/adventure.css" />
+<link rel="stylesheet" href="/css/global.css" />
+<link rel="stylesheet" href="/css/lists.css" />
+<link rel="stylesheet" href="/css/screen.css" />
+
+
+
+
+
 
 
 
@@ -63,192 +71,232 @@
   
   
 </head>
-<body class="w3-light-grey">
+<body class="post-template">
+<div class="site-wrapper">
 
 
-    
-    <header id="header">
-         
-        <div class="w3-right ">
-<div class="w3-bar w3-light-grey  ">
-  
-
-  
-      <span class="w3-hide-small">
-
-      </span>
-  
-</div>
-</div>
-<br>
-  <div class="w3-content">
-  
-  <div class="w3-container w3-center w3-padding-32 w3-hide-small"> 
-      <h1 class="w3-xxxlarge w3-text-blue w3-wide w3-allerta  " style="text-shadow:1px 1px 0 #444" ><u>
+    <header class="site-head">
       
-          W3 SIMPLE
-      
-</u></h1>
-      
+        <div class="site-head-container">
+
+  <a class="nav-burger" href="#">
+    <div class="hamburger hamburger--collapse" aria-label="Menu" role="button" aria-controls="navigation">
+        <div class="hamburger-box">
+            <div class="hamburger-inner"></div>
+        </div>
     </div>
-    <div class="w3-content w3-center">
-    <div class="w3-bar w3-light-grey w3-border">
-    <a href="/" class="w3-bar-item w3-button w3-large w3-green"><i class="fa fa-home"></i></a>
-    
-   
-    
-    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="displaymenu()">&#9776;</a>
-  </div>
+</a>
+<nav id="swup" class="site-head-left">
+  
+    <a href="/" class="w3-bar-item w3-button w3-hide-small">Inicio</a>
+  
+    <a href="/categories/" class="w3-bar-item w3-button w3-hide-small">Líneas</a>
+  
+    <a href="/tags/" class="w3-bar-item w3-button w3-hide-small">Etiquetas</a>
+  
+    <a href="/authors/" class="w3-bar-item w3-button w3-hide-small">Autoría</a>
+  
+    <a href="/allposts/" class="w3-bar-item w3-button w3-hide-small">Todas</a>
+  
+    <a href="/about/" class="w3-bar-item w3-button w3-hide-small">Sobre el Códex</a>
+  
+</nav>
 
-<div id="mobilemenu" class="w3-bar-block w3-light-grey w3-hide w3-hide-large w3-hide-medium">
-  
-  
+<div class="site-head-center">
+    <a class="site-head-logo" href="/"><img src="/assets/clmde-logo-2.png" alt="Codex de la Marca" /></a>
 </div>
+
+<div class="site-head-right">
+    <div class="social-links">
+        <a href="https://github.com/diacritica/codexlmde" title="Github" target="_blank" rel="noopener">Github</a>
+    </div>
 </div>
+
 </div>
+
 <script>
 function displaymenu() {
     var x = document.getElementById("mobilemenu");
     if (x.className.indexOf("w3-show") == -1) {
         x.className += " w3-show";
-    } else { 
+    } else {
         x.className = x.className.replace(" w3-show", "");
     }
 }
 </script>
 
-
-
-    
-    <hr class="headfoot">
-   
       
     </header>
-    
-<div class="w3-content">
-    
-      <div>
-        
-        <div id="content" >
-          <div class="w3-content w3-card-4" >
 
 
-
-
-
-
-
-    
-
-  
-
-  <ul class="w3-ul w3-hoverable">
-
+    <main id="site-main" class="site-main">
+        <div id="swup" class="transition-fade">
+            
 
 
   
-    <li>
-      <span class="date">2017/04/14</span> &nbsp; 
-      <a href="http://example.org/posts/chapter-6/">Chapter VI: Esmeralda</a>
-    </li>
   
-    <li>
-      <span class="date">2017/04/13</span> &nbsp; 
-      <a href="http://example.org/posts/chapter-5/">Chapter V: Quasimodo</a>
-    </li>
-  
-    <li>
-      <span class="date">2017/04/12</span> &nbsp; 
-      <a href="http://example.org/posts/chapter-4/">Chapter IV: Master Jacques Coppenole</a>
-    </li>
-  
-    <li>
-      <span class="date">2017/04/11</span> &nbsp; 
-      <a href="http://example.org/posts/chapter-3/">Chapter III: Monsieur the Cardinal</a>
-    </li>
-  
-    <li>
-      <span class="date">2017/04/10</span> &nbsp; 
-      <a href="http://example.org/posts/chapter-2/">Chapter II: Pierre Gringoire</a>
-    </li>
-  
-    <li>
-      <span class="date">2017/04/09</span> &nbsp; 
-      <a href="http://example.org/posts/chapter-1/">Chapter I: The Grand Hall</a>
-    </li>
-   
-  
+  <header class="page-head">
+    <h4>¡Te damos la bienvenida al Nuevo Códex de la Marca!</h4>
+
+    <h2 class="page-head-title">Aventuras para enriquecer tu escenario de campaña</h2>
+</header>
+
+<div class="post-feed">
+
+
+<article class="post-card post with-image" style="background-image: url(/posts/covers//los-salones-anegados.jpg")>
+
+    <a class="post-card-link" href="https://test.codexdelamarca.com/posts/los-salones-anegados/">
+        <div class="post-card-content">
+            <h2 class="post-card-title">Los Salones Anegados de Leviatán</h2>
+        </div>
+    </a>
+</article>
+
+
+
+
+
+
+<article class="post-card post with-image" style="background-image: url(/posts/covers//laciudadperdidadegaran.jpg")>
+
+    <a class="post-card-link" href="https://test.codexdelamarca.com/posts/la-ciudad-perdida-de-garan/">
+        <div class="post-card-content">
+            <h2 class="post-card-title">En busca de la ciudad perdida de Garan</h2>
+        </div>
+    </a>
+</article>
+
+
+
+
+
+
+<article class="post-card post with-image" style="background-image: url('/codexph.jpg'")>
+
+    <a class="post-card-link" href="https://test.codexdelamarca.com/posts/la-isla-roja/">
+        <div class="post-card-content">
+            <h2 class="post-card-title">La isla roja</h2>
+        </div>
+    </a>
+</article>
+
+
+
+
+
+
+
+
+<article class="post-card post with-image" style="background-image: url(/posts/covers//elorbedeamonhtep.jpg")>
+
+    <a class="post-card-link" href="https://test.codexdelamarca.com/posts/el-orbe-de-amonhtep/">
+        <div class="post-card-content">
+            <h2 class="post-card-title">El Orbe de Amonhtep</h2>
+        </div>
+    </a>
+</article>
+
+
+
+
+
+
+<article class="post-card post with-image" style="background-image: url(/posts/covers//lamonta%c3%b1asoberana.jpg")>
+
+    <a class="post-card-link" href="https://test.codexdelamarca.com/posts/la-monta%C3%B1a-soberana/">
+        <div class="post-card-content">
+            <h2 class="post-card-title">La montaña soberana</h2>
+        </div>
+    </a>
+</article>
+
+
+
+
+
+
+<article class="post-card post with-image" style="background-image: url(/posts/covers//laislamisteriosa.jpg")>
+
+    <a class="post-card-link" href="https://test.codexdelamarca.com/posts/la-isla-misteriosa/">
+        <div class="post-card-content">
+            <h2 class="post-card-title">La isla misteriosa</h2>
+        </div>
+    </a>
+</article>
+
+
+
+
+
+
+
+
+<article class="post-card post with-image" style="background-image: url(/posts/covers//lacriptanefanda.jpg")>
+
+    <a class="post-card-link" href="https://test.codexdelamarca.com/posts/la-cripta-nefanda-de-uztum-el-maldito/">
+        <div class="post-card-content">
+            <h2 class="post-card-title">La Cripta nefanda de Uztum el Maldito</h2>
+        </div>
+    </a>
+</article>
+
+
+
+
+
+
+<article class="post-card post with-image" style="background-image: url(/posts/covers//elsignorojo.jpg")>
+
+    <a class="post-card-link" href="https://test.codexdelamarca.com/posts/el-signo-rojo/">
+        <div class="post-card-content">
+            <h2 class="post-card-title">El Signo Rojo</h2>
+        </div>
+    </a>
+</article>
+
+
+
+
+
+
+
+
+
   </ul>
 
   </div>
 
   <br>
-  <div class="w3-content" > 
+  <div class="w3-content" >
     <div class="w3-bar w3-section w3-hide-large w3-hide-medium">
-          
+
     
       
   </div>
   <nav class="w3-center w3-hide-small">
 
 </nav>
+
+
+
 </div>
 
         </div>
         
-           
           
 
         
-        
-      </div>
-    
+    </main>
 
-   
-    <footer id="footer" >
-      <div class="w3-container w3-center w3-padding-32"> 
-  
-</div>
-
+    <footer class="site-foot">
+        &copy; 2019 <a href="https://codexdelamarca.com">Codex de la Marca</a> &mdash; Publicado con <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>
     </footer>
-    
 
-    
   </div>
 
-  
 
-  
-    
- 
-    
-
-    
-    
-<script>
-
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  <!-- TOC -->
-    
-    <!-- cookie bar -->
-    
-<!-- Back to top -->
-    
-    <!-- scroll indicator -->
-    
-
-    <!-- allowads -->
-    
-}
-
-
-</script>
-
-
-
-  
 
 </body>
 </html>

@@ -1,5 +1,5 @@
 ---
-title: La Ciudad Perdida de Garan
+title: En busca de la ciudad perdida de Garan
 summary: Un gran misterio aguarda en lo más profundo de las junglas de Cirinea, la legendaria ciudad perdida de Garan.
 authors:
   - Carlos de la Cruz

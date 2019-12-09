@@ -8,6 +8,7 @@ date: 2019-12-08
 type: post
 categories:
 - 12M12M
+- Comunidad
 tags:
 - isla
 - oneshot
