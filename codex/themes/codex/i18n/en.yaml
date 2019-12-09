@@ -79,7 +79,7 @@ postssession:
   other: "Nº sesiones"
 
 postseval:
-  other: "Eval"
+  other: "Carácter"
 
 postsprice:
   other: "Precio"

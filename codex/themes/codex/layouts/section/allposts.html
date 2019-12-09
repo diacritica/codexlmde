@@ -9,7 +9,7 @@
 
 
 <p>
-<input oninput="w3.filterHTML('#id01', '.item', this.value)" class="w3-input" placeholder="{{ T "postssearch"}}">
+<input oninput="w3.filterHTML('#id01', '.item', this.value)" class="w3-input" placeholder="Introduce tu búsqueda">
 </p>
 <div style="overflow-x:auto;">
 <table id="id01" class="w3-table-all w3-hoverable">
@@ -43,7 +43,7 @@
 
     <td>{{.Params.eval}}</td>
     <td>{{ .Params.session }}</td>
-    <td>{{.Params.price}}</td>
+    <td>{{.Params.prices}}</td>
 
 
     <td>{{ .Date.Format "2006/01/02" }}</td>

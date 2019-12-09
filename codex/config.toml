@@ -2,6 +2,7 @@ baseurl = "https://codexdelamarca.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en" # en / zh-CN / ... (This field determines which i18n file to use)
 
+
 theme = "codex"
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
@@ -36,7 +37,7 @@ contentDir = "content/es"
 
 [[languages.en.menu.main]]
     name = "Inicio"
-    url = "//"
+    url = "/"
     weight = 1
 
 [[languages.en.menu.main]]
@@ -52,7 +53,7 @@ contentDir = "content/es"
     url = "/tags/"
     weight = 4
 [[languages.en.menu.main]]
-    name = "Autores"
+    name = "Autoría"
     url = "/authors/"
     weight = 5
 

@@ -18,7 +18,7 @@ prices: gratis
 session: "1"
 mincharacters: "4"
 maxcharacters: "6"
-eval: canon
+eval: no oficial
 download: AELMDE_LaIslaRoja.pdf
 moreinfo: "https://lamarcadeleste.com"
 license: "CC BY-SA-NC"

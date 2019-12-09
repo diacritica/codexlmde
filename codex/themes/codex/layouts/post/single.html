@@ -38,7 +38,7 @@
               <ul class="adventure-info">
                   <li>
                       <img src="/assets/canon.png" alt="Evaluación canon">
-                      <span>Licencia</span>{{ .Params.license }}
+                      <span>{{ humanize .Params.eval }}</span>
                   </li>
                   <li>
                       <img src="/assets/level.png" alt="Nivel">
@@ -46,15 +46,15 @@
                   </li>
                   <li>
                       <img src="/assets/pj.png" alt="Personajes">
-                      <span>Personajes</span>2-4
+                      <span>Personajes</span>{{ .Params.mincharacters }}-{{ .Params.maxcharacters }}
                   </li>
                   <li>
                       <img src="/assets/sessions.png" alt="Numero de sesiones">
-                      <span>Sesiones</span>3
+                      <span>Sesiones</span>{{ .Params.session}}
                   </li>
                   <li>
                       <img src="/assets/price.png" alt="Precio">
-                      <span>Precio</span>10€
+                      <span>Precio</span>{{ .Params.prices }}
                   </li>
               </ul>
           </div>
@@ -68,7 +68,7 @@
       <div class="attachment-list">
         <div class="list-item">
             <img src="/assets/download.png" alt="Descarga">
-            <a href="/posts/downloads/{{ relURL . }}" target="_blank">Descarga</a>
+            <a href="/posts/downloads{{ relURL . }}" target="_blank">Descarga</a>
         </div>
      </div>
      {{ end }}
@@ -109,14 +109,15 @@
                  </li>
                  <li>
                      <img src="/assets/price.png" alt="Precio">
-                     <span>Más info</span>
+                     <span>
                        {{ with .Params.moreinfo }}
                          <a href="{{ . }}" alt="Más información">Más info</a>
-                         {{ end }}
+                         {{ end }}</span>
                  </li>
              </ul>
          </div>
 
+       </article>
 
 
     {{ if .Site.Params.relatedPosts }}
@@ -136,7 +137,6 @@
     {{ end }}
     {{ end }}
     <br>
-
 
 <!-- Author and License -->
       <!-- Post Pagination -->

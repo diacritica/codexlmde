@@ -14,11 +14,11 @@ tags:
 - test
 minlevels: "5"
 maxlevels: "8"
-prices: 10€
+prices: <10€
 session: "3"
 mincharacters: "3"
 maxcharacters: "5"
-eval: canon
+eval: oficial
 cover: laciudadperdidadegaran.jpg
 download: laciudadperdidadegaran.pdf
 moreinfo: "https://lamarcadeleste.com"

@@ -1,18 +1,29 @@
 {{ define "main" -}}
 
-  
-   
-    <!-- Content -->
-    <div class="w3-container w3-card-4">
-      {{ .Content }}
+
+ <!-- TOC
+    {{ if and (ge (len .TableOfContents) 100) (ne .Params.toc "false")  }}
+
+      <div id="toc" class="w3-dropdown-hover w3-hide-small w3-hide-medium">
+        <button class="w3-button w3-teal w3-xlarge">&#9776;</button>
+        <div class="w3-dropdown-content w3-bar-block w3-border" style="right:0">
+          <h3 class="w3-center">{{T "toc"}} </h3>
+            {{.TableOfContents}}
+        </div>
+      </div>
+    {{ end }}
+
+-->
+
+<article class="post-content post tag-aventura">
+
+    <header class="post-content-header">
+        <h1 class="post-content-title">{{ .Title }}</h1>
+    </header>
+
+    <div class="post-content-body">
+     {{.Content}}
     </div>
-
-    
-  
-  
-
 
 
 {{- end }}
-
-
