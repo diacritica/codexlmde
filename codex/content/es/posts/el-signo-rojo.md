@@ -8,8 +8,9 @@ type: post
 categories:
 - Comunidad
 tags:
-- Misión
-- Robleda
+- misión
+- robleda
+- oneshot
 minlevels: "2"
 maxlevels: "4"
 prices: gratis

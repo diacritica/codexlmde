@@ -10,6 +10,7 @@ categories:
 - Clásicos de la Marca
 tags:
 - dungeon
+- oneshot
 minlevels: "1"
 maxlevels: "3"
 prices: gratis

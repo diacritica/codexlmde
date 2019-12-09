@@ -3,7 +3,6 @@ title: En busca de la ciudad perdida de Garan
 summary: Un gran misterio aguarda en lo más profundo de las junglas de Cirinea, la legendaria ciudad perdida de Garan.
 authors:
   - Carlos de la Cruz
-  - Otra autora
 date: 2019-12-08
 type: post
 categories:
@@ -21,7 +20,7 @@ maxcharacters: "5"
 eval: oficial
 cover: laciudadperdidadegaran.jpg
 download: laciudadperdidadegaran.pdf
-moreinfo: "https://lamarcadeleste.com"
+moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
 license: "OGL"
 draft: false
 

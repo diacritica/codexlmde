@@ -8,9 +8,10 @@ type: post
 categories:
 - Clásicos de la Marca
 tags:
-- Marítima
-- Isla
-- Piratas
+- marítima
+- isla
+- piratas
+- oneshot
 minlevels: "4"
 maxlevels: "6"
 prices: <10€
