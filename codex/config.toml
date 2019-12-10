@@ -20,6 +20,14 @@ hasCJKLanguage = true # has chinese/japanese/korean ?
   eval = "evals"
   author = "authors"
 
+[related]
+    threshold = 8
+    includeNewer = true
+    toLower = true
+    [[indices]]
+    name = "tags"
+    weight = 100
+
 [markup.goldmark.renderer]
 unsafe= true
 [languages.en]

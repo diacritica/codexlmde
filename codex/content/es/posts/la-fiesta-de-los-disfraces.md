@@ -15,14 +15,14 @@ tags:
 - intriga
 minlevels: "7"
 maxlevels: "10"
-prices: gratis
+prices: 10€
 session: "2"
 mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
 cover: fiestadisfraces.jpg
-download: 
-moreinfo: "https://lamarcadeleste.com/la-caja-verde"
+download:
+moreinfo: "https://www.holocubierta.com/market/marketview/rpggames/lme-cajaverde-5-detail"
 license: "CC BY-SA-NC"
 draft: false
 

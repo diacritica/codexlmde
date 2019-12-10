@@ -12,7 +12,6 @@ categories:
 tags:
 - isla
 - oneshot
-- test
 minlevels: "6"
 maxlevels: "8"
 prices: gratis

@@ -12,7 +12,7 @@ tags:
 - dungeon
 minlevels: "5"
 maxlevels: "6"
-prices: <10€
+prices: gratis
 session: "2"
 mincharacters: "4"
 maxcharacters: "6"

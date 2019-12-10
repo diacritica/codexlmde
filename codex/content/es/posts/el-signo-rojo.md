@@ -21,7 +21,7 @@ eval: no oficial
 cover: elsignorojo.jpg
 download: "el signo rojo.pdf"
 moreinfo: "http://elroleroinocente.blogspot.com/2014/07/la-marca-del-este-simple-pero-eficaz.html"
-license: "Todos reservados"
+license: "Todos los derechos reservados"
 draft: false
 
 ---

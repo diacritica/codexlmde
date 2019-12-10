@@ -10,10 +10,9 @@ categories:
 tags:
 - selva
 - mortal
-- test
 minlevels: "5"
 maxlevels: "8"
-prices: <10€
+prices: gratis
 session: "3"
 mincharacters: "3"
 maxcharacters: "5"

@@ -14,7 +14,7 @@ tags:
 - oneshot
 minlevels: "4"
 maxlevels: "6"
-prices: <10€
+prices: gratis
 session: "1"
 mincharacters: "4"
 maxcharacters: "6"

@@ -12,7 +12,7 @@ tags:
 - competición
 minlevels: "5"
 maxlevels: "7"
-prices: <10€
+prices: gratis
 session: "3"
 mincharacters: "3"
 maxcharacters: "6"
