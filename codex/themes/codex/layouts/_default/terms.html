@@ -13,7 +13,7 @@
       <div class="w3-container  w3-section w3-center">
         {{ range $key, $value := $terms }}
           <a  href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
-          	<button class="w3-btn w3-round w3-green w3-section">
+          	<button class="tag">
           	 {{ $value.Term }}
 			<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
 			</button>
@@ -89,7 +89,7 @@
             <div class="w3-container w3-center">
               {{ range $key, $value := $terms }}
                 <a href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
-                  <button class="w3-btn w3-round w3-green w3-section">
+                  <button class="tag">
                 	 {{ $value.Term }}
       		<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
       			</button>

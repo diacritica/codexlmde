@@ -398,3 +398,24 @@ position: fixed;
     margin-right:auto;
     
 }
+
+.w3-btn {
+  margin: 0 5px !important;
+}
+
+.tag {
+  background-color: #ffffff !important;
+  border-radius: 4px;
+  border: 1px solid #c1c1c1 !important;
+  color: #000;
+  font-family: 'Libre Baskerville', serif;
+  padding: 15px 20px !important;
+  font-size: 18px;
+  margin-bottom: 20px;
+  transition: all ease .3s;
+}
+
+.tag:hover {
+  box-shadow: 0px 10px 26px rgba(0,0,0, 0.4);
+  transform: translateY(-5px);
+}
