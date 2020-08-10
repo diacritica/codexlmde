@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on </title>
+    <link>https://test.codexdelamarca.com/mincharacters/2/</link>
+    <description>Recent content in 2 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/mincharacters/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Santuario olvidado</title>
+      <link>https://test.codexdelamarca.com/posts/el-santuario-olvidado/</link>
+      <pubDate>Sun, 31 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-santuario-olvidado/</guid>
+      <description>Una aventura de una sola sesión que transcurre fundamentalmente en un pequeño pueblo. Perfecto para introducir a nuevos jugadores en el rol.
+Nota del autor: Lo que tienes frente a tus ojos es mi primera aventura adaptada a la marca del este pensadas para nivele 3. Esta aventura tiene un enorme valor sentimental por que fue la primera aventura que diseñe ahora ya hace 16 años y la he dirigido 4 veces desde entonces y ha sido la más recordada por todos los jugadores que la jugaron en mis orígenes roleros.</description>
+    </item>
+    
+    <item>
+      <title>La caída de los justos</title>
+      <link>https://test.codexdelamarca.com/posts/la-caida-de-los-justos/</link>
+      <pubDate>Wed, 26 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-caida-de-los-justos/</guid>
+      <description>Un asesinato, una amenaza de muerte en Robleda y una búsqueda contrarreloj para descubrir quién se esconde tras estos ataques</description>
+    </item>
+    
+  </channel>
+</rss>

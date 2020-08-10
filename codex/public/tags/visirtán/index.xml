@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visirtán on </title>
+    <link>https://test.codexdelamarca.com/tags/visirt%C3%A1n/</link>
+    <description>Recent content in Visirtán on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 May 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/visirt%C3%A1n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Cripta de las Sombras (nivel 1)</title>
+      <link>https://test.codexdelamarca.com/posts/la-cripta-de-las-sombras-niv1/</link>
+      <pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-cripta-de-las-sombras-niv1/</guid>
+      <description>Se dice que en sus profundidades plagadas de trampas y criaturas de todo tipo hay infinitos tesoros, objetos de poder y, según algunos cuentan, el mismo secreto de la inmortalidad</description>
+    </item>
+    
+  </channel>
+</rss>

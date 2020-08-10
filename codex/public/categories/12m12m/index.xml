@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>12M12M on </title>
+    <link>https://test.codexdelamarca.com/categories/12m12m/</link>
+    <description>Recent content in 12M12M on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/categories/12m12m/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La isla roja</title>
+      <link>https://test.codexdelamarca.com/posts/la-isla-roja/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-isla-roja/</guid>
+      <description>Cuando todos esperan un despertar tranquilo, lo que obtienen en su lugar es sus cuerpos tendidos en la áspera arena de una playa rojiza de una isla que desconocen.</description>
+    </item>
+    
+  </channel>
+</rss>

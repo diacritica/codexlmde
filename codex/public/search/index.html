@@ -1,0 +1,196 @@
+<?php
+  $q = '';
+  if (isset($_GET['q']) && $_GET['q'] != '') {
+  
+  $q =$_GET['q'];
+} 
+  
+ 
+  $manticore = new mysqli("127.0.0.1", "", "", "", 9306);
+  $q=$manticore->real_escape_string($q);
+  $sphinxQl="SELECT * ,SNIPPET(content,'".$q."','limit=200') as snippet FROM hugo WHERE MATCH('".$q."')";
+  $result = $manticore->query($sphinxQl);
+  
+ 
+  ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta http-equiv="Cache-Control" content="public" />
+
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.60.1" />
+
+    
+    
+    
+
+<title>Search • Codex de la Marca</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Search"/>
+<meta name="twitter:description" content="Manticore Search "/>
+
+<meta property="og:title" content="Search" />
+<meta property="og:description" content="Manticore Search " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://test.codexdelamarca.com/search/" />
+<meta property="og:site_name" content="Codex de la Marca" />
+
+
+
+<link rel="canonical" href="https://test.codexdelamarca.com/search/" />
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allerta+Stencil">
+
+<link rel="stylesheet" href="/css/style.css" />
+<link rel="stylesheet" href="/css/w3.css" />
+
+
+<link rel="stylesheet" href="/css/adventure.css" />
+<link rel="stylesheet" href="/css/global.css" />
+<link rel="stylesheet" href="/css/lists.css" />
+<link rel="stylesheet" href="/css/screen.css" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+</head>
+<body class="post-template">
+<div class="site-wrapper">
+
+
+    <header class="site-head">
+      <div class="w3-container w3-center w3-padding-32 w3-hide-small"> 
+        <h1 class="w3-xxxlarge w3-text-blue w3-wide w3-allerta  glow " style="text-shadow:1px 1px 0 #444" ><u>
+        
+           Codex de la Marca
+        
+  </u></h1>
+        
+  </div>
+  <div class="w3-content w3-center">
+      <div class="w3-bar w3-light-grey w3-border w3-padding">
+        <a href="/" class="w3-bar-item w3-button w3-large w3-green w3-mobile"><i class="fa fa-home"></i></a>
+        <input id="searchinput" name="search" type="text" style="width: 600px;" class="w3-bar-item w3-input w3-white w3-mobile" placeholder="Search.." value="<?php echo  $q;?>">
+        <button type="button" onclick="gosearch()" class="w3-bar-item w3-button w3-green w3-mobile">Go</button>
+      </div>
+
+     
+  </div>
+<script>
+var input = document.getElementById("searchinput");
+input.addEventListener("keyup", function(event) {
+    event.preventDefault();
+    if (event.keyCode === 13) {
+        gosearch();
+    }
+});
+</script>
+  <script>
+function gosearch() {
+    var x;
+
+    
+    x = document.getElementById("searchinput").value;
+
+    window.location.replace("https://jesselau.com/q/"+x);
+}
+</script>
+    </header>
+
+
+    <main id="site-main" class="site-main">
+        <div id="swup" class="transition-fade">
+            <?php
+  if ($q<>'')
+   {
+    ?>
+
+ <div id="searchresult" class="w3-content w3-card-4" >
+  <?php
+  if (mysqli_num_rows($result)==0)
+  { 
+  	?>
+  	<div class="w3-panel w3-pale-yellow w3-display-container">
+	  <span onclick="this.parentElement.style.display='none'"
+	  class="w3-button w3-large w3-display-topright">&times;</span>
+	  <h3>No Results!</h3>
+	  <p>There are no posts about <b><?php echo $q;?> </b>. Please try another keywords.</p>
+	</div>
+  <?php
+   }
+   else
+   {
+    foreach($result as $row)
+    {
+      ?>
+      <div class ="w3-container" >
+      <div class="w3-panel  w3-card-2"  >
+          <div class="w3-container">
+            <h4> <a href="<?php echo  $row['link'];?>" > <?php echo $row['title'];?>  </a></h4>
+          </div>
+
+          <div class="w3-container">
+            <p> <?php echo strip_tags($row['snippet'],'<b>');?>  </p>
+          </div>
+
+         
+        </div>
+        
+       </div>
+    <?php
+     
+    }
+}
+    ?>
+  
+</div>
+<?php
+}
+?>
+        </div>
+        <div class="w3-container w3-center w3-padding-32"> 
+	  
+	  <p>Search function is powered by <a href="https://manticoresearch.com/">Manticoresearch</a> |  <a href="https://jesselau.com/tags/manticore/">tutorials Here</a>
+	  </p>
+	  
+	</div>
+    </main>
+
+    <footer class="site-foot">
+        &copy; 2019 <a href="https://codexdelamarca.com">Codex de la Marca</a> &mdash; Publicado con <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>
+    </footer>
+
+  </div>
+
+
+
+</body>
+</html>

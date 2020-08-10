@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bester Brainstormer on </title>
+    <link>https://test.codexdelamarca.com/authors/bester-brainstormer/</link>
+    <description>Recent content in Bester Brainstormer on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/authors/bester-brainstormer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La montaña soberana</title>
+      <link>https://test.codexdelamarca.com/posts/la-monta%C3%B1a-soberana/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-monta%C3%B1a-soberana/</guid>
+      <description>Un megadungeon a la vieja usanza, donde los jugadores podrán explorar el interior de una montaña con múltiples niveles de mazmorras por recorrer, rebosantes de aventura, criaturas extrañas, reliquias, magia y objetos de poder. La campaña es fácilmente adaptable a las reglas de Aventuras en la Marca del Este.</description>
+    </item>
+    
+  </channel>
+</rss>

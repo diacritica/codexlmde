@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxcharacters on </title>
+    <link>https://test.codexdelamarca.com/maxcharacters/</link>
+    <description>Recent content in Maxcharacters on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/maxcharacters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4</title>
+      <link>https://test.codexdelamarca.com/maxcharacters/4/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/maxcharacters/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>https://test.codexdelamarca.com/maxcharacters/6/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/maxcharacters/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://test.codexdelamarca.com/maxcharacters/5/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/maxcharacters/5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

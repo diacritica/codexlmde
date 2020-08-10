@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>torre on </title>
+    <link>https://test.codexdelamarca.com/tags/torre/</link>
+    <description>Recent content in torre on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/torre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Legado Perdido</title>
+      <link>https://test.codexdelamarca.com/posts/el-legado-perdido/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-legado-perdido/</guid>
+      <description>Hace décadas que los pescadores de Aguasmuertas atrapan algo más que peces cuando salen a faenar al pantano que moja sus orillas. A pesar de los años transcurridos desde la guerra de la reina loca, los cadáveres siguen apareciendo en el agua estancada, muchos de ellos animados por una vil nigromancia que les niega la paz de la muerte.</description>
+    </item>
+    
+    <item>
+      <title>La torre dimensional</title>
+      <link>https://test.codexdelamarca.com/posts/la-torre-dimensional/</link>
+      <pubDate>Mon, 11 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-torre-dimensional/</guid>
+      <description>Era entonces cuando la magia recorría el mundo material haciendo de ella su hogar, permitiendo a los humanos usarla a su antojo, en pos del crecimiento, del saber y del bienestar</description>
+    </item>
+    
+  </channel>
+</rss>

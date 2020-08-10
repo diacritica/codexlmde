@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>misión on </title>
+    <link>https://test.codexdelamarca.com/tags/misi%C3%B3n/</link>
+    <description>Recent content in misión on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/misi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Signo Rojo</title>
+      <link>https://test.codexdelamarca.com/posts/el-signo-rojo/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-signo-rojo/</guid>
+      <description>Un niño elegido para evitar una catástrofe, una sociedad secreta con la misión de evitar esta catástrofe, un paladín caído deseando recuperar el favor de su dios&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Por unas tinajas de miel</title>
+      <link>https://test.codexdelamarca.com/posts/por-unas-tinajas-de-miel/</link>
+      <pubDate>Fri, 11 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/por-unas-tinajas-de-miel/</guid>
+      <description>La aventura comienza con los personajes siendo contratados por Vestor, un mercader de Robleda que tiene un importante encargo de miel en Alameda</description>
+    </item>
+    
+    <item>
+      <title>El oro de las quebradas</title>
+      <link>https://test.codexdelamarca.com/posts/el-oro-de-las-quebradas/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-oro-de-las-quebradas/</guid>
+      <description>Tomilí avanzaba despacio por el bosque, mientras maldecía su suerte por nacer minero “si fuera pescador esto no me ocurría, y además vendría lavado del mar&amp;hellip;”</description>
+    </item>
+    
+    <item>
+      <title>Hojas gemelas</title>
+      <link>https://test.codexdelamarca.com/posts/hojas-gemelas/</link>
+      <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/hojas-gemelas/</guid>
+      <description>En las recientemente creadas aldeas de Fuente Blanca y Fuente Roja, una joven semielfa ha desaparecido.</description>
+    </item>
+    
+  </channel>
+</rss>

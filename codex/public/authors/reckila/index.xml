@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reckila on </title>
+    <link>https://test.codexdelamarca.com/authors/reckila/</link>
+    <description>Recent content in Reckila on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/authors/reckila/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El oro de las quebradas</title>
+      <link>https://test.codexdelamarca.com/posts/el-oro-de-las-quebradas/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-oro-de-las-quebradas/</guid>
+      <description>Tomilí avanzaba despacio por el bosque, mientras maldecía su suerte por nacer minero “si fuera pescador esto no me ocurría, y además vendría lavado del mar&amp;hellip;”</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on </title>
+    <link>https://test.codexdelamarca.com/minlevels/7/</link>
+    <description>Recent content in 7 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/minlevels/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La fiesta de los disfraces</title>
+      <link>https://test.codexdelamarca.com/posts/la-fiesta-de-los-disfraces/</link>
+      <pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-fiesta-de-los-disfraces/</guid>
+      <description>Una misiva llega por separado a nuestros héroes, citándolos en el Palacio Mecerreyes de Décimo Fabio Píctor, Conde de Mantoverde, al oeste de Marvalar. ¿Una fiesta de disfraces?</description>
+    </item>
+    
+  </channel>
+</rss>

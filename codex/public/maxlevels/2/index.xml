@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on </title>
+    <link>https://test.codexdelamarca.com/maxlevels/2/</link>
+    <description>Recent content in 2 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/maxlevels/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Legado Perdido</title>
+      <link>https://test.codexdelamarca.com/posts/el-legado-perdido/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-legado-perdido/</guid>
+      <description>Hace décadas que los pescadores de Aguasmuertas atrapan algo más que peces cuando salen a faenar al pantano que moja sus orillas. A pesar de los años transcurridos desde la guerra de la reina loca, los cadáveres siguen apareciendo en el agua estancada, muchos de ellos animados por una vil nigromancia que les niega la paz de la muerte.</description>
+    </item>
+    
+    <item>
+      <title>El tesoro del Torreón Negro</title>
+      <link>https://test.codexdelamarca.com/posts/el-tesoro-del-torreon-negro/</link>
+      <pubDate>Fri, 11 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-tesoro-del-torreon-negro/</guid>
+      <description>Una aventura para Aventuras en la Marca del Este, escrita por José Francisco Riera, en la que un abandonado torreón resultará no estar tan abandonado.</description>
+    </item>
+    
+    <item>
+      <title>La caída de los justos</title>
+      <link>https://test.codexdelamarca.com/posts/la-caida-de-los-justos/</link>
+      <pubDate>Wed, 26 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-caida-de-los-justos/</guid>
+      <description>Un asesinato, una amenaza de muerte en Robleda y una búsqueda contrarreloj para descubrir quién se esconde tras estos ataques</description>
+    </item>
+    
+  </channel>
+</rss>

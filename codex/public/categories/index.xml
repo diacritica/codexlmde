@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://test.codexdelamarca.com/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crónicas Olvidadas</title>
+      <link>https://test.codexdelamarca.com/categories/cr%C3%B3nicas-olvidadas/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/categories/cr%C3%B3nicas-olvidadas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clásicos de la Marca</title>
+      <link>https://test.codexdelamarca.com/categories/cl%C3%A1sicos-de-la-marca/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/categories/cl%C3%A1sicos-de-la-marca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12M12M</title>
+      <link>https://test.codexdelamarca.com/categories/12m12m/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/categories/12m12m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comunidad</title>
+      <link>https://test.codexdelamarca.com/categories/comunidad/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/categories/comunidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cajas oficiales</title>
+      <link>https://test.codexdelamarca.com/categories/cajas-oficiales/</link>
+      <pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/categories/cajas-oficiales/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
