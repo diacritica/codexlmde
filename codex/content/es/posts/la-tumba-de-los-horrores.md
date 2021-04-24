@@ -1,5 +1,5 @@
 ---
-*title: La Tumba de los Horrores
+title: La Tumba de los Horrores
 summary: Una obra maestra del roleo de Dungeons.
 Una autentica prueba, para novatos y expertos.
 Un lugar de pesadilla y de poder.
