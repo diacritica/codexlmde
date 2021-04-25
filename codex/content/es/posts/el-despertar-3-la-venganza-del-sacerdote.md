@@ -1,7 +1,6 @@
 ---
 title: La Venganza del Sacerdote (El Despertar 3)
 summary: Un antiguo mal ha despertado y sólo vosotros conocéis la verdad y puede que seáis los únicos capaces de impedirlo. El destino del mundo queda en vuestras manos… y si lográis salvarlo y sobrevivir, tal vez se os recompense como es debido.
-
 authors:
   - José Torrano "Norak"
 date: 2014-12-12
@@ -15,7 +14,7 @@ tags:
 minlevels: "14"
 maxlevels: "+"
 prices: gratis
-session: "5-6"
+session: "5"
 mincharacters: "3"
 maxcharacters: "6"
 eval: no oficial

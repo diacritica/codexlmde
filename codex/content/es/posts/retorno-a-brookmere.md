@@ -2,7 +2,8 @@
 title: Retorno a Brookmere
 summary: Hace mucho, en los tiempos de la Gran Hambruna, los Trasgos, Orcos y otros monstruos llegados de las lejanas Tierras Heladas cayeron sobre Brookmere en busca de comida y tesoros, destruyendo todo lo que encontraron a su paso, incluido el castillo.
 authors:
-  - Domingo Serrano, Rose Estes
+  - Domingo Serrano
+  - Rose Estes
 date: 2011-10-24
 type: post
 categories:
@@ -18,8 +19,8 @@ session: "2"
 mincharacters: "3"
 maxcharacters: "4"
 eval: no oficial
-cover: "retorno-a brookmere.jpg"
-download: "retorno-a brookmere.pdf"
+cover: "retorno-a-brookmere.jpg"
+download: "retorno-a-brookmere.pdf"
 moreinfo: "https://lamarcadeleste.com/2011/10/retorno-brookmere-ya-disponible.html"
 license: Attribution Non-Commercial (BY-NC)
 draft: false

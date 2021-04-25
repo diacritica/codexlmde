@@ -3,7 +3,7 @@ title: La aldea asolada por la muerte H1
 summary: En una apacible aldea, la Muerte camina entre los vivos. Solo un grupo de aguerridos aventureros será capaz de enfrentarse a los muertos cuando éstos decidan alzarse contra quienes aún siguen en pie.
 authors:
   - Héctor Prieto de la Calle
-date:
+date: 2018-04-01
 type: post
 categories:
 - Linea H
@@ -17,7 +17,7 @@ prices: gratis
 session: "2"
 mincharacters: "3"
 maxcharacters: "5"
-eval:  No oficial
+eval: no oficial
 cover: "laaldeaasoladaporlamuerte.jpg"
 download: "laaldeaasoladaporlamuerte.pdf"
 moreinfo: "https://labibliotecadelcalamar.blogspot.com/2018/04/modulo-h1-la-aldea-asolada-por-la-muerte.html"

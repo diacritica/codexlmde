@@ -1,10 +1,9 @@
 ﻿---
 title: Nuestros hermanos caídos en batalla H3
-
 summary: Cuando un ejército de muertos vivientes se levanta para acabar con toda vida en la Marca, solo un secreto guardado por la Reina Vigdis II podrá evitar el temible final que nos aguarda.
 authors:
   - Héctor Prieto de la Calle
-date:
+date: 2018-07-01
 type: post
 categories:
 - Linea H
@@ -17,7 +16,7 @@ prices: gratis
 session: "2"
 mincharacters: "3"
 maxcharacters: "5"
-eval:  No oficial
+eval: no oficial
 cover: "nuestroshermanoscaidosenbatalla.jpg"
 download: "nuestroshermanoscaidosenbatalla.pdf"
 moreinfo: "https://labibliotecadelcalamar.blogspot.com/2018/07/modulo-h3-nuestros-hermanos-caidos-en.html"

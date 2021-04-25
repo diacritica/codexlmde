@@ -16,7 +16,7 @@ tags:
 minlevels: "1"
 maxlevels: "5"
 prices: gratis
-session: "1-2"
+session: "2"
 mincharacters: "1"
 maxcharacters: "5"
 eval: oficial
