@@ -1,9 +1,6 @@
 ---
 title: ¡Traición!
-summary: Aventura para “La Marca del Este” previsto para un grupo de 5-7 Aventureros de niveles 1-3.
-Creada por Luis Estrés en 1985, con la colaboración de Miguel A. Díaz y Endika Garmendía, con mapas de Montse
-Lombarte. Rescatado del olvido y adaptado para Aventuras a la Marca del Este por Ricard Ibáñez, que en su día disfrutó la aventura.
-Maquetado por El contemplador (Víctor Velázquez)
+summary: Aventura de iniciación ideal. Creada en 1985 para presentar la primera edición de Dungeons and Dragons y adaptada para Aventuras en la Marca del Este por Ricard Ibáñez.
 authors:
   - Luis Estrés
   - Ricard Ibáñez

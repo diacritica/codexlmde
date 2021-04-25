@@ -1,12 +1,6 @@
 ---
 title: La Tumba de los Horrores
-summary: Una obra maestra del roleo de Dungeons.
-Una autentica prueba, para novatos y expertos.
-Un lugar de pesadilla y de poder.
-La muerte en cada esquina.
-La tumba de los horrores...
-
-¡La asesina de aventureros!
+summary: Una mítica obra maestra del roleo de Dungeons. Una autentica prueba, para novatos y expertos. Un lugar de pesadilla y de poder. La muerte en cada esquina.
 authors:
   - Gary Gygax
   - El contemplador (Víctor Velázquez)
