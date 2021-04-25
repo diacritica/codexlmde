@@ -85,10 +85,12 @@
                        {{ end }}
                        {{ end }}
                  </li>
+                 {{ if .Params.date }}
                  <li>
                      <img src="/assets/level.png" alt="Nivel">
                      <span>Publicada</span>{{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
                  </li>
+                 {{- end }}
                  <li>
                      <img src="/assets/pj.png" alt="Personajes">
                      <span>Líneas</span>
