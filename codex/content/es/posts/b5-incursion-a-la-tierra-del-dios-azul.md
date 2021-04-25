@@ -3,7 +3,7 @@ title: Incursión a la Tierra del Dios Azul
 summary: Una estrella ha caído en el corazón de las estepas de las Tierras Nómadas y de ella ha empezado a extenderse una extraña jungla de hojas azules. Los animales mutan en sus cercanías, el cielo nocturno se llena de portentos y la gente tiene sueños y profecías nefandas.
 authors:
   - José Carlos “Kha” Domínguez
-date: 2021-04-25
+date: 2018-06-15
 type: post
 categories:
 - Clásicos de la Marca
@@ -21,8 +21,8 @@ session: "3"
 mincharacters: "4"
 maxcharacters: "5"
 eval: oficial
-cover: incursion-a-la-tierra-del-dios-azul.jpg
-download: incursion-a-la-tierra-del-dios-azul.pdf
+cover: b5-incursion-a-la-tierra-del-dios-azul.jpg
+download: b5-incursion-a-la-tierra-del-dios-azul.pdf
 moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
 license: "OGL"
 draft: false
