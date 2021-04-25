@@ -1,5 +1,6 @@
 ﻿---
-title: El ultimo caballero de la orden escarlata H2
+title: El último caballero de la orden escarlata H2
+
 summary: Una reliquia maldita está haciendo que criaturas malignas deambulen por nuestro mundo, trayendo consigo el caos y la muerte que su señor, Penumbra, les ha ordenado. Un caballero, el último de su Orden, ha jurado acabar con ese Mal y para ello, ayudado por los aventureros, se adentrará en la tumba que debía custodiar la reliquia.
 authors:
   - Héctor Prieto de la Calle
