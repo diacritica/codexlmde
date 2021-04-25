@@ -16,6 +16,7 @@ session: "2"
 mincharacters: "4"
 maxcharacters: "6"
 eval: no oficial
+cover: "senderos-en-la-nieve.jpg"
 download: "Senderos en la Nieve.pdf"
 moreinfo: "http://el-contemplador.blogspot.com/2011/11/nueva-aventura-para-la-marca-del-este.html"
 draft: false
