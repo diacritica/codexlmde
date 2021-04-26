@@ -35,7 +35,8 @@
       <!-- Metadata -->
 
       <div class="adventure-box">
-              <ul class="adventure-info">
+         <div class="adventure-info">
+              <ul>
                   <li>
                       <img src="/assets/canon.png" alt="Evaluación canon">
                       <span>{{ humanize .Params.eval }}</span>
@@ -58,6 +59,7 @@
                   </li>
               </ul>
           </div>
+        </div>
 
       <!-- Content -->
       <div class="post-content-body">
@@ -75,7 +77,8 @@
 
 
      <div class="adventure-box">
-             <ul class="adventure-info">
+       <div class="adventure-info">
+             <ul>
                  <li>
                      <img src="/assets/canon.png" alt="Evaluación canon">
                      <span>Autoría</span>
@@ -99,6 +102,15 @@
                        {{ end }}
                  </li>
                  <li>
+                     <img src="/assets/price.png" alt="Precio">
+                     <span>
+                       {{ with .Params.moreinfo }}
+                         <a href="{{ . }}" alt="Más información">Más info</a>
+                         {{ end }}</span>
+                 </li>
+             </ul>
+             <ul>
+                 <li>
                      <img src="/assets/sessions.png" alt="Numero de sesiones">
                      <span>Tags</span>
                      {{ with .Params.tags -}}
@@ -106,13 +118,6 @@
                        <a class="w3-btn w3-small w3-round w3-green" href="{{ "tags" | relLangURL }}/{{ . | urlize }}/">{{ . }}</a>
                        {{ end }}
                     {{- end }}
-                 </li>
-                 <li>
-                     <img src="/assets/price.png" alt="Precio">
-                     <span>
-                       {{ with .Params.moreinfo }}
-                         <a href="{{ . }}" alt="Más información">Más info</a>
-                         {{ end }}</span>
                  </li>
              </ul>
          </div>
