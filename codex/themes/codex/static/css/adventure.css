@@ -41,6 +41,10 @@
     width: 34px;
 }
 
+.adventure-info li.tabs {
+    margin: auto;
+}
+
 @media (max-width: 700px) {
     .adventure-info {
         align-items: flex-start;
