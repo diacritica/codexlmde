@@ -7,8 +7,9 @@ date: 2012-03-26
 type: post
 categories:
 - Comunidad
-tags:
 - Trilogía de la Orden del Libro
+tags:
+- oneshot
 minlevels: "3"
 maxlevels: "4"
 prices: gratis
