@@ -10,7 +10,7 @@ categories:
 tags:
 - experto
 minlevels: "10"
-maxlevels: "*"
+maxlevels: "10"
 prices: gratis
 session: "4"
 mincharacters: "4"

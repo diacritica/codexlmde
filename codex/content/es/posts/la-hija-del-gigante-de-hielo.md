@@ -10,7 +10,7 @@ categories:
 tags:
   - oneshot
 minlevels: "2"
-maxlevels: "*"
+maxlevels: "2"
 prices: gratis
 session: "2"
 mincharacters: "2"
