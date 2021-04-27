@@ -16,8 +16,8 @@ session: "1-2"
 mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
-cover: "B10 - El túmulo perdido de Azgoz el testarudo.jpg"
-download: "B10 - El túmulo perdido de Azgoz el testarudo.pdf"
+cover: "el-tumulo-perdido-de-azgoz-el-testarudo.jpg"
+download: "el-tumulo-perdido-de-azgoz-el-testarudo.pdf"
 moreinfo: "http://www.codice.tk/modulo/El-túmulo-perdido-de-Azgoz-el-testarudo/"
 license: "OGL"
 draft: false
