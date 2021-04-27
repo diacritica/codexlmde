@@ -9,7 +9,7 @@
     width: 75vw;
 }
 
-ul.adventure-info {
+.adventure-info ul {
     align-items: center;
     border: 1px solid rgba(0,0,0, .2);
     display: flex;
@@ -18,7 +18,7 @@ ul.adventure-info {
     list-style: none;
 }
 
-ul.adventure-info li {
+.adventure-info li {
     align-items: center;
     display: flex;
     font-family: 'Libre Baskerville', serif;
@@ -27,19 +27,19 @@ ul.adventure-info li {
     padding: 0;
 }
 
-ul.adventure-info li span {
+.adventure-info li span {
     font-size: 1.5rem;
     font-weight: normal;
     margin-right: 10px;
 }
 
-ul.adventure-info li img {
+.adventure-info li img {
     margin-right: 10px;
     width: 34px;
 }
 
 @media (max-width: 700px) {
-    ul.adventure-info {
+    .adventure-info {
         align-items: flex-start;
         flex-direction: column;
     }
