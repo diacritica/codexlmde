@@ -1,5 +1,5 @@
 ---
-title: Incursión a la Tierra del Dios Azul
+title: B5 - Incursión a la Tierra del Dios Azul
 summary: Una estrella ha caído en el corazón de las estepas de las Tierras Nómadas y de ella ha empezado a extenderse una extraña jungla de hojas azules. Los animales mutan en sus cercanías, el cielo nocturno se llena de portentos y la gente tiene sueños y profecías nefandas.
 authors:
   - José Carlos “Kha” Domínguez
