@@ -9,9 +9,12 @@ type: post
 categories:
 - Trilogía de la Orden del Libro
 tags:
-- trilogia
-- campaña
-- robleda
+- perdón
+- venganza
+- demonio
+- grutas
+- templarios
+- portal
 minlevels: "5"
 maxlevels: "6"
 prices: 17 €

@@ -8,9 +8,11 @@ type: post
 categories:
 - Trilogía de la Orden del Libro
 tags:
-- trilogia
-- campaña
-- robleda
+- pantano
+- cementerio
+- cavernas
+- sandbox
+- dungeon
 minlevels: "3"
 maxlevels: "4"
 prices: 17 €

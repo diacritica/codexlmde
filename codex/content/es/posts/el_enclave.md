@@ -8,9 +8,11 @@ type: post
 categories:
 - Trilogía de la Orden del Libro
 tags:
-- trilogia
-- campaña
+- pantano
 - robleda
+- monasterio
+- tesoro
+- iniciación
 minlevels: "1"
 maxlevels: "3"
 prices: 17 €
