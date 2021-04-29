@@ -1,5 +1,5 @@
 ---
-title: TN3 - El corazon dela oscuridad.
+title: TN3 - El corazon de la oscuridad.
 summary: En las entrañas de Marvalar, oculta durante siglos por el paso del tiempo y la ignorancia, se halla una antiquísima y gigantesca mazmorra, llena de tesoros, hechizos y criaturas sin par. Nuestros personajes se verán involucrados en la exploración de este subterráneo a petición de la propia corona de Marvalar, alertada de la presencia del lugar por un súbito ataque sorpresa sobre la capital. En su recorrido por sus espantosas salas, descubrirán verdades terribles que nunca pensaron que llegarían a vislumbrar, no solo sobre el mundo al que tanto aman, sino también sobre si mismos.
 authors:
   - Diego Marqués Vega
