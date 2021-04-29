@@ -8,6 +8,7 @@ type: post
 categories:
 - El trono de niebla
 tags:
+- campaña
 - Iniciación
 - Castillo
 - Granero
