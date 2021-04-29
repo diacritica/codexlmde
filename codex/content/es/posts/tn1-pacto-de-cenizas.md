@@ -15,7 +15,7 @@ tags:
 - Conspiraciones
 minlevels: "2"
 maxlevels: "4"
-prices: 7 €
+prices: 7€
 session: "2"
 mincharacters: "3"
 maxcharacters: "4"
