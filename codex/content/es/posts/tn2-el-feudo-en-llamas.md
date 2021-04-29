@@ -16,7 +16,7 @@ tags:
 - Mansion
 minlevels: "3"
 maxlevels: "5"
-prices: 7 €
+prices: 7€
 session: "2"
 mincharacters: "4"
 maxcharacters: "5"
