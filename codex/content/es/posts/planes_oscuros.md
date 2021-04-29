@@ -8,6 +8,7 @@ type: post
 categories:
 - Trilogía de la Orden del Libro
 tags:
+- campaña
 - pantano
 - cementerio
 - cavernas
@@ -15,7 +16,7 @@ tags:
 - dungeon
 minlevels: "3"
 maxlevels: "4"
-prices: 17 €
+prices: 17€
 session: "5"
 mincharacters: "4"
 maxcharacters: "5"
