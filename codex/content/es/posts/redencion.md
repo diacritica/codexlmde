@@ -9,6 +9,7 @@ type: post
 categories:
 - Trilogía de la Orden del Libro
 tags:
+- campaña
 - perdón
 - venganza
 - demonio
@@ -17,7 +18,7 @@ tags:
 - portal
 minlevels: "5"
 maxlevels: "6"
-prices: 17 €
+prices: 17€
 session: "4"
 mincharacters: "4"
 maxcharacters: "5"
