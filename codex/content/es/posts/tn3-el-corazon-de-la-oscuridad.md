@@ -16,7 +16,7 @@ tags:
 - Marvalar
 minlevels: "4"
 maxlevels: "5"
-prices: 40 €
+prices: 40€
 session: "15"
 mincharacters: "4"
 maxcharacters: "5"
