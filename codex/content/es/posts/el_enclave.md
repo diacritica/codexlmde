@@ -8,6 +8,7 @@ type: post
 categories:
 - Trilogía de la Orden del Libro
 tags:
+- campaña
 - pantano
 - robleda
 - monasterio
@@ -32,5 +33,4 @@ Una simple charla puede comenzar a prender la mecha que enciende la ira de una d
 
 Un fatídico hecho en una triste noche, cambiará para siempre la vida de los personajes. La transformación del alineamiento tendrá lugar y el destino conducirá a los personajes a convertirse en aventureros. Estos deberían sobrevivir en algunos de los lugares más remotos e inhóspitos de La Marca del Este.
 
-El Enclave es la primera de las tres aventuras diseñadas para el juego básico de Aventuras en la Marca del Este. La aventura está diseñada para ser jugada por cuatro o cinco personajes de nivel 1-2 y en ella los aventureros deberían enfrentarse contra algunos de los más terribles monstruos que circundan la región del Gran Pantano.
-**El Enclave** es el primer volumen de la trilogía de la Orden del Libro. Se trata de una aventura diseñada para 4 o 5 personajes de nivel 1 o 2. Este producto no es un juego completo, requiere un ejemplar del juego de rol Aventuras en la Marca del Este.
+**El Enclave** es el primer volumen de la trilogía de la Orden del Libro. En esta aventura los aventureros deberían enfrentarse contra algunos de los más terribles monstruos que circundan la región del Gran Pantano. Se trata de una aventura diseñada para 4 o 5 personajes de nivel 1 o 2. Este producto no es un juego completo, requiere un ejemplar del juego de rol Aventuras en la Marca del Este.
