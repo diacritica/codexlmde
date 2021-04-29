@@ -15,7 +15,7 @@ tags:
 - iniciación
 minlevels: "1"
 maxlevels: "3"
-prices: 17 €
+prices: 17€
 session: "4"
 mincharacters: "4"
 maxcharacters: "5"
