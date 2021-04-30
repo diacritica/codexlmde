@@ -1,6 +1,6 @@
 ---
 title: CT1 - La lágrima de Zurâh
-summary: Hace muchas lunas losLeones del Desierto secuestraron al decimotercer hijo del emir. El legendario gobernante de Palmira ha enviado a sus mejores hombres para recuperar a su hijo, comandados por el valeroso general Usamah Al-Zafir. Juntos deberán seguir la pista de los secuestradores, recorriendo el mar de huesos de Eretria, arrostrando peligros ignotos mientras descubren ruinas de otrora sepultadas en las arenas del tiempo.
+summary: Hace muchas lunas los Leones del Desierto secuestraron al decimotercer hijo del emir. El legendario gobernante de Palmira ha enviado a sus mejores hombres para recuperar a su hijo, comandados por el valeroso general Usamah Al-Zafir. Juntos deberán seguir la pista de los secuestradores, recorriendo el mar de huesos de Eretria, arrostrando peligros ignotos mientras descubren ruinas de otrora sepultadas en las arenas del tiempo.
 authors:
   - Antonio Ramón Berbell Gonell
 date: 2020-10-12
