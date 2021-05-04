@@ -17,7 +17,7 @@ prices: 7,50€
 session: "2"
 mincharacters: "4"
 maxcharacters: "5"
-eval:  oficial
+eval: oficial
 cover: "lascuevasdelclanatronador.jpg"
 download:
 moreinfo: "https://tesorosdelamarca.com/producto/las-cuevas-del-clan-atronador/"
