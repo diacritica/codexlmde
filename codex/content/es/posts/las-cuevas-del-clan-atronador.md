@@ -8,7 +8,6 @@ type: post
 categories:
 - Linea B
 tags:
-- linea B
 - aventura
 - dungeon
 - iniciación
