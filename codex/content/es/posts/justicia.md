@@ -8,7 +8,6 @@ type: post
 categories:
 - Vermigor
 tags:
-- vermigor
 - misterio
 - investigacion
 minlevels: "1"
