@@ -13,7 +13,7 @@ tags:
 - sandbox
 minlevels: "6"
 maxlevels: "10"
-prices: 8€
+prices: Gratis
 session: "?"
 mincharacters: "5"
 maxcharacters: "6"
