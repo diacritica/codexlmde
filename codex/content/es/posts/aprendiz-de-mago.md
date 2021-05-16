@@ -19,7 +19,7 @@ mincharacters: "1"
 maxcharacters: "1"
 eval: no oficial
 cover: 
-download: 
+download: aprendiz-de-mago.pdf
 moreinfo: 
 license: "OGL"
 draft: false
