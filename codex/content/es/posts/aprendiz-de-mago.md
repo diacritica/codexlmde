@@ -9,6 +9,7 @@ categories:
 - Comunidad
 - Aventura de 1 jugador
 tags:
+- oneshot
 - mago
 - iniciación
 - flashback
