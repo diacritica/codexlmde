@@ -1,6 +1,6 @@
 ---
 title: El Legado de Mushasi
-summary: La vida de Miyamoto Mushasi ha sido tomada como inspiración de esta aventura y el diario que se menciona sería el libro el que más tarde se convertiría en el libro de los cinco anillos.
+summary: La vida de Miyamoto Mushasi ha sido tomada como inspiración de esta aventura y el diario que se menciona sería el libro que más tarde se convertiría en el libro de los cinco anillos.
 authors:
   - Alejandro García
 date: 2021-01-01
