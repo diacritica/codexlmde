@@ -6,6 +6,7 @@ authors:
 date: 2021-01-01
 type: post
 categories:
+- Comunidad
 - Aventura de 1 jugador
 tags:
 - mago
