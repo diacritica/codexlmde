@@ -7,6 +7,7 @@ authors:
 date: 2016-06-11
 type: post
 categories:
+- Clásicos
 - Vermigor
 tags:
 - aventura
