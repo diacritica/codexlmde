@@ -1,6 +1,7 @@
 ﻿---
 title: V1 - El Castillo Prohibido de la Reina de Sangre
-summary: El castillo de Varania tiene una nueva señora que ha traído el caos y el terror al valle de Galas y sus habitantes.Nunca antes una tierra había estado tan maldita y nunca antes un grupo de héroes había sido tan necesario. ¿Aceptarán los personajes el desafío? El Castillo Prohibido de La Reina de Sangre os espera
+summary: El castillo de Varania tiene una nueva señora que ha traído el caos y el terror al valle de Galas y sus habitantes. Nunca antes una tierra había estado tan maldita y nunca antes un grupo de héroes había sido tan necesario. ¿Aceptarán los personajes el desafío? El Castillo Prohibido de La Reina de Sangre os espera.
+
 authors:
   - José Manuel Palacios
 date: 2016-06-11
