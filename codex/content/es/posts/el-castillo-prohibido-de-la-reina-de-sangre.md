@@ -27,4 +27,4 @@ draft: false
 
 ---
 
-Nos encontramos ante un interesante sandbox lleno de misterios e intrigas, que no dejarán indiferentes a los jugadores. Un narrador experimentado puede hacer que sea este el inicio de una campaña en las tierras de Vermigor
+Nos encontramos ante un interesante sandbox lleno de misterios e intrigas, que no dejarán indiferentes a los jugadores. Un narrador experimentado puede hacer que sea este el inicio de una campaña en las tierras de Vermigor.
