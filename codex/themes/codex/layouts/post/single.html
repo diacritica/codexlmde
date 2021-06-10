@@ -43,11 +43,21 @@
                   </li>
                   <li>
                       <img src="/assets/level.png" alt="Nivel">
-                      <span>Nivel</span>{{ .Params.minlevels }}-{{ .Params.maxlevels }}
+                      <span>Nivel</span>
+                      {{ if (eq .Params.minlevels .Params.maxlevels)  }}
+                        {{ .Params.minlevels }}
+                      {{ else  }}
+                        {{ .Params.minlevels }}-{{ .Params.maxlevels }}
+                 	    {{- end }}
                   </li>
                   <li>
                       <img src="/assets/pj.png" alt="Personajes">
-                      <span>Personajes</span>{{ .Params.mincharacters }}-{{ .Params.maxcharacters }}
+                      <span>Personajes</span>
+                      {{ if (eq .Params.mincharacters .Params.maxcharacters)  }}
+                        {{ .Params.mincharacters }}
+                      {{ else  }}
+                        {{ .Params.mincharacters }}-{{ .Params.maxcharacters }}
+                 	    {{- end }}
                   </li>
                   <li>
                       <img src="/assets/sessions.png" alt="Numero de sesiones">
