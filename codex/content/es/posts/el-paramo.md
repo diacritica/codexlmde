@@ -20,7 +20,7 @@ maxcharacters: "6"
 eval: oficial
 cover: "el-paramo.jpg"
 download: "el-paramo.pdf"
-moreinfo: "https://holocubierta.com/descargas/rol/LME/rol-LME-ES-su-El_paramo.pdf"
+moreinfo: ""
 license: "OGL"
 draft: false
 
