@@ -25,6 +25,6 @@ draft: false
 
 ---
 
-Una aventura con cementerios? Evidentemente esto va a ser un problema para los pjs.
+¿Una aventura con cementerios? Evidentemente esto va a ser un problema para los pjs.
 Se presenta aqui una aventura rápida que se puede resolver en una sola sesión, o dos a lo sumo, si los aventureros empiezan a dar vueltas, y que es apta para hacer que los pjs puedan hacer una misión que les de algo de renombre y también, porque no decirlo, PX.
 Una aventura muy apta y entretenida con un buen nivel de dosis de acción e intriga.
