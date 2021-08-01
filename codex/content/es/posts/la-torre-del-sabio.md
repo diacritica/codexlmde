@@ -17,7 +17,7 @@ prices: gratis
 session: "1"
 mincharacters: "3"
 maxcharacters: "4"
-eval:  no oficial
+eval: no oficial
 cover: "la-torre-del-sabio.jpg"
 download: "la-torre-del-sabio.pdf"
 moreinfo: ""
