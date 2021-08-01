@@ -20,9 +20,9 @@ session: "1"
 mincharacters: "1"
 maxcharacters: "1"
 eval: no oficial
-cover: 
+cover: aprendiz-de-mago.jpg
 download: aprendiz-de-mago.pdf
-moreinfo: 
+moreinfo:
 license: "OGL"
 draft: false
 
