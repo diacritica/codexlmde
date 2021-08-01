@@ -17,7 +17,7 @@ prices: gratis
 session: "1"
 mincharacters: "4"
 maxcharacters: "5"
-eval: No oficial
+eval: no oficial
 cover: "rescate-en-torrealba.jpg"
 download: "rescate-en-torrealba.rar"
 moreinfo: "http://sinergiaderol.blogspot.com/2017/12/rescate-en-torrealba-aventura-para-la.html"
