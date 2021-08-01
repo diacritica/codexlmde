@@ -16,7 +16,7 @@ prices: gratis
 session: "2"
 mincharacters: "3"
 maxcharacters: "4"
-eval:  no oficial
+eval: no oficial
 cover: "ladrones-de-cadaveres.jpg"
 download: "ladrones-de-cadaveres.pdf"
 moreinfo: ""
