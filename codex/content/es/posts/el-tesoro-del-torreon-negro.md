@@ -17,7 +17,7 @@ session: "1"
 mincharacters: "5"
 maxcharacters: "6"
 eval: no oficial
-cover:
+cover: 'el-tesoro-del-torreon-negro.jpg'
 download:
 moreinfo: "https://htpublishers.es/producto/critico-03-en-formato-electronico/"
 license: "Todos los derechos reservados"

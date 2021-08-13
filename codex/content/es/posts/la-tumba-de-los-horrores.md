@@ -19,6 +19,7 @@ session: "3"
 mincharacters: "5"
 maxcharacters: "7"
 eval: no oficial
+cover: "la-tumba-de-los-horrores.jpg"
 download: "la-tumba-de-los-horrores.zip"
 moreinfo: "http://el-contemplador.blogspot.com/2011/05/aventura-para-la-marca-del-este-la.html"
 draft: false

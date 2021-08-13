@@ -17,7 +17,7 @@ session: "1"
 mincharacters: "2"
 maxcharacters: "4"
 eval: no oficial
-cover:
+cover: 'el-santuario-olvidado.jpg'
 download: "El_Santuario_Olvidado v2.pdf"
 moreinfo: "http://elultimoboss.blogspot.com/2012/12/aventura-para-la-marca-del-este-el_20.html"
 license: "Todos los derechos reservados"

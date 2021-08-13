@@ -17,6 +17,7 @@ session: "2"
 mincharacters: "4"
 maxcharacters: "4"
 eval: no oficial
+cover: 'el-tumulo-del-rey-orco.jpg'
 download: "El tumulo del rey Orco.pdf"
 moreinfo: "http://el-contemplador.blogspot.com/2012/03/nueva-aventura-para-la-marca-del-este.html"
 draft: false
