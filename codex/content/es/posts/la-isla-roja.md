@@ -19,6 +19,7 @@ session: "1"
 mincharacters: "4"
 maxcharacters: "6"
 eval: no oficial
+cover: 'la-isla-roja.jpg'
 download: AELMDE_LaIslaRoja.pdf
 moreinfo: "https://lamarcadeleste.com"
 license: "CC BY-SA-NC"

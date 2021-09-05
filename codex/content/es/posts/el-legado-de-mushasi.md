@@ -21,9 +21,9 @@ session: "2"
 mincharacters: "4"
 maxcharacters: "4"
 eval: no oficial
-cover: 
-download: 
-moreinfo: 
+cover: 'el-legado-de-mushasi.jpg'
+download: el-legado-de-mushasi.pdf
+moreinfo:
 license: "OGL"
 draft: false
 

@@ -18,7 +18,7 @@ session: "2"
 mincharacters: "4"
 maxcharacters: "6"
 eval: no oficial
-cover:
+cover: 'por-unas-tinajas-de-miel.jpg'
 download: "Por_unas_Tinajas_de_Miel_2_revision.pdf"
 moreinfo: "https://web.archive.org/web/20161203153502/http://cosasdelamarca.blogspot.com.es/2013/10/por-unas-tinajas-de-miel.html"
 license: "Todos los derechos reservados"

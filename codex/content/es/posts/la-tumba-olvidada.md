@@ -17,7 +17,7 @@ session: "2"
 mincharacters: "4"
 maxcharacters: "6"
 eval: no oficial
-cover: "latumbaolvidada.jpg"
+cover: "la-tumba-olvidada.jpg"
 download:
 moreinfo: "https://labibliotecadelcalamar.blogspot.com/2020/05/ya-la-venta-la-tumba-olvidada.html"
 license: "OGL"

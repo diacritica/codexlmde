@@ -17,7 +17,7 @@ session: "3"
 mincharacters: "4"
 maxcharacters: "5"
 eval: no oficial
-cover: torredimensional.jpg
+cover: la-torre-dimensional.jpg
 download: "LaTorreDimensional.pdf"
 moreinfo: "http://jubiladosdearkham.com/2013/aventura-la-torre-dimensional"
 license: "Todos los derechos reservados"

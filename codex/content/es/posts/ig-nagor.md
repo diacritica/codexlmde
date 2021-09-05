@@ -17,6 +17,7 @@ session: "3"
 mincharacters: "3"
 maxcharacters: "6"
 eval: no oficial
+cover: 'ig-nagor.jpg'
 download: "Ig- Nagor Mejorado.pdf"
 moreinfo: "https://el-contemplador.blogspot.com/"
 draft: false

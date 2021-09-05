@@ -19,6 +19,7 @@ session: "3"
 mincharacters: "5"
 maxcharacters: "7"
 eval: no oficial
+cover: 'traicion.jpg'
 download: "Traición.pdf"
 moreinfo: "http://el-contemplador.blogspot.com/2011/03/la-marca-del-este-aventura-traicion.html"
 draft: false

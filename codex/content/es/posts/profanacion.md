@@ -15,6 +15,7 @@ session: "2"
 mincharacters: "4"
 maxcharacters: "6"
 eval: no oficial
+cover: 'profanacion.jpg'
 download: "Profanación Mejorado_3.pdf"
 moreinfo: "http://el-contemplador.blogspot.com/2011/04/mejorando-documentos-ii.html"
 draft: false

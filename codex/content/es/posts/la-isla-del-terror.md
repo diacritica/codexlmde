@@ -21,6 +21,7 @@ session: "2"
 mincharacters: "6"
 maxcharacters: "10"
 eval: no oficial
+cover: 'la-isla-del-terror.jpg'
 download: "La Isla del terror.pdf"
 moreinfo: "http://el-contemplador.blogspot.com/2011/07/aventura-para-la-marca-del-este-isla.html"
 draft: false
