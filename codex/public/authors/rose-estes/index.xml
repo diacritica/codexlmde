@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rose Estes on </title>
+    <link>https://test.codexdelamarca.com/authors/rose-estes/</link>
+    <description>Recent content in Rose Estes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/authors/rose-estes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retorno a Brookmere</title>
+      <link>https://test.codexdelamarca.com/posts/retorno-a-brookmere/</link>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/retorno-a-brookmere/</guid>
+      <description>Hace mucho, en los tiempos de la Gran Hambruna, los Trasgos, Orcos y otros monstruos llegados de las lejanas Tierras Heladas cayeron sobre Brookmere en busca de comida y tesoros, destruyendo todo lo que encontraron a su paso, incluido el castillo.</description>
+    </item>
+    
+  </channel>
+</rss>

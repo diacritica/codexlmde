@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nord on </title>
+    <link>https://test.codexdelamarca.com/tags/nord/</link>
+    <description>Recent content in Nord on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/nord/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Legado de Mushasi</title>
+      <link>https://test.codexdelamarca.com/posts/el-legado-de-mushasi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-legado-de-mushasi/</guid>
+      <description>La vida de Miyamoto Mushasi ha sido tomada como inspiración de esta aventura y el diario que se menciona sería el libro que más tarde se convertiría en el libro de los cinco anillos.</description>
+    </item>
+    
+  </channel>
+</rss>

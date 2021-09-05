@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fuertes on </title>
+    <link>https://test.codexdelamarca.com/tags/fuertes/</link>
+    <description>Recent content in fuertes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/fuertes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B8 - La tumba de hielo</title>
+      <link>https://test.codexdelamarca.com/posts/la-tumba-de-hielo/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-tumba-de-hielo/</guid>
+      <description>Hace ahora seis años, el bastión enano de Martormenta sufrió un aciago destino cuando Dagobaris, un astuto dragón blanco, consiguió asaltar por la fuerza los salones y expulsar a los enanos del mismo. Los supervivientes fundaron el Campamento de los Desposeídos al pie del sendero que asciende hasta Martormenta, donde el jovencísimo Naen, el último de los Keroun, reúne fuerzas para acabar con el dragón y recuperar el legado de su familia.</description>
+    </item>
+    
+  </channel>
+</rss>

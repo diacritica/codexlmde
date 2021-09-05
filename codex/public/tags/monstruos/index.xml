@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>monstruos on </title>
+    <link>https://test.codexdelamarca.com/tags/monstruos/</link>
+    <description>Recent content in monstruos on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/monstruos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Isla del terror</title>
+      <link>https://test.codexdelamarca.com/posts/la-isla-del-terror/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-isla-del-terror/</guid>
+      <description>Traducción y adaptación para Aventuras en la Marca del Este del módulo &amp;ldquo;Isle of Dread&amp;rdquo;, de la mítica primera edición de D&amp;amp;D.</description>
+    </item>
+    
+  </channel>
+</rss>

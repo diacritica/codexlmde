@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>desierto on </title>
+    <link>https://test.codexdelamarca.com/tags/desierto/</link>
+    <description>Recent content in desierto on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jul 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/desierto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Templo del Desierto (El Despertar 2)</title>
+      <link>https://test.codexdelamarca.com/posts/el-despertar-2-el-templo-del-desierto/</link>
+      <pubDate>Thu, 05 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-despertar-2-el-templo-del-desierto/</guid>
+      <description>En esta segunda parte, los aventureros continuarán su viaje en busca del tesoro que Balus, el contratante, les prometió que encontrarían en un lugar llamado Ta-Sekhet-Ma’at, conocido popularmente como El Templo del Desierto.</description>
+    </item>
+    
+  </channel>
+</rss>

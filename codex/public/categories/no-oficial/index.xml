@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>No oficial on </title>
+    <link>https://test.codexdelamarca.com/categories/no-oficial/</link>
+    <description>Recent content in No oficial on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/categories/no-oficial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rescate en Torrealba</title>
+      <link>https://test.codexdelamarca.com/posts/rescate-en-torrealba/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/rescate-en-torrealba/</guid>
+      <description>La desaparición de un mago contratado por las autoridades de Robleda, da lugar a una serie de acontecimientos que los jugadores deben afrontar.</description>
+    </item>
+    
+    <item>
+      <title>La Torre del Sabio</title>
+      <link>https://test.codexdelamarca.com/posts/la-torre-del-sabio/</link>
+      <pubDate>Thu, 13 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-torre-del-sabio/</guid>
+      <description>Una extraña enfermedad contraída por varios jóvenes obliga a los Pj a buscar la ayuda de un misterioso erudito que vive aislado en su torre.</description>
+    </item>
+    
+    <item>
+      <title>Ladrones de Cadaveres</title>
+      <link>https://test.codexdelamarca.com/posts/ladrones-de-cadaveres/</link>
+      <pubDate>Wed, 30 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/ladrones-de-cadaveres/</guid>
+      <description>El cementerio de Robleda está sufriendo las visitas de ladrones de tumbas y saqueadores. ¿Qué se oculta tras esos robos? ¿Son sólo ladrones o hay algo maligno detrás?</description>
+    </item>
+    
+    <item>
+      <title>Atrapados en el Tiempos</title>
+      <link>https://test.codexdelamarca.com/posts/atrapados-en-el-tiempo/</link>
+      <pubDate>Mon, 20 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/atrapados-en-el-tiempo/</guid>
+      <description>Les daré un pronóstico para el invierno: será frío, oscuro y durará&amp;hellip; el resto de sus vidas. Phil Connors (Bill Murray).</description>
+    </item>
+    
+  </channel>
+</rss>

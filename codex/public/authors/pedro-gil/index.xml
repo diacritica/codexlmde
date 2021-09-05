@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Gil on </title>
+    <link>https://test.codexdelamarca.com/authors/pedro-gil/</link>
+    <description>Recent content in Pedro Gil on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/authors/pedro-gil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B10 - El túmulo perdido de Azgoz el testarudo</title>
+      <link>https://test.codexdelamarca.com/posts/b10-el-tumulo-perdido-de-azgoz-el-testarudo/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/b10-el-tumulo-perdido-de-azgoz-el-testarudo/</guid>
+      <description>Azgoz fue un valiente caballero paladín.Murió y fue enterrado en un túmulo cerca de la ciudad, en las Colinas Azules. El paradero de su tumba se perdió.</description>
+    </item>
+    
+    <item>
+      <title>ES1 - La Furia de Rastilon.</title>
+      <link>https://test.codexdelamarca.com/posts/la-furia-de-rastilon/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-furia-de-rastilon/</guid>
+      <description>Un gran peligro se abate sobre la Marca del Este, tal vez la amenaza más grande que jamás pudiéramos imaginar, llegada de alguien de las estrellas. El Imperio Rastilon ha puesto sus ojos en Valion y sólo los grandes héroes que jamás hayan existido podrán conjurar este desafío.</description>
+    </item>
+    
+    <item>
+      <title>C2 - La catacumba de los espantos de Kavaduz</title>
+      <link>https://test.codexdelamarca.com/posts/c2-la-catacumba-de-los-espantos-de-kavaduz/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/c2-la-catacumba-de-los-espantos-de-kavaduz/</guid>
+      <description>Escondida en las peligrosas vaguadas de las montañas de Cerrognoll, aguarda la llegada de intrépidos aventureros la vieja abadía de Kavadůz. Pues un gran mal ha anidado en su interior, en la más profunda oscuridad, amenazando con desencadenar un terrible mal sobre todo Valion.</description>
+    </item>
+    
+    <item>
+      <title>El Páramo</title>
+      <link>https://test.codexdelamarca.com/posts/el-paramo/</link>
+      <pubDate>Sun, 29 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el-paramo/</guid>
+      <description>Una entretenida aventura que casi podrían considerarse una suma de varias en las que los aventureros tendrán que ir correteando de un lado a otro resolviendo las diferentes misiones impuestas.</description>
+    </item>
+    
+  </channel>
+</rss>

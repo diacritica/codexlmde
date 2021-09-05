@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5,7€ on </title>
+    <link>https://test.codexdelamarca.com/prices/57/</link>
+    <description>Recent content in 5,7€ on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/prices/57/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B4 - Muerte en la mansión del mago Malifax</title>
+      <link>https://test.codexdelamarca.com/posts/b4-muerte-en-la-mansion-del-mago-malifax/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/b4-muerte-en-la-mansion-del-mago-malifax/</guid>
+      <description>El mago Malifax ha muerto. Nadie ha visto su cuerpo, pero en mitad de la noche la Campana Negra sonó trece veces, cada tañido más fuerte que el anterior. Después de la decimotercera campanada, la Torre Sin Puertas Ni Ventanas, en cuya cúspide estaba el artefacto, tembló y se derrumbó. Los que se atrevieron a acercarse al lugar juran que las runas de la Campana Negra, que refulgían con el fuego del infierno, se apagaron poco a poco. Inmediatamente el rumor se extendió como una plaga malsana por Marvalar: ¡Malifax había muerto! Y por tanto, los tesoros de su mansión estaban al alcance de aquellos lo suficientemente locos y atrevidos como para ir a buscarlos.</description>
+    </item>
+    
+  </channel>
+</rss>

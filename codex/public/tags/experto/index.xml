@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>experto on </title>
+    <link>https://test.codexdelamarca.com/tags/experto/</link>
+    <description>Recent content in experto on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/experto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pandemonium</title>
+      <link>https://test.codexdelamarca.com/posts/pandemonium/</link>
+      <pubDate>Sat, 06 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/pandemonium/</guid>
+      <description>Los aventureros deberán adentrarse en un plano demoníaco (Grotos) con la intención de salvar el alma de una joven traicionada. El módulo se desarrollará entre lugares de pesadilla y locura, con el constante acoso  de seres demoníacos y del propio plano.</description>
+    </item>
+    
+    <item>
+      <title>La Tumba de los Horrores</title>
+      <link>https://test.codexdelamarca.com/posts/la-tumba-de-los-horrores/</link>
+      <pubDate>Tue, 10 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-tumba-de-los-horrores/</guid>
+      <description>Una mítica obra maestra del roleo de Dungeons. Una autentica prueba, para novatos y expertos. Un lugar de pesadilla y de poder. La muerte en cada esquina.</description>
+    </item>
+    
+  </channel>
+</rss>

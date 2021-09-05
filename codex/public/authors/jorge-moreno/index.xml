@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Moreno on </title>
+    <link>https://test.codexdelamarca.com/authors/jorge-moreno/</link>
+    <description>Recent content in Jorge Moreno on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/authors/jorge-moreno/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B9 - La última frontera</title>
+      <link>https://test.codexdelamarca.com/posts/b9-la-%C3%BAltima-frontera/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/b9-la-%C3%BAltima-frontera/</guid>
+      <description>Contratados como escoltas de caravana, los aventureros deberán partir hacia el Fuerte del Oxus.</description>
+    </item>
+    
+  </channel>
+</rss>

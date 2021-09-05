@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El trono de niebla on </title>
+    <link>https://test.codexdelamarca.com/categories/el-trono-de-niebla/</link>
+    <description>Recent content in El trono de niebla on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/categories/el-trono-de-niebla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TN3 - El corazon de la oscuridad.</title>
+      <link>https://test.codexdelamarca.com/posts/tn3-el-corazon-de-la-oscuridad/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/tn3-el-corazon-de-la-oscuridad/</guid>
+      <description>En las entrañas de Marvalar, oculta durante siglos por el paso del tiempo y la ignorancia, se halla una antiquísima y gigantesca mazmorra, llena de tesoros, hechizos y criaturas sin par. Nuestros personajes se verán involucrados en la exploración de este subterráneo a petición de la propia corona de Marvalar, alertada de la presencia del lugar por un súbito ataque sorpresa sobre la capital. En su recorrido por sus espantosas salas, descubrirán verdades terribles que nunca pensaron que llegarían a vislumbrar, no solo sobre el mundo al que tanto aman, sino también sobre si mismos.</description>
+    </item>
+    
+    <item>
+      <title>TN1 - Pacto de cenizas.</title>
+      <link>https://test.codexdelamarca.com/posts/tn1-pacto-de-cenizas/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/tn1-pacto-de-cenizas/</guid>
+      <description>Un oscuro pacto sellado en el corazón del reino, unos personajes marcados por sus pecados, un terror llegado desde las profundidades del pasado, una conspiración a punto de ser revelada y un templo en tinieblas.</description>
+    </item>
+    
+    <item>
+      <title>TN2 - El feudo en llamas.</title>
+      <link>https://test.codexdelamarca.com/posts/tn2-el-feudo-en-llamas/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/tn2-el-feudo-en-llamas/</guid>
+      <description>Un ejército perdido en su hora más aciaga, una ciudad sometida a asedio por una fuerza implacable, unos personajes a punto de perder sus hogares, dos asesinatos a punto de ser perpetrados y un castillo envuelto en llamas.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on </title>
+    <link>https://test.codexdelamarca.com/mincharacters/1/</link>
+    <description>Recent content in 1 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/mincharacters/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aprendiz de mago</title>
+      <link>https://test.codexdelamarca.com/posts/aprendiz-de-mago/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/aprendiz-de-mago/</guid>
+      <description>El personaje es un aprendiz de mago, sujeto por un juramento a su maestro. El personaje se encuentra próximo a superar su Prueba del Aprendiz. De superarla, se convertirá en un mago completo, un igual entre los magos de la Marca. Ignoram es un maestro duro, pero justo, que presiona al personaje con pruebas para que mejore.</description>
+    </item>
+    
+    <item>
+      <title>B8 - La tumba de hielo</title>
+      <link>https://test.codexdelamarca.com/posts/la-tumba-de-hielo/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/la-tumba-de-hielo/</guid>
+      <description>Hace ahora seis años, el bastión enano de Martormenta sufrió un aciago destino cuando Dagobaris, un astuto dragón blanco, consiguió asaltar por la fuerza los salones y expulsar a los enanos del mismo. Los supervivientes fundaron el Campamento de los Desposeídos al pie del sendero que asciende hasta Martormenta, donde el jovencísimo Naen, el último de los Keroun, reúne fuerzas para acabar con el dragón y recuperar el legado de su familia.</description>
+    </item>
+    
+    <item>
+      <title>C3 - El Jardín Negro</title>
+      <link>https://test.codexdelamarca.com/posts/c3-el-jardin-negro/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/c3-el-jardin-negro/</guid>
+      <description>Hace poco, una extraña floresta surgió al norte de la ciudad de Calamain, un amplio y oscuro laberinto de enredaderas, setos y espinos alrededor de una antigua almenara. De este Jardín Negro brotan todo tipo de monstruos que amenazan a los habitantes de la región. Las autoridades, desesperadas ya, buscan un grupo de aventureros corajudos dispuestos a arrostrar esta preternatural maldición.</description>
+    </item>
+    
+    <item>
+      <title>Miedo a la Oscuridad</title>
+      <link>https://test.codexdelamarca.com/posts/miedo-a-la-oscuridad/</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/miedo-a-la-oscuridad/</guid>
+      <description>Un rescate afortunado lleva a los pjs a introducirse en una historia donde se ven involucradas la ambición, la traición y oscuros poderes mágicos.</description>
+    </item>
+    
+    <item>
+      <title>Atrapados en el Tiempos</title>
+      <link>https://test.codexdelamarca.com/posts/atrapados-en-el-tiempo/</link>
+      <pubDate>Mon, 20 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/atrapados-en-el-tiempo/</guid>
+      <description>Les daré un pronóstico para el invierno: será frío, oscuro y durará&amp;hellip; el resto de sus vidas. Phil Connors (Bill Murray).</description>
+    </item>
+    
+  </channel>
+</rss>

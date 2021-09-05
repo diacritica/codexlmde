@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>escolta on </title>
+    <link>https://test.codexdelamarca.com/tags/escolta/</link>
+    <description>Recent content in escolta on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/escolta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B7 - Presentes sangrientos</title>
+      <link>https://test.codexdelamarca.com/posts/b7-presentes-sangrientos/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/b7-presentes-sangrientos/</guid>
+      <description>Desde las altas tierras al norte de la Marca del Este hasta la lejana Nirmala y más allá un antiguo mal extiende sus hebras oscuras y pocos conocen su existencia. Sus acólitos buscan algo que bien podría estar en manos de nuestros aventureros. ¿Podrán los mismos encontrarlo a tiempo y malograr sus planes antes de que sea tarde?</description>
+    </item>
+    
+  </channel>
+</rss>

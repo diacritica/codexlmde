@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tesoro on </title>
+    <link>https://test.codexdelamarca.com/tags/tesoro/</link>
+    <description>Recent content in tesoro on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://test.codexdelamarca.com/tags/tesoro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Enclave</title>
+      <link>https://test.codexdelamarca.com/posts/el_enclave/</link>
+      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://test.codexdelamarca.com/posts/el_enclave/</guid>
+      <description>Sumérgete en esta trepidante serie de aventuras que te llevará a explorar los rincones más insospechados de Robleda. Forma parte de la Orden del Libro, una organización de pensadores, científicos y hechiceros que aglutina a un sin fin de mentes brillantes, volcadas en el servicio a sus conciudadanos. Enfréntate a la incomprensión y el odio de aquellos que no son capaces de comprender la verdad. Y busca tu lugar en un mundo que te teme y odia a partes iguales.</description>
+    </item>
+    
+  </channel>
+</rss>
