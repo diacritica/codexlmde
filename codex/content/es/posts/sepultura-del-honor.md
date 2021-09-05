@@ -22,7 +22,7 @@ maxcharacters: "4"
 eval:  no oficial
 cover: "sepultura-del-honor.jpg"
 download: "sepultura-del-honor.pdf"
-moreinfo: "http://www.sinergiaderol.com/aventuras/av-aventurasmarcadeleste.html"
+moreinfo: "https://criptabajoeltorreon.wordpress.com/2012/03/22/la-marca-del-este-el-valle-del-dios-astado-ii-sepultura-del-honor/"
 license: "OGL"
 draft: false
 
