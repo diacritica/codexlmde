@@ -35,41 +35,41 @@
       <!-- Metadata -->
 
       <div class="adventure-box">
-         <div class="adventure-info">
-              <ul>
-                  <li>
-                      <img src="/assets/canon.png" alt="Evaluación canon">
-                      <span>{{ humanize .Params.eval }}</span>
-                  </li>
-                  <li>
-                      <img src="/assets/level.png" alt="Nivel">
-                      <span>Nivel</span>
-                      {{ if (eq .Params.minlevels .Params.maxlevels)  }}
-                        {{ .Params.minlevels }}
-                      {{ else  }}
-                        {{ .Params.minlevels }}-{{ .Params.maxlevels }}
-                      {{- end }}
-                  </li>
-                  <li>
-                      <img src="/assets/pj.png" alt="Personajes">
-                      <span>Personajes</span>
-                      {{ if (eq .Params.mincharacters .Params.maxcharacters)  }}
-                        {{ .Params.mincharacters }}
-                      {{ else  }}
-                        {{ .Params.mincharacters }}-{{ .Params.maxcharacters }}
-                      {{- end }}
-                  </li>
-                  <li>
-                      <img src="/assets/sessions.png" alt="Numero de sesiones">
-                      <span>Sesiones</span>{{ .Params.session}}
-                  </li>
-                  <li>
-                      <img src="/assets/price.png" alt="Precio">
-                      <span>Precio</span>{{ .Params.prices }}
-                  </li>
-              </ul>
+        <div class="ui five column stackable grid container adventure-info">
+          <div class = "row">
+            <div class = "column">
+              <img src="/assets/canon.png" alt="Evaluación canon" />
+              <span>{{ humanize .Params.eval }}</span>
+            </div>
+            <div class = "column">
+              <img src="/assets/level.png" alt="Nivel" />
+              <span>Nivel</span>
+              {{ if (eq .Params.minlevels .Params.maxlevels)  }}
+                {{ .Params.minlevels }}
+              {{ else  }}
+                {{ .Params.minlevels }}-{{ .Params.maxlevels }}
+              {{- end }}
+            </div>
+            <div class = "column">
+              <img src="/assets/pj.png" alt="Personajes" />
+              <span>Personajes</span>
+              {{ if (eq .Params.mincharacters .Params.maxcharacters)  }}
+                {{ .Params.mincharacters }}
+              {{ else  }}
+                {{ .Params.mincharacters }}-{{ .Params.maxcharacters }}
+              {{- end }}
+            </div>
+            <div class = "column">
+              <img src="/assets/sessions.png" alt="Numero de sesiones" />
+              <span>Sesiones</span>{{ .Params.session}}
+            </div>
+            <div class = "column">
+              <img src="/assets/price.png" alt="Precio" />
+              <span>Precio</span>{{ .Params.prices }}
+            </div>
           </div>
         </div>
+      </div>
 
       <!-- Content -->
       <div class="post-content-body">
@@ -86,55 +86,64 @@
      {{ end }}
 
 
-     <div class="adventure-box">
-       <div class="adventure-info">
-             <ul>
-                 <li>
-                     <img src="/assets/canon.png" alt="Evaluación canon">
-                     <span>Autoría</span>
-                     {{ with .Params.authors }}
-                       {{ range . }}
-                       <a class="w3-btn w3-small w3-round w3-green" href="{{ "authors" | relLangURL }}/{{ . | urlize }}/"> {{ . }} </a>
-                       {{ end }}
-                       {{ end }}
-                 </li>
-                 {{ if .Params.date }}
-                 <li>
-                     <img src="/assets/level.png" alt="Nivel">
-                     <span>Publicada</span>{{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
-                 </li>
-                 {{- end }}
-                 <li>
-                     <img src="/assets/pj.png" alt="Personajes">
-                     <span>Líneas</span>
-                       {{ with .Params.categories }}
-                         {{ range . }}
-                         <a class="w3-btn w3-small w3-round w3-green" href="{{ "categories" | relLangURL }}/{{ . | urlize }}/"> {{ . }} </a>
-                       {{ end }}
-                       {{ end }}
-                 </li>
-                 <li>
-                     <img src="/assets/price.png" alt="Precio">
-                     <span>
-                       {{ with .Params.moreinfo }}
-                         <a href="{{ . }}" alt="Más información">Más info</a>
-                         {{ end }}</span>
-                 </li>
-             </ul>
-             <ul>
-                 <li class='tabs'>
-                     <img src="/assets/sessions.png" alt="Numero de sesiones">
-                     <span>Tags</span>
-                     {{ with .Params.tags -}}
-                       {{ range . }}
-                       <a class="w3-btn w3-small w3-round w3-green" href="{{ "tags" | relLangURL }}/{{ . | urlize }}/">{{ . }}</a>
-                       {{ end }}
-                    {{- end }}
-                 </li>
-             </ul>
-         </div>
-
-
+    <div class="adventure-box">
+     
+      {{ if .Params.date }}
+        <div class="ui four column stackable grid container adventure-info">
+      {{- else }}
+        <div class="ui three column stackable grid container adventure-info">
+      {{- end }}
+      <div class = "row">
+        
+          <div class = "column">
+            <img src="/assets/canon.png" alt="Evaluación canon" />
+            <span>Autoría</span>
+            {{ with .Params.authors }}
+              {{ range . }}
+                <a class="w3-btn w3-small w3-round w3-green" href="{{ "authors" | relLangURL }}/{{ . | urlize }}/"> {{ . }} </a>
+              {{ end }}
+            {{ end }}
+          </div>
+          {{ if .Params.date }}
+            <div class = "column">
+              <img src="/assets/level.png" alt="Nivel" />
+              <span>Publicada</span>{{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
+            </div>
+          {{- end }}
+          <div class = "column">
+            <img src="/assets/pj.png" alt="Personajes" />
+            <span>Líneas</span>
+            {{ with .Params.categories }}
+              {{ range . }}
+                <a class="w3-btn w3-small w3-round w3-green" href="{{ "categories" | relLangURL }}/{{ . | urlize }}/"> {{ . }} </a>
+              {{ end }}
+            {{ end }}
+          </div>
+          <div class = "column">
+            <img src="/assets/price.png" alt="Precio" />
+            <span>
+              {{ with .Params.moreinfo }}
+                <a href="{{ . }}" alt="Más información">Más info</a>
+              {{ end }}
+            </span>
+          </div>
+        </div>
+        </div>
+        <div class="ui one column stackable grid container adventure-info">
+        <div class="row">
+          
+          <div class = "column">
+            <img src="/assets/sessions.png" alt="Numero de sesiones" />
+            <span>Tags</span>
+            {{ with .Params.tags -}}
+              {{ range . }}
+                <a class="w3-btn w3-small w3-round w3-green" href="{{ "tags" | relLangURL }}/{{ . | urlize }}/">{{ . }}</a>
+              {{ end }}
+            {{- end }}
+          </div>
+        </div>
+      </div>
+    </div>
 
 
     {{ if .Site.Params.relatedPosts }}

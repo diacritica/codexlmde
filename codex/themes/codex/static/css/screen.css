@@ -59,7 +59,7 @@ body {
     padding: 3vw;
     min-height: 100vh;
 }
-@media (max-width: 850px) {
+@media (max-width: 600px) {
     .site-wrapper {
         padding: 6vw;
     }
@@ -219,7 +219,7 @@ body {
     height: 100px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 600px) {
     .site-head-logo img {
         height: 60px;
     }
@@ -281,7 +281,7 @@ body {
     padding: 12px 12px 12px 0;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 600px) {
     .site-head {
         padding: 0;
     }

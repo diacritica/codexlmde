@@ -7,6 +7,16 @@
         </div>
     </div>
 </a>
+
+<div id="mobilemenu" class="w3-bar-block w3-light-grey w3-hide w3-hide-large w3-hide-medium w3-show">
+  
+    {{ range .Site.Menus.main }}
+    <a href="{{ .URL |  relURL }}" class="w3-button">{{ .Name }}</a>
+  {{ end }}
+    
+
+</div>
+
 <nav id="swup" class="site-head-left">
   {{ range .Site.Menus.main }}
     <a href="{{ .URL |  relURL }}" class="w3-bar-item w3-button w3-hide-small">{{ .Name }}</a>

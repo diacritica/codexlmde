@@ -12,36 +12,28 @@
 .adventure-info {
     align-items: center;
     border: 1px solid rgba(0,0,0, .2);
-}
-
-.adventure-info ul {
     display: flex;
     flex-direction: row;
     list-style: none;
     justify-content: space-between;
-}
-
-.adventure-info li {
-    align-items: center;
-    display: flex;
     font-family: 'Libre Baskerville', serif;
     font-weight: bold;
     font-size: 2rem;
-    padding: 0;
 }
 
-.adventure-info li span {
+.adventure-info span {
     font-size: 1.5rem;
     font-weight: normal;
     margin-right: 10px;
 }
 
-.adventure-info li img {
+.adventure-info img {
     margin-right: 10px;
     width: 34px;
 }
 
-.adventure-info li.tabs {
+.adventure-info .column {
+    text-align: center !important;
     margin: auto;
 }
 
