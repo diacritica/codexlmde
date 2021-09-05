@@ -28,5 +28,5 @@ draft: false
 
 ---
 
-Tras iniciar su travesía hacia el norte en pos del mítico Karkadann que ha llevado a los PJs a cruzar tumbas arcaicas y páramos sombríos, y a verse las caras con poderosas momias y aparecidos volubles.
+Tras iniciar su travesía hacia el norte en pos del mítico Karkadann que ha llevado a los PJs a cruzar tumbas arcaicas y páramos sombríos, y a verse las caras con poderosas momias y aparecidos volubles,
 Llegarán con el cansancio acumulado de tres días de viaje hasta las puertas de la Ciudadela de Frysev, morada del pecado.
