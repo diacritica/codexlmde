@@ -87,13 +87,14 @@
 
 
     <div class="adventure-box">
+     
       {{ if .Params.date }}
         <div class="ui four column stackable grid container adventure-info">
       {{- else }}
         <div class="ui three column stackable grid container adventure-info">
       {{- end }}
-
-        <div class = "row">
+      <div class = "row">
+        
           <div class = "column">
             <img src="/assets/canon.png" alt="Evaluación canon" />
             <span>Autoría</span>
@@ -127,7 +128,10 @@
             </span>
           </div>
         </div>
+        </div>
+        <div class="ui one column stackable grid container adventure-info">
         <div class="row">
+          
           <div class = "column">
             <img src="/assets/sessions.png" alt="Numero de sesiones" />
             <span>Tags</span>
