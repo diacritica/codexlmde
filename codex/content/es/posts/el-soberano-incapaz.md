@@ -11,6 +11,7 @@ categories:
 tags:
 - aventura
 - dungeon
+- campaña
 minlevels: "3"
 maxlevels: "4"
 prices: gratis
