@@ -12,6 +12,7 @@ categories:
 tags:
 - aventura
 - ciudad
+- campaña
 minlevels: "3"
 maxlevels: "4"
 prices: gratis
