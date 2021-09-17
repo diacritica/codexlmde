@@ -21,7 +21,7 @@ maxcharacters: "4"
 eval:  no oficial
 cover: "el-soberano-incapaz.jpg"
 download: "el-soberano-incapaz.pdf"
-moreinfo: "http://www.sinergiaderol.com/aventuras/av-aventurasmarcadeleste.html"
+moreinfo: "https://criptabajoeltorreon.wordpress.com/2012/02/02/la-puerta-negra-la-caja-azul-y-el-soberano-incapaz/"
 license: "OGL"
 draft: false
 
