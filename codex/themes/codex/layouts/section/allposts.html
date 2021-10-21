@@ -31,7 +31,7 @@
   </tr>
   {{range where .Site.RegularPages "Section" "posts"}}
   <tr class="item ">
-    <td><a href="{{.Permalink}}">{{.Title}}</a></td>
+    <td> <a alt="{{.Title}}" href="{{.Permalink}}">{{.Title}}</a></td>
     <td>{{ with .Params.authors }}{{ range . }}{{.}} {{end}}{{end}}</td>
 
     <td>{{ .Params.minlevels }}</td>
