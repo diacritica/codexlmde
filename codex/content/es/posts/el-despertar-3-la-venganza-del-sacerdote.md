@@ -12,7 +12,7 @@ tags:
 - viaje
 - mar
 minlevels: "14"
-maxlevels: "+"
+maxlevels: "20"
 prices: gratis
 session: "5"
 mincharacters: "3"
