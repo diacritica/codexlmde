@@ -2,7 +2,7 @@
 title: El Soberano Incapaz
 summary: "El Soberano Incapaz es tan solo la primera parte de una campaña titulada 'El Valle del dios astado' para la Marca del Este, inspirado en el cómic 'La Espada Salvaje de Conan'."
 authors:
-  - Luis Felipe Garcia / Tadevs
+  - Luis Felipe García
 date: 2012-11-04
 type: post
 categories:

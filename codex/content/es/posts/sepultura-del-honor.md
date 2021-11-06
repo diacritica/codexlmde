@@ -3,7 +3,7 @@ title: Sepultura del Honor
 summary:  Sepultura del Honor es la segunda parte de la campaña titulada “El Valle del Dios Astado” para La Marca del Este. En esta ocasión la mayor parte de la acción tendrá lugar en la Ciudadela de Frysev, fortaleza inventada por el autor que fue añadida al Canon del Códex de la Marca.
 
 authors:
-  - Luis Felipe Garcia / Tadevs
+  - Luis Felipe García
 date: 2012-11-04
 type: post
 categories:
