@@ -6,7 +6,7 @@ authors:
 date: 2020-03-16
 type: post
 categories:
-- Clasicos
+- Clásicos de la Marca
 tags:
 - aventura
 - dungeon
