@@ -4,7 +4,7 @@ summary: "Un rescate afortunado lleva a los pjs a introducirse en una historia d
 
 authors:
   - Jose Manuel Palacios
-date: 2015-04-29
+date: 2011-11-01
 type: post
 categories:
 - Vermigor
