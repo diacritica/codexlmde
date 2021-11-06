@@ -2,7 +2,7 @@
 title: B1 - La Cripta nefanda de Uztum el Maldito
 summary: Reúne a tu grupo de compañeros aventureros y atrévete a buscar la mítica cripta de Uztum, allende las Colinas Rojas, más allá de Reino Bosque y la Marca del Este, para descubrir sus secretos y maravillas de antaño. ¿Podrás sobrevevivir para ver otro día?
 authors:
-  - Pedro Gil "Steinkel"
+  - Pedro Gil
 
 date: 2014-10-08
 type: post

@@ -2,7 +2,7 @@
 title: B2 - La isla misteriosa
 summary: Aventura para niveles 4-6 donde los aventureros deberán explorar una misteriosa isla llena de peligros
 authors:
-  - Pedro Gil "Steinkel"
+  - Pedro Gil
 date: 2015-06-26
 type: post
 categories:
