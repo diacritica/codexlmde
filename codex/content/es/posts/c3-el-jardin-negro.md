@@ -2,7 +2,7 @@
 title: C3 - El Jardín Negro
 summary: Hace poco, una extraña floresta surgió al norte de la ciudad de Calamain, un amplio y oscuro laberinto de enredaderas, setos y espinos alrededor de una antigua almenara. De este Jardín Negro brotan todo tipo de monstruos que amenazan a los habitantes de la región. Las autoridades, desesperadas ya, buscan un grupo de aventureros corajudos dispuestos a arrostrar esta preternatural maldición.
 authors:
-  - José Manuel Palacios
+  - José Manuel Palacios Rodrigo
 date: 2019-10-25
 type: post
 categories:
