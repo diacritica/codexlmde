@@ -2,7 +2,7 @@
 title: Atrapados en el Tiempos
 summary: "Les daré un pronóstico para el invierno: será frío, oscuro y durará... el resto de sus vidas. Phil Connors (Bill Murray)."
 authors:
-  - Jose Torrano Perez
+  - José Torrano Pérez
 date: 2012-02-20
 type: post
 categories:
