@@ -1,6 +1,6 @@
 ---
 title: El último viaje de “El Condenado”
-summary: Los habitantes de la pequeña aldea pesquera de Peñahogado están atravesando un mal año. Otra vez
+summary: Los habitantes de la pequeña aldea pesquera de Peñahogado están atravesando un mal año. Otra vez.
 authors:
   - Velasco
 date: 2013-06-21

@@ -1,6 +1,6 @@
 ---
 title: La torre dimensional
-summary: Era entonces cuando la magia recorría el mundo material haciendo de ella su hogar, permitiendo a los humanos usarla a su antojo, en pos del crecimiento, del saber y del bienestar
+summary: Era entonces cuando la magia recorría el mundo material haciendo de ella su hogar, permitiendo a los humanos usarla a su antojo, en pos del crecimiento, del saber y del bienestar.
 authors:
   - Carlos Piedra Tutor
 date: 2013-11-11

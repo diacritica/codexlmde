@@ -1,6 +1,6 @@
 ---
 title: Por unas tinajas de miel
-summary: La aventura comienza con los personajes siendo contratados por Vestor, un mercader de Robleda que tiene un importante encargo de miel en Alameda
+summary: La aventura comienza con los personajes siendo contratados por Vestor, un mercader de Robleda que tiene un importante encargo de miel en Alameda.
 authors:
   - Gaizka marquez “aker”
 date: 2013-10-11

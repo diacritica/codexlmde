@@ -1,6 +1,6 @@
 ---
 title: El oro de las quebradas
-summary: Tomilí avanzaba despacio por el bosque, mientras maldecía su suerte por nacer minero “si fuera pescador esto no me ocurría, y además vendría lavado del mar...”
+summary: Tomilí avanzaba despacio por el bosque, mientras maldecía su suerte por nacer minero “si fuera pescador esto no me ocurría, y además vendría lavado del mar...”.
 authors:
   - Reckila
 date: 2013-08-25

@@ -1,6 +1,6 @@
 ---
 title: Noches de venganza
-summary: Los aventureros oirán que hay una jugosa recompensa por un bandido llamado Rajalunas y su banda de kobolds, a los que han visto en la Llambria, en los alrededores de una aldea llamada El Villar
+summary: Los aventureros oirán que hay una jugosa recompensa por un bandido llamado Rajalunas y su banda de kobolds, a los que han visto en la Llambria, en los alrededores de una aldea llamada El Villar.
 authors:
   - Poderoso Crom
 date: 2014-04-03

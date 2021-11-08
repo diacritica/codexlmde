@@ -1,6 +1,6 @@
 ---
 title: La caída de los justos
-summary: Un asesinato, una amenaza de muerte en Robleda y una búsqueda contrarreloj para descubrir quién se esconde tras estos ataques
+summary: Un asesinato, una amenaza de muerte en Robleda y una búsqueda contrarreloj para descubrir quién se esconde tras estos ataques.
 authors:
   - An-Tuan Kenobi
 date: 2012-12-26

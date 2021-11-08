@@ -1,6 +1,6 @@
 ---
 title: X2 - El Arca de los Mil Inviernos
-summary: "El más terrible de los peligros aguarda en el interior de un legendario artefacto perdido en los confines de la Isla Boreal: el Arca de los Mil Inviernos"
+summary: "El más terrible de los peligros aguarda en el interior de un legendario artefacto perdido en los confines de la Isla Boreal: el Arca de los Mil Inviernos."
 authors:
   - Jordi Morera
 date: 2019-01-09
