@@ -1,5 +1,5 @@
 ﻿---
-title: Nuestros hermanos caídos en batalla H3
+title: H3 - Nuestros hermanos caídos en batalla
 summary: Cuando un ejército de muertos vivientes se levanta para acabar con toda vida en la Marca, solo un secreto guardado por la Reina Vigdis II podrá evitar el temible final que nos aguarda.
 authors:
   - Héctor Prieto de la Calle

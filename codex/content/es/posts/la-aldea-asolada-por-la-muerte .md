@@ -1,5 +1,5 @@
 ﻿---
-title: La aldea asolada por la muerte H1
+title: H1 - La aldea asolada por la muerte
 summary: En una apacible aldea, la Muerte camina entre los vivos. Solo un grupo de aguerridos aventureros será capaz de enfrentarse a los muertos cuando éstos decidan alzarse contra quienes aún siguen en pie.
 authors:
   - Héctor Prieto de la Calle

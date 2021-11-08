@@ -1,5 +1,5 @@
 ﻿---
-title: La espada en la roca H4
+title: H4 - La espada en la roca
 summary: Cuenta la leyenda que aquel que sea capaz de sacar la espada de la roca en la que se encuentra clavada, tendrá el poder absoluto a su alcance. ¿Pero qué sucedería si la leyenda estuviera mal desde sus orígenes? ¿Y si el poder absoluto es en realidad una simple quimera?
 authors:
   - Héctor Prieto de la Calle
