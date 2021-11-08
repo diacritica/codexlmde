@@ -3,8 +3,8 @@ title: Miedo a la Oscuridad
 summary: "Un rescate afortunado lleva a los pjs a introducirse en una historia donde se ven involucradas la ambición, la traición y oscuros poderes mágicos."
 
 authors:
-  - Jose Manuel Palacios
-date: 2015-04-29
+  - José Manuel Palacios Rodrigo
+date: 2011-11-01
 type: post
 categories:
 - Vermigor

@@ -2,7 +2,7 @@
 title: B8 - La tumba de hielo
 summary: Hace ahora seis años, el bastión enano de Martormenta sufrió un aciago destino cuando Dagobaris, un astuto dragón blanco, consiguió asaltar por la fuerza los salones y expulsar a los enanos del mismo. Los supervivientes fundaron el Campamento de los Desposeídos al pie del sendero que asciende hasta Martormenta, donde el jovencísimo Naen, el último de los Keroun, reúne fuerzas para acabar con el dragón y recuperar el legado de su familia.
 authors:
-  - José Manuel Palacios
+  - José Manuel Palacios Rodrigo
 date: 2019-10-25
 type: post
 categories:
