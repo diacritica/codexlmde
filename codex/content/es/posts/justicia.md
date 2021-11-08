@@ -1,5 +1,5 @@
 ﻿---
-title: Justicia.
+title: Justicia
 summary: El tranquilo devenir de los pjs los hace pasar por Thaon, donde se veran envueltos en una trama de asesinato y venganza
 authors:
   - José Manuel Palacios Rodrigo

@@ -1,5 +1,5 @@
 ﻿---
-title: ES1 - La Furia de Rastilon.
+title: ES1 - La Furia de Rastilon
 summary: Un gran peligro se abate sobre la Marca del Este, tal vez la amenaza más grande que jamás pudiéramos imaginar, llegada de alguien de las estrellas. El Imperio Rastilon ha puesto sus ojos en Valion y sólo los grandes héroes que jamás hayan existido podrán conjurar este desafío.
 authors:
   - Pedro Gil

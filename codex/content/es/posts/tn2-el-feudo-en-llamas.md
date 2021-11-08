@@ -1,5 +1,5 @@
 ---
-title: TN2 - El feudo en llamas.
+title: TN2 - El feudo en llamas
 summary: Un ejército perdido en su hora más aciaga, una ciudad sometida a asedio por una fuerza implacable, unos personajes a punto de perder sus hogares, dos asesinatos a punto de ser perpetrados y un castillo envuelto en llamas.
 authors:
   - Diego Marqués Vega
