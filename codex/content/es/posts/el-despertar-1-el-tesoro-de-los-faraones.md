@@ -2,7 +2,7 @@
 title: El Tesoro de los Faraones (El Despertar 1)
 summary: Esta primera parte se desarrolla en La Marca del Este, donde los aventureros serán contratados por el antiguo secretario de un Barón de Robleda, para que le ayuden a encontrar un Tesoro oculto en tierras Neferís.
 authors:
-  - José Torrano "Norak"
+  - José Torrano Pérez
 date: 2012-05-23
 type: post
 categories:

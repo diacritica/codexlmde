@@ -2,7 +2,7 @@
 title: Serpientes entre las ramas
 summary: Después de años de una tensa paz entre ambos reinos, una fuerza misteriosa está haciendo crecer rápidamente la selva de Ofir, ganándole día a día terreno al desierto, con un descontrolado crecimiento vegetal.
 authors:
-  - José Torrano Pérez "Norkak"
+  - José Torrano Pérez
 date: 2013-07-22
 type: post
 categories:

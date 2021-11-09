@@ -2,7 +2,7 @@
 title: C1 - Los Salones Anegados de Leviatán
 summary: En los más profundo del oscuro y tempestuoso océano, aguardan los míticos Salones Anegados de Leviatán, ahítos de monstruos terribles, reliquias de otrora y riquezas más allá de lo imaginado.
 authors:
-  - Luis F. “Tadevs”
+  - Luis Felipe García
 date: 2019-12-09
 type: post
 categories:
