@@ -1,6 +1,6 @@
 ---
 title: La Cripta de las Sombras (nivel 1)
-summary: Se dice que en sus profundidades plagadas de trampas y criaturas de todo tipo hay infinitos tesoros, objetos de poder y, según algunos cuentan, el mismo secreto de la inmortalidad
+summary: Se dice que en sus profundidades plagadas de trampas y criaturas de todo tipo hay infinitos tesoros, objetos de poder y, según algunos cuentan, el mismo secreto de la inmortalidad.
 authors:
   - Telmo Arnedo
 date: 2014-05-14

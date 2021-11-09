@@ -1,6 +1,6 @@
 ---
 title: El Pueblo Bendecido
-summary: La aldea bendita, qué sabe la gente de ella
+summary: La aldea bendita, qué sabe la gente de ella.
 authors:
   - Víctor Martín
 date: 2013-09-17
