@@ -22,7 +22,7 @@ maxcharacters: "5"
 eval: oficial
 cover: ct1-la-lagrima-de-zurah.jpg
 download: ct1-la-lagrima-de-zurah.pdf
-moreinfo: "http://www.codice.tk/modulo/ct1-la-lagrima-de-zurah/"
+moreinfo: "https://tesorosdelamarca.com/producto/la-lagrima-de-zurah/"
 license: "OGL"
 draft: false
 
@@ -31,5 +31,5 @@ draft: false
 ¡Suya es la gracia, en el cielo y la tierra, y triunfante de las tres virtudes!
 ¡Que Isthar tenga misericordia en estos momentos tan aciagos!
 La Lágrima de Zurâh es la primera entrega de una trilogía que será completada en sucesivas entregas por los módulos titulados El Sello del Profeta y La prisión de los dioses de piedra.
-Te damos la bienvenida a las fascinantes tierras de Alsabâh, lugar de misterios y oscuros secretos, antaño enterrados en las arenas del tiempo. 
+Te damos la bienvenida a las fascinantes tierras de Alsabâh, lugar de misterios y oscuros secretos, antaño enterrados en las arenas del tiempo.
 Esta partida está diseñada para cuatro (o cinco) jugadores pregenerados de nivel 3-4, aunque el Narrador puede incorporar otros AJ modificando la historia inicial
