@@ -34,3 +34,7 @@ Marvalar, capital de Reino Bosque y principal baluarte de Valion contra las fuer
 La búsqueda de una reina, el hallazgo de un artefacto de gran poder, el descubrimiento de una terrible verdad, el final de una guerra o el comienzo de otra, la exploración de una ciudad subterránea, el enfrentamiento con entidades conformadas de pura maldad y la posibilidad de convertirse en los más rutilantes héroes de todo Valion… o en sus peores villanos.
 
 Todo esto y mucho más nos espera en esta épica aventura.
+
+Podéis descargar los mapas en los siguientes enlaces:
+- <a href="https://app.box.com/s/g1r3kmjo7lm5c5217ry1932si4zjxbpu" target="_blank">Mapas sin números</a>
+- <a href="https://app.box.com/s/vbyrjbo8ohpi59ce2aapi5nteiro627r" target="_blank">Mapas con números</a>
