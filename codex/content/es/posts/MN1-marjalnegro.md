@@ -3,7 +3,7 @@ title: MN1 - Marjalnegro
 summary: Perdido en los albores del tiempo existe un nuevo mundo, rebosante de misterios y rincones por explorar, Marjalnegro espera paciente para dar a los aventureros nuevas aventuras y retos.
 authors:
 - Robert Conley
-date: 2019-10-17
+date: 2020-11-01
 type: post
 categories:
 - Clásicos de la Marca
