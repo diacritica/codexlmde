@@ -5,7 +5,7 @@ authors:
 - Pedro Gil
 - Carlos M. Piñeiro
 - Zonk PJ
-date: 2019-10-17
+date: 2020-11-01
 type: post
 categories:
 - Clásicos de la Marca
