@@ -10,7 +10,7 @@ categories:
 tags:
 - campaña
 - ambientación
-- gazzeter
+- gazetteer
 minlevels: "1"
 maxlevels: "36"
 prices: 7,00€
