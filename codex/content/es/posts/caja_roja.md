@@ -8,7 +8,7 @@ authors:
 date: 2021-02-13
 type: post
 categories:
-- Clasicos de la Marca
+- Clásicos de la Marca
 tags:
 - reglamento
 - caja-roja
