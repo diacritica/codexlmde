@@ -13,7 +13,7 @@ tags:
 - dungeon
 - campaña
 - ambientación
-- gazetter
+- gazetteer
 minlevels: "-"
 maxlevels: "-"
 prices:
