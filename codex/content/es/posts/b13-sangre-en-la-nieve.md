@@ -6,7 +6,7 @@ authors:
 date: 2022-06-10
 type: post
 categories:
-- Clasicos de la Marca
+- Clásicos de la Marca
 tags:
 - aventura
 - salvaje

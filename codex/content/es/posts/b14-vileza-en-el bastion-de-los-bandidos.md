@@ -6,10 +6,10 @@ authors:
 date: 2019-06-10
 type: post
 categories:
-- Clasicos de la Marca
+- Clásicos de la Marca
 tags:
 - aventura
-- valión
+- valion
 minlevels: "2"
 maxlevels: "4"
 prices: 8€
