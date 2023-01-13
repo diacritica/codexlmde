@@ -3,7 +3,7 @@ title: El Templo del Dios Prohibido
 summary: La búsqueda de una cura milagrosa, llevara a los aventureros a adentrarse en un antiguo templo, donde pondrán a prueba sus habilidades para sobrevivir.
 authors:
   - Javier J. Gutiérrez
-date: 2022-30-09
+date: 2022-09-30
 type: post
 categories:
 - Comunidad
