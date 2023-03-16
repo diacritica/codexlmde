@@ -8,10 +8,10 @@ type: post
 categories:
 - Comunidad
 tags:
-- Neferu
-- selva
-- dungeon
-- oneshot
+- Investigación
+- Exploración
+- Bosque
+- Selva
 minlevels: "4"
 maxlevels: "5"
 prices: gratis

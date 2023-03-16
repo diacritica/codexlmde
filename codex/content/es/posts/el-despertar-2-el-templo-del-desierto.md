@@ -6,10 +6,11 @@ authors:
 date: 2012-07-05
 type: post
 categories:
-- comunidad
+- Comunidad
 tags:
-- desierto
-- templo
+- El Despertar
+- Campaña
+- Templo
 minlevels: "10"
 maxlevels: "12"
 prices: gratis

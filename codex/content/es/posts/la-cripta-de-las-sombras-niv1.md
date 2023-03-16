@@ -1,5 +1,5 @@
 ---
-title: La Cripta de las Sombras (nivel 1)
+title: La Cripta de las Sombras
 summary: Se dice que en sus profundidades plagadas de trampas y criaturas de todo tipo hay infinitos tesoros, objetos de poder y, según algunos cuentan, el mismo secreto de la inmortalidad.
 authors:
   - Telmo Arnedo
@@ -8,8 +8,7 @@ type: post
 categories:
 - Comunidad
 tags:
-- Visirtán
-- dungeon
+- Dungeon
 minlevels: "2"
 maxlevels: "5"
 prices: gratis

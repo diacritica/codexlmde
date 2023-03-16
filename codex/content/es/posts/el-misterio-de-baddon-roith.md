@@ -6,14 +6,13 @@ authors:
 date: 2019-03-01
 type: post
 categories:
-- OSR
+- Comunidad
 tags:
-- OSR
 - Dungeon
-- Torre
+- Torreón
 minlevels: "3"
 maxlevels: "5"
-prices: 1 Euro
+prices: 1€
 session: "2"
 mincharacters: "4"
 maxcharacters: "6"

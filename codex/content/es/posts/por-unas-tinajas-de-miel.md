@@ -8,9 +8,9 @@ type: post
 categories:
 - Comunidad
 tags:
-- Alameda
-- no lineal
-- misión
+- Investigación
+- Aldea
+- Exterior
 minlevels: "1"
 maxlevels: "8"
 prices: gratis

@@ -6,11 +6,11 @@ authors:
 date: 2012-05-23
 type: post
 categories:
-- comunidad
+- Comunidad
 tags:
-- medio
-- viaje
-- mar
+- El Despertar
+- Campaña
+- Marítima
 minlevels: "10"
 maxlevels: "12"
 prices: gratis

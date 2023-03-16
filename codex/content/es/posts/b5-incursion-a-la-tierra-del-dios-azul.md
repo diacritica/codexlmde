@@ -7,23 +7,21 @@ date: 2018-06-15
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- selva
-- cordura
-- Llanuras de Geniges
-- nave espacial
-- ciencia-fantasía
-- mortal
+- Exploración
+- Investigación
+- Ciencia Fantasía
 minlevels: "4"
 maxlevels: "5"
-prices: gratis
+prices: 6€
 session: "3"
 mincharacters: "4"
 maxcharacters: "5"
 eval: oficial
 cover: b5-incursion-a-la-tierra-del-dios-azul.jpg
 download: b5-incursion-a-la-tierra-del-dios-azul.pdf
-moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
+moreinfo: "https://tesorosdelamarca.com/producto/incursion-la-tierra-del-dios-azul/"
 license: "OGL"
 draft: false
 

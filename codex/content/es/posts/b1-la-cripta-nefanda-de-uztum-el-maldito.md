@@ -8,19 +8,20 @@ date: 2014-10-08
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- dungeon
-- oneshot
+- Oneshot
+- Dungeon
 minlevels: "1"
 maxlevels: "3"
-prices: gratis
+prices: 5€
 session: "1"
 mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
-cover: lacriptanefanda.jpg
-download: "La Cripta Nefanda de Uztum el Maldito PDF.pdf"
-moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
+cover: b1-la-cripta-nefanda-de-uztun-el-maldito.jpg
+download: "b1-la-cripta-nefanda-de-uztun-el-maldito.pdf"
+moreinfo: "https://tesorosdelamarca.com/producto/la-cripta-nefanda-uztum-maldito/"
 license: "OGL"
 draft: false
 

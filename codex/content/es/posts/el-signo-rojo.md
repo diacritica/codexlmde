@@ -8,9 +8,9 @@ type: post
 categories:
 - Comunidad
 tags:
-- misión
-- robleda
-- oneshot
+- Investigación
+- Oneshot
+- Urbano
 minlevels: "2"
 maxlevels: "4"
 prices: gratis

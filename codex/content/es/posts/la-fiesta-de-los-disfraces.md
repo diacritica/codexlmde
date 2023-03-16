@@ -4,15 +4,13 @@ summary: Una misiva llega por separado a nuestros héroes, citándolos en el Pal
 authors:
   - Pablo Ruiz Múzquiz
   - Angela Rivera Campos
-
 date: 2013-05-30
 type: post
 categories:
-- Cajas oficiales
+- Clásicos de la Marca
 tags:
-- oneshot
-- dungeon
-- intriga
+- Urbano
+- Investigación
 minlevels: "7"
 maxlevels: "10"
 prices: 10€
@@ -22,7 +20,6 @@ maxcharacters: "6"
 eval: oficial
 cover: fiestadisfraces.jpg
 download:
-moreinfo: "https://www.holocubierta.com/market/marketview/rpggames/lme-cajaverde-5-detail"
 license: "CC BY-SA-NC"
 draft: false
 

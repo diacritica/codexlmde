@@ -7,10 +7,9 @@ date: 2018-12-13
 type: post
 categories:
 - Clásicos de la Marca
+- Línea G
 tags:
-- campaña
-- ambientación
-- gazetteer
+- Gazetter
 minlevels: "1"
 maxlevels: "36"
 prices: 10,00€

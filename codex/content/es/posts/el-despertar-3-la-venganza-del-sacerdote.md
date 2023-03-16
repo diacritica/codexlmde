@@ -6,11 +6,12 @@ authors:
 date: 2014-12-12
 type: post
 categories:
-- comunidad
+- Comunidad
 tags:
-- templo
-- viaje
-- mar
+- Campaña
+- Exploración
+- Templo
+- El Despertar
 minlevels: "14"
 maxlevels: "20"
 prices: gratis

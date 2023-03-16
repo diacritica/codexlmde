@@ -10,8 +10,8 @@ type: post
 categories:
 - Comunidad
 tags:
-- iniciación
-- dungeon
+- Iniciación
+- Dungeon
 minlevels: "1"
 maxlevels: "3"
 prices: gratis

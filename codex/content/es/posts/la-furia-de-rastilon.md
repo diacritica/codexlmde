@@ -7,12 +7,17 @@ date: 2020-03-16
 type: post
 categories:
 - Clásicos de la Marca
+- Línea ES
 tags:
-- aventura
-- dungeon
+- Dragón
+- Exploración
+- Dungeon
+- Sandbox
+- Exterior
+- Ciencia Fantasía
 minlevels: "15"
 maxlevels: "17"
-prices: Gratis
+prices: 7€
 session: "2"
 mincharacters: "4"
 maxcharacters: "6"

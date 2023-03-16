@@ -8,7 +8,10 @@ type: post
 categories:
 - Comunidad
 tags:
-- El Villar
+- Investigación
+- Exploración
+- Aldea
+- Dungeon
 minlevels: "2"
 maxlevels: "4"
 prices: gratis

@@ -7,20 +7,20 @@ date: 2018-11-23
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- fortaleza
-- arcaicos
-- mitos
+- Fortaleza
+- Investigación
 minlevels: "2"
 maxlevels: "4"
-prices: gratis
+prices: 6€
 session: "2"
 mincharacters: "3"
 maxcharacters: "5"
 eval: oficial
 cover: b6-tiempo-fuera-del-tiempo.jpg
 download: b6-tiempo-fuera-del-tiempo.pdf
-moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
+moreinfo: "https://tesorosdelamarca.com/producto/tiempo-fuera-del-tiempo/"
 license: "OGL"
 draft: false
 

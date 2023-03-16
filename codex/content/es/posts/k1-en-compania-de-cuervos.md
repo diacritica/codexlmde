@@ -7,10 +7,10 @@ date: 2021-07-16
 type: post
 categories:
 - Clásicos de la Marca
+- Línea K
 tags:
-- campaña
-- ambientación
-- gazetteer
+- Gazetteer
+- Reglamento
 minlevels: "1"
 maxlevels: "36"
 prices: 7,50€
@@ -18,8 +18,8 @@ session: "indeterminado"
 mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
-cover: "K1-en-compania-de-cuervos.jpg"
-download: "K1-en-compania-de-cuervos.pdf"
+cover: "k1-en-compania-de-cuervos.jpg"
+download: "k1-en-compania-de-cuervos.pdf"
 moreinfo: "https://tesorosdelamarca.com/producto/en-compania-de-cuervos/"
 license: "OGL"
 draft: false

@@ -8,8 +8,7 @@ type: post
 categories:
 - Comunidad
 tags:
-- megadungeon
-- dungeon
+- Megadungeon
 minlevels: "1"
 maxlevels: "20"
 prices: gratis

@@ -8,10 +8,9 @@ type: post
 categories:
 - Comunidad
 tags:
-- oneshot
-- urbana
-- robleda
-- intriga
+- Investigación
+- Urbano
+- Oneshot
 minlevels: "1"
 maxlevels: "2"
 prices: "gratis"

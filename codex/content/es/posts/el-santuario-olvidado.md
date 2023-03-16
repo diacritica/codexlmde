@@ -8,8 +8,9 @@ type: post
 categories:
 - Comunidad
 tags:
-- oneshot
-- iniciación
+- Iniciación
+- Oneshot
+- Templo
 minlevels: "2"
 maxlevels: "3"
 prices: gratis

@@ -9,9 +9,7 @@ type: post
 categories:
 - Comunidad
 tags:
-- dungeon
-- experto
-- adaptación
+- Dungeon
 minlevels: "13"
 maxlevels: "17"
 prices: gratis

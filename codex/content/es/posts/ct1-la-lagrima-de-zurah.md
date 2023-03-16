@@ -7,15 +7,15 @@ date: 2020-10-12
 type: post
 categories:
 - Clásicos de la Marca
+- Línea CT
 tags:
-- palmira
-- alsabâh
-- fortaleza
-- trilogia
-- pregenerados
+- Campaña
+- Urbano
+- Dungeon
+- Exploración
 minlevels: "3"
 maxlevels: "4"
-prices: gratis
+prices: 6€
 session: "3-4"
 mincharacters: "4"
 maxcharacters: "5"

@@ -8,9 +8,9 @@ type: post
 categories:
 - Comunidad
 tags:
-- oneshot
-- urbana
-- dungeon
+- Investigación
+- Aldea
+- Oneshot
 minlevels: "4"
 maxlevels: "6"
 prices: gratis

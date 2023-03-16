@@ -9,10 +9,9 @@ date: 2020-11-01
 type: post
 categories:
 - Clásicos de la Marca
+- Línea BS
 tags:
-- suplemento
-- monstruos
-- trasfondo
+- Reglamento
 minlevels: ""
 maxlevels: ""
 prices: 5€

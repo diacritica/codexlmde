@@ -7,16 +7,13 @@ authors:
 date: 2020-09-25
 type: post
 categories:
-- Clasicos de la Marca
+- Clásicos de la Marca
 tags:
-- suplemento
-- dungeon
-- campaña
-- ambientación
-- gazetteer
+- Gazetter
+- Dungeon
 minlevels: "-"
 maxlevels: "-"
-prices:
+prices: gratis
 session: ""
 mincharacters: "-"
 maxcharacters: "-"

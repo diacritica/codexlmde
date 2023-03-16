@@ -8,7 +8,9 @@ type: post
 categories:
 - Comunidad
 tags:
-- oneshot
+- Exploración
+- Aldea
+- Exterior
 minlevels: "3"
 maxlevels: "5"
 prices: gratis

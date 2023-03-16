@@ -6,9 +6,8 @@ authors:
 date: 2020-05-01
 type: post
 categories:
-- OSR
+- Comunidad
 tags:
-- OSR
 - Dungeon
 minlevels: "5"
 maxlevels: "8"

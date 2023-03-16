@@ -7,15 +7,15 @@ authors:
 date: 2021-05-20
 type: post
 categories:
-- Vermigor
+- Clásicos de la Marca
+- Línea V
 tags:
-- vermigor
-- aventura
-- misterio
-- investigación
+- Vermigor
+- Urbano
+- Investigación
 minlevels: "6"
 maxlevels: "8"
-prices: 8€
+prices: 9€
 session: "no definido"
 mincharacters: "3"
 maxcharacters: "5"

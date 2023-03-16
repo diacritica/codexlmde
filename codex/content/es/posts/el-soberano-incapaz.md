@@ -7,11 +7,11 @@ date: 2012-11-04
 type: post
 categories:
 - Comunidad
-- El Valle del Dios Astado
 tags:
-- aventura
-- dungeon
-- campaña
+- El Valle del Dios Astado
+- Campaña
+- Dungeon
+- Exploración
 minlevels: "3"
 maxlevels: "4"
 prices: gratis

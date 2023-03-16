@@ -6,13 +6,13 @@ authors:
 date: 2019-09-28
 type: post
 categories:
-- El trono de niebla
+- Clásicos de la Marca
+- Línea TN
 tags:
-- campaña
-- Iniciación
-- Castillo
-- Granero
-- Conspiraciones
+- Campaña
+- Fortaleza
+- Investigación
+- El Trono de Niebla
 minlevels: "2"
 maxlevels: "4"
 prices: 7€

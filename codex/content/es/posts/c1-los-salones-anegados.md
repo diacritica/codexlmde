@@ -7,19 +7,21 @@ date: 2019-12-09
 type: post
 categories:
 - Clásicos de la Marca
+- Línea C
 tags:
-- submarina
-- competición
+- Competición
+- Dungeon
+- Marítima
 minlevels: "5"
 maxlevels: "7"
-prices: gratis
+prices: 5€
 session: "3"
 mincharacters: "3"
 maxcharacters: "6"
 eval: oficial
 cover: los-salones-anegados.jpg
 download: "Los Salones Anegados de Leviatán.pdf"
-moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
+moreinfo: "https://tesorosdelamarca.com/producto/los-salones-anegados-leviatan/"
 license: "OGL"
 draft: false
 

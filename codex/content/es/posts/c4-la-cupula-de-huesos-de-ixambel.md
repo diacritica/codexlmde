@@ -7,10 +7,11 @@ date: 2022-04-01
 type: post
 categories:
 - Clásicos de la Marca
+- Línea C
 tags:
-- competición
-- exploración
-- mazmorras
+- Competición
+- Exploración
+- Dungeon
 minlevels: "8"
 maxlevels: "11"
 prices: 7,5€

@@ -6,11 +6,12 @@ authors:
 date: 2012-04-29
 type: post
 categories:
-- Oficial
+- Holocubierta
 tags:
-- misterio
-- conspiraciones
-- aventura
+- Exploración
+- Investigación
+- Urbano
+- Exterior
 minlevels: "2"
 maxlevels: "4"
 prices: gratis

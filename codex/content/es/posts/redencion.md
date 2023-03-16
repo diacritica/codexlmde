@@ -7,15 +7,10 @@ authors:
 date: 2014-06-03
 type: post
 categories:
-- Trilogía de la Orden del Libro
+- Holocubierta
 tags:
-- campaña
-- perdón
-- venganza
-- demonio
-- grutas
-- templarios
-- portal
+- Campaña
+- La Orden del Libro
 minlevels: "5"
 maxlevels: "6"
 prices: 17€

@@ -6,11 +6,10 @@ authors:
 date: 2013-06-13
 type: post
 categories:
-- no oficial
+- Comunidad
 tags:
-- aventura
-- torre
-- oneshot
+- Torreón
+- Oneshot
 minlevels: "4"
 maxlevels: "6"
 prices: gratis

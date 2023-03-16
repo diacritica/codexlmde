@@ -7,21 +7,21 @@ date: 2017-06-01
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- dungeon
-- torre
-- marvalar
-- tesoros
+- Exploración
+- Torreón
+- Exterior
 minlevels: "8"
 maxlevels: "9"
-prices: 5,7€
+prices: 6€
 session: "1-2"
 mincharacters: "6"
 maxcharacters: "8"
 eval: oficial
 cover: "B4-muerte-en-la-mansion-del-mago-malifax.jpg"
 download: "B4-muerte-en-la-mansion-del-mago-malifax.pdf"
-moreinfo: "https://lamarcadeleste.com/muerte-en-la-mansion-del-mago-malifax"
+moreinfo: "https://tesorosdelamarca.com/producto/muerte-la-mansion-del-mago-malifax/"
 license: "OGL"
 draft: false
 

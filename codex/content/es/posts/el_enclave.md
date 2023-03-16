@@ -6,14 +6,10 @@ authors:
 date: 2011-04-28
 type: post
 categories:
-- Trilogía de la Orden del Libro
+- Holocubierta
 tags:
-- campaña
-- pantano
-- robleda
-- monasterio
-- tesoro
-- iniciación
+- Campaña
+- La Orden del Libro
 minlevels: "1"
 maxlevels: "3"
 prices: 17€

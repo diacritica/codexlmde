@@ -1,5 +1,5 @@
 ---
-title: El tesoro del Torreón Negro
+title: El Tesoro del Torreón Negro
 summary: Una aventura para Aventuras en la Marca del Este, escrita por José Francisco Riera, en la que un abandonado torreón resultará no estar tan abandonado.
 authors:
   - José Francisco Riera
@@ -8,8 +8,8 @@ type: post
 categories:
 - Comunidad
 tags:
-- oneshot
-- dungeon
+- Torreón
+- Oneshot
 minlevels: "1"
 maxlevels: "2"
 prices: "2€"

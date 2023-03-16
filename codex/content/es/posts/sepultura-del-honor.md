@@ -8,11 +8,10 @@ date: 2012-11-04
 type: post
 categories:
 - Comunidad
-- El Valle del Dios Astado
 tags:
-- aventura
-- ciudad
-- campaña
+- El Valle del Dios Astado
+- Campaña
+- Urbano
 minlevels: "3"
 maxlevels: "4"
 prices: gratis

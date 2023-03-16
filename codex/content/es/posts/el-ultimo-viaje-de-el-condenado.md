@@ -8,8 +8,10 @@ type: post
 categories:
 - Comunidad
 tags:
-- oneshot
-- navío
+- Investigación
+- Aldea
+- Exterior
+- Marítima
 minlevels: "6"
 maxlevels: "8"
 prices: gratis

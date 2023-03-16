@@ -6,11 +6,12 @@ authors:
 date: 2018-04-01
 type: post
 categories:
-- Linea H
+- Comunidad
+- Línea H
 tags:
-- linea H
-- aldea
-- no lineal
+- Aldea
+- Investigación
+- Exterior
 minlevels: "1"
 maxlevels: "3"
 prices: gratis

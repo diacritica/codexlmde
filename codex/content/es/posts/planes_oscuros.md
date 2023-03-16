@@ -6,14 +6,10 @@ authors:
 date: 2011-12-01
 type: post
 categories:
-- Trilogía de la Orden del Libro
+- Holocubierta
 tags:
-- campaña
-- pantano
-- cementerio
-- cavernas
-- sandbox
-- dungeon
+- Campaña
+- La Orden del Libro
 minlevels: "3"
 maxlevels: "4"
 prices: 17€

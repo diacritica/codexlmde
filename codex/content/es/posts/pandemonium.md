@@ -8,7 +8,9 @@ type: post
 categories:
 - Comunidad
 tags:
-- experto
+- Exploración
+- Dungeon
+- Saja Raja
 minlevels: "10"
 maxlevels: "10"
 prices: gratis

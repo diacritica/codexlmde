@@ -7,11 +7,12 @@ authors:
 date: 2019-12-08
 type: post
 categories:
-- 12M12M
 - Comunidad
 tags:
-- isla
-- oneshot
+- Oneshot
+- Exploración
+- Marítima
+- Isla
 minlevels: "6"
 maxlevels: "8"
 prices: gratis

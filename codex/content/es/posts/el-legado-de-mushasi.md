@@ -7,13 +7,10 @@ date: 2021-01-01
 type: post
 categories:
 - Comunidad
-- oriental
 tags:
-- diario
-- ninjas
-- piratas
-- Nord
-- zombis
+- Exterior
+- Exploración
+- Aldea
 minlevels: "5"
 maxlevels: "5"
 prices: gratis

@@ -24,9 +24,7 @@ type: post
 categories:
 - Clásicos de la Marca
 tags:
-- gazetteer
-- campaña
-- ambientación
+- Gazetteer
 minlevels: "1"
 maxlevels: "100"
 prices: 40€

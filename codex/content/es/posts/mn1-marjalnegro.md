@@ -7,10 +7,9 @@ date: 2020-11-01
 type: post
 categories:
 - Clásicos de la Marca
+- Línea MN
 tags:
-- campaña
-- ambientación
-- gazetteer
+- Gazetteer
 minlevels: "1"
 maxlevels: "36"
 prices: 6,00€
@@ -18,8 +17,8 @@ session: "indeterminado"
 mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
-cover: "MN1-marjalnegro.jpg"
-download: "MN1-marjalnegro.rar"
+cover: "mn1-marjalnegro.jpg"
+download: "mn1-marjalnegro.rar"
 moreinfo: "https://tesorosdelamarca.com/producto/marjalnegro/"
 license: "OGL"
 draft: false

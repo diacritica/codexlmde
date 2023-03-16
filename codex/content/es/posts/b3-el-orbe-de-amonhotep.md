@@ -7,19 +7,21 @@ date: 2015-10-08
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- Neferu
-- dungeon
+- Urbano
+- Investigación
+- Dungeon
 minlevels: "5"
 maxlevels: "6"
-prices: gratis
+prices: 5€
 session: "2"
 mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
-cover: elorbedeamonhtep.jpg
-download: "El Orbe de Amonhotep.pdf"
-moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
+cover: b3-el-orbe-de-amonhtep.jpg
+download: "b3-el-orbe-de-amonhtep.pdf"
+moreinfo: "https://tesorosdelamarca.com/producto/el-orbe-de-amonhotep/"
 license: "OGL"
 draft: false
 

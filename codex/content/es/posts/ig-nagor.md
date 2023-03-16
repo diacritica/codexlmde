@@ -9,7 +9,7 @@ type: post
 categories:
 - Comunidad
 tags:
-- dungeon
+- Dungeon
 minlevels: "3"
 maxlevels: "4"
 prices: gratis

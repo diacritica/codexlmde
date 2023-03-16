@@ -7,22 +7,21 @@ date: 2019-10-25
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- exterior
-- fuertes
-- torre
-- dungeon
-- oneshot
+- Fortaleza
+- Dragón
+- Oneshot
 minlevels: "1"
 maxlevels: "5"
-prices: gratis
+prices: 7€
 session: "2"
 mincharacters: "1"
 maxcharacters: "5"
 eval: oficial
-cover: "la-tumba-de-hielo.jpg"
-download: "la-tumba-de-hielo.pdf"
-moreinfo: "http://www.codice.tk/modulo/B8-La-tumba-de-hielo/"
+cover: "b8-la-tumba-de-hielo.jpg"
+download: "b8-la-tumba-de-hielo.pdf"
+moreinfo: "https://tesorosdelamarca.com/producto/la-tumba-de-hielo/"
 license: "OGL"
 draft: false
 

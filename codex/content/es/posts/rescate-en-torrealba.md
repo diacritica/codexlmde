@@ -6,11 +6,12 @@ authors:
 date: 2017-12-11
 type: post
 categories:
-- No oficial
+- Comunidad
 tags:
-- aventura
-- dungeon
-- oneshot
+- Aldea
+- Dungeon
+- Exterior
+- Oneshot
 minlevels: "3"
 maxlevels: "4"
 prices: gratis
