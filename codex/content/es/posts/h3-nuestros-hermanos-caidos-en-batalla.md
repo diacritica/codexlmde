@@ -6,10 +6,10 @@ authors:
 date: 2018-07-01
 type: post
 categories:
-- Linea H
+- Comunidad
+- Línea H
 tags:
-- linea H
-- dungeon
+- Dungeon
 minlevels: "3"
 maxlevels: "5"
 prices: gratis

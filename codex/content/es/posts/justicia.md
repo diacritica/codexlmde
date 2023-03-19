@@ -6,10 +6,12 @@ authors:
 date: 2020-07-25
 type: post
 categories:
-- Vermigor
+- Holocubierta
 tags:
-- misterio
-- investigacion
+- Vermigor
+- Investigación
+- Aldea
+- Exterior
 minlevels: "1"
 maxlevels: "2"
 prices: Gratis

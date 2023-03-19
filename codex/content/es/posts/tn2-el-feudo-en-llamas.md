@@ -6,14 +6,13 @@ authors:
 date: 2019-09-28
 type: post
 categories:
-- El trono de niebla
+- Clásicos de la Marca
+- Línea TN
 tags:
-- campaña
-- Mazmorra
-- Intriga
-- Castillo
-- Campamento
-- Mansion
+- Campaña
+- Urbano
+- Investigación
+- El Trono de Niebla
 minlevels: "3"
 maxlevels: "5"
 prices: 7€

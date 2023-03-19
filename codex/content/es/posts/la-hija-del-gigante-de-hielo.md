@@ -8,7 +8,8 @@ type: post
 categories:
 - Comunidad
 tags:
-  - oneshot
+- Oneshot
+- Exterior
 minlevels: "2"
 maxlevels: "2"
 prices: gratis

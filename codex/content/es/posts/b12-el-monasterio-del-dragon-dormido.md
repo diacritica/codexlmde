@@ -7,12 +7,12 @@ date: 2021-08-30
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- dragon
-- aventura
-- monasterio
-- iniciacion
-- niños
+- Exploración
+- Iniciación
+- Dragón
+- Templo
 minlevels: "1"
 maxlevels: "2"
 prices: 7,50€

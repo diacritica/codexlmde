@@ -7,9 +7,9 @@ date: 2019-10-17
 type: post
 categories:
 - Clásicos de la Marca
+- Línea SP
 tags:
-- suplemento
-- magia
+- Reglamento
 minlevels: ""
 maxlevels: ""
 prices: 7€

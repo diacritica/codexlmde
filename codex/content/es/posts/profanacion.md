@@ -8,6 +8,9 @@ date: 2011-02-14
 type: post
 categories:
 - Comunidad
+tags:
+- Templo
+- Dungeon
 minlevels: "4"
 maxlevels: "6"
 prices: gratis

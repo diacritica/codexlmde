@@ -8,19 +8,19 @@ type: post
 categories:
 - Crónicas Olvidadas
 tags:
-- iniciación
-- dungeon
-- torre
+- Iniciación
+- Fortaleza
+- Exterior
 minlevels: "1"
 maxlevels: "2"
-prices: gratis
+prices: 8€
 session: "2"
 mincharacters: "3"
 maxcharacters: "4"
 eval: oficial
 cover: "El Legado perdido.jpg"
 download: "El Legado perdido.pdf"
-moreinfo: "http://www.codice.tk/modulo/cronicas-olvidadas-el-legado-perdido/"
+moreinfo: "https://tesorosdelamarca.com/producto/el-legado-perdido/"
 license: "OGL"
 draft: false
 

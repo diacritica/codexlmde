@@ -8,12 +8,10 @@ type: post
 categories:
 - Comunidad
 tags:
-- avanzado
-- adaptación
-- monstruos
-- dinosaurios
-- sandbox
-- bestiario
+- Exploración
+- Isla
+- Sandbox
+- Marítima
 minlevels: "3"
 maxlevels: "6"
 prices: gratis

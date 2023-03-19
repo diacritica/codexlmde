@@ -7,9 +7,13 @@ date: 2012-03-26
 type: post
 categories:
 - Comunidad
-- Trilogía de la Orden del Libro
 tags:
-- oneshot
+- Investigación
+- Bosque
+- Selva
+- Exterior
+- Dungeon
+- Oneshot
 minlevels: "3"
 maxlevels: "4"
 prices: gratis

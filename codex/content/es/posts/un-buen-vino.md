@@ -9,8 +9,8 @@ type: post
 categories:
 - Comunidad
 tags:
-- iniciación
-- oneshot
+- Iniciación
+- Oneshot
 minlevels: "1"
 maxlevels: "1"
 prices: gratis

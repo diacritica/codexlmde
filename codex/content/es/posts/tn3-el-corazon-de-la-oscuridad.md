@@ -6,14 +6,12 @@ authors:
 date: 2020-09-25
 type: post
 categories:
-- El trono de niebla
+- Clásicos de la Marca
+- Línea TN
 tags:
-- campaña
-- Osr
-- Dungeon
-- Avanzado
-- Prisión
-- Marvalar
+- Campaña
+- Megadungeon
+- El Trono de Niebla
 minlevels: "4"
 maxlevels: "5"
 prices: 40€

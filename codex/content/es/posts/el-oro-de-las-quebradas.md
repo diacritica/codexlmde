@@ -8,9 +8,8 @@ type: post
 categories:
 - Comunidad
 tags:
-- misión
-- dungeon
-- Quebradas del este
+- Investigación
+- Aldea
 minlevels: "3"
 maxlevels: "4"
 prices: gratis

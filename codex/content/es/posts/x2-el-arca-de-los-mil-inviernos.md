@@ -7,19 +7,22 @@ date: 2019-01-09
 type: post
 categories:
 - Clásicos de la Marca
+- Línea X
 tags:
-- exploración
-- gestión del tiempo
+- Exterior
+- Exploración
+- Sandbox
+- Isla
 minlevels: "6"
 maxlevels: "10"
-prices: gratis
+prices: 9€
 session: "5-7"
 mincharacters: "4"
 maxcharacters: "7"
 eval: oficial
 cover: "x2-el-arca-de-los-mil-inviernos.jpg"
 download: "x2-el-arca-de-los-mil-inviernos.pdf"
-moreinfo: "http://www.codice.tk/modulo/el-arca-de-los-mil-inviernos/"
+moreinfo: "https://tesorosdelamarca.com/producto/arca-de-los-mil-inviernos/"
 license: "OGL"
 draft: false
 

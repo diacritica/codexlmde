@@ -6,11 +6,11 @@ authors:
 date: 30-04-2021
 type: post
 categories:
-- Linea B
+- Clásicos de la Marca
+- Línea B
 tags:
-- aventura
-- dungeon
-- iniciación
+- Iniciación
+- Dungeon
 minlevels: "1"
 maxlevels: "2"
 prices: 7,50€
@@ -18,7 +18,7 @@ session: "2"
 mincharacters: "4"
 maxcharacters: "5"
 eval: oficial
-cover: "lascuevasdelclanatronador.jpg"
+cover: "b11-las-cuevas-del-clan-atronador.jpg"
 download:
 moreinfo: "https://tesorosdelamarca.com/producto/las-cuevas-del-clan-atronador/"
 license: "OGL"

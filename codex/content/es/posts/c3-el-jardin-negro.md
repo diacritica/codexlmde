@@ -7,20 +7,22 @@ date: 2019-10-25
 type: post
 categories:
 - Clásicos de la Marca
+- Línea C
 tags:
-- competición
-- torre
-- calamain
+- Competición
+- Torreón
+- Exterior
+- Exploración
 minlevels: "6"
 maxlevels: "10"
-prices: gratis
+prices: 7€
 session: "2-3"
 mincharacters: "1"
 maxcharacters: "5"
 eval: oficial
 cover: c3-el-jardin-negro.jpg
 download: c3-el-jardin-negro.pdf
-moreinfo: "http://www.codice.tk/modulo/el-jardin-negro/"
+moreinfo: "https://tesorosdelamarca.com/producto/el-jardin-negro/"
 license: "OGL"
 draft: false
 

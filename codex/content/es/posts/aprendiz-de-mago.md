@@ -7,12 +7,10 @@ date: 2021-01-01
 type: post
 categories:
 - Comunidad
-- Aventura de 1 jugador
 tags:
-- oneshot
-- mago
-- iniciación
-- flashback
+- Iniciación
+- 1 jugador
+- Dungeon
 minlevels: "1"
 maxlevels: "1"
 prices: gratis

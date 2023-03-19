@@ -7,21 +7,21 @@ date: 2019-01-30
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- Nirmala
-- escolta
-- secta
-- templo
+- Urbano
+- Exterior
+- Templo
 minlevels: "2"
 maxlevels: "4"
-prices: gratis
+prices: 6€
 session: "2"
 mincharacters: "4"
 maxcharacters: "5"
 eval: oficial
 cover: b7-presentes-sangrientos.jpg
 download: b7-presentes-sangrientos.pdf
-moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
+moreinfo: "https://tesorosdelamarca.com/producto/presentes-sangrientos/"
 license: "OGL"
 draft: false
 

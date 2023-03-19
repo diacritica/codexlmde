@@ -8,8 +8,7 @@ type: post
 categories:
 - Comunidad
 tags:
-- dungeon
-- torre
+- Torreón
 minlevels: "10"
 maxlevels: "12"
 prices: gratis

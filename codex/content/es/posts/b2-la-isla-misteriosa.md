@@ -7,21 +7,21 @@ date: 2015-06-26
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- marítima
-- isla
-- piratas
-- oneshot
+- Sandbox
+- Exploración
+- Isla
 minlevels: "4"
 maxlevels: "6"
-prices: gratis
+prices: 5€
 session: "1"
 mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
-cover: laislamisteriosa.jpg
-download: "La Isla Misteriosa.pdf"
-moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
+cover: b2-la-isla-misteriosa.jpg
+download: "b2-la-isla-misteriosa.pdf"
+moreinfo: "https://tesorosdelamarca.com/producto/la-isla-misteriosa/"
 license: "OGL"
 draft: false
 

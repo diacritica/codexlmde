@@ -7,11 +7,10 @@ authors:
 date: 2011-10-24
 type: post
 categories:
-- Aventura Sin Fin
+- Comunidad
 tags:
-- iniciación
-- dungeon
-- mazmorreo
+- Iniciación
+- Dungeon
 minlevels: "1"
 maxlevels: "2"
 prices: gratis

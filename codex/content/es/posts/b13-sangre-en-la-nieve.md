@@ -7,9 +7,11 @@ date: 2022-06-10
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- aventura
-- salvaje
+- Exterior
+- Exploración
+- Investigación
 minlevels: "2"
 maxlevels: "2"
 prices: 7.50€

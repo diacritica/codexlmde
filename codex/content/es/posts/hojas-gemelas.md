@@ -8,10 +8,10 @@ type: post
 categories:
 - Comunidad
 tags:
-- Caja verde
-- misión
-- dungeon
-- batalla
+- Investigación
+- Exploración
+- Exterior
+- Saja Raja
 minlevels: "5"
 maxlevels: "6"
 prices: gratis

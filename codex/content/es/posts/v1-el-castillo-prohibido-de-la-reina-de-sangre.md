@@ -8,20 +8,22 @@ date: 2016-06-11
 type: post
 categories:
 - Clásicos de la Marca
-- Vermigor
+- Línea V
 tags:
-- aventura
-- castillo
-- sandbox
+- Vermigor
+- Fortaleza
+- Sandbox
+- Urbano
+- Exploración
 minlevels: "6"
 maxlevels: "10"
-prices: Gratis
+prices: 8€
 session: "?"
 mincharacters: "5"
 maxcharacters: "6"
 eval: oficial
-cover: "reinasangre.jpg"
-download: "reinasangre.pdf"
+cover: "v1-el-castillo-prohibido-de-la-reina-de-sangre.jpg"
+download: "v1-el-castillo-prohibido-de-la-reina-de-sangre.pdf"
 moreinfo: "https://tesorosdelamarca.com/producto/castillo-prohibido-la-reina-sangre/"
 license: "OGL"
 draft: false

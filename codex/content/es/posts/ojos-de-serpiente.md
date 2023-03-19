@@ -8,9 +8,9 @@ type: post
 categories:
 - Comunidad
 tags:
-- iniciación
-- dungeon
-- torre
+- Marítima
+- Urbano
+- Templo
 minlevels: "4"
 maxlevels: "5"
 prices: gratis

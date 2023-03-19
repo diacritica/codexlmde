@@ -7,9 +7,11 @@ date: 2019-02-01
 type: post
 categories:
 - Clásicos de la Marca
+- Línea C
 tags:
-- competición
-- dungeon
+- Competición
+- Dungeon
+- Ciencia Fantasía
 minlevels: "12"
 maxlevels: "15"
 prices: gratis

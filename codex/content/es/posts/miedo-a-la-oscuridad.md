@@ -7,12 +7,12 @@ authors:
 date: 2011-11-01
 type: post
 categories:
-- Vermigor
+- Holocubierta
 tags:
-- vermigor
-- castillo
-- terror
-- conspiraciones
+- Fortaleza
+- Investigación
+- Vermigor
+- Exterior
 minlevels: "4"
 maxlevels: "6"
 prices: gratis

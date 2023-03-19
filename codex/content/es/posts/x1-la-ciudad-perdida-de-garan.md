@@ -7,19 +7,22 @@ date: 2019-12-08
 type: post
 categories:
 - Clásicos de la Marca
+- Línea X
 tags:
-- selva
-- mortal
+- Exploración
+- Sandbox
+- Bosque/Selva
+- Exterior
 minlevels: "5"
 maxlevels: "8"
-prices: gratis
+prices: 7€
 session: "3"
 mincharacters: "3"
 maxcharacters: "5"
 eval: oficial
 cover: laciudadperdidadegaran.jpg
 download: laciudadperdidadegaran.pdf
-moreinfo: "https://lamarcadeleste.com/clasicos-de-la-marca"
+moreinfo: "https://tesorosdelamarca.com/producto/busca-la-ciudad-perdida-garan/"
 license: "OGL"
 draft: false
 

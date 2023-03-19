@@ -7,23 +7,21 @@ date: 2019-10-25
 type: post
 categories:
 - Clásicos de la Marca
+- Línea B
 tags:
-- oneshot
-- lineal
-- exterior
-- torre
-- gestión de tiempo
-- pregenerados
+- Fortaleza
+- Dragón
+- Exterior
 minlevels: "2"
 maxlevels: "4"
-prices: gratis
+prices: 7€
 session: "1"
 mincharacters: "5"
 maxcharacters: "5"
 eval: oficial
-cover: "B9-La última frontera.jpg"
-download: "B9-La última frontera.pdf"
-moreinfo: "http://www.codice.tk/modulo/La-última-frontera/"
+cover: "b9-la-ultima-frontera.jpg"
+download: "b9-la-ultima-frontera.pdf"
+moreinfo: "https://tesorosdelamarca.com/producto/la-ultima-frontera/"
 license: "OGL"
 draft: false
 

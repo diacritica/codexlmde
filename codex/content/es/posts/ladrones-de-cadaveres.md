@@ -6,10 +6,10 @@ authors:
 date: 2012-05-30
 type: post
 categories:
-- No oficial
+- Comunidad
 tags:
-- aventura
-- misterio
+- Investigación
+- Urbano
 minlevels: "1"
 maxlevels: "2"
 prices: gratis
