@@ -7,6 +7,7 @@ date: 2022-09-29
 type: post
 categories:
 - Clásicos de la Marca
+- Linea X
 tags:
 - exploración
 - sandbox

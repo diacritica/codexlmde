@@ -21,7 +21,7 @@ mincharacters: "4"
 maxcharacters: "7"
 eval: oficial
 cover: "x2-el-arca-de-los-mil-inviernos.jpg"
-download: "x2-el-arca-de-los-mil-inviernos.pdf"
+download: "x2-el-arca-de-los-mil-inviernos.rar"
 moreinfo: "https://tesorosdelamarca.com/producto/arca-de-los-mil-inviernos/"
 license: "OGL"
 draft: false

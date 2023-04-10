@@ -21,7 +21,7 @@ maxcharacters: "6"
 eval: oficial
 cover: "el-paramo.jpg"
 download: "el-paramo.pdf"
-moreinfo: ""
+moreinfo: "https://www.holocubierta.com/catalog-hid/rpgs-cat-hid/aelmde-downloads-menu"
 license: "OGL"
 draft: false
 
