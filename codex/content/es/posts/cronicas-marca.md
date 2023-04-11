@@ -19,7 +19,7 @@ mincharacters: "-"
 maxcharacters: "-"
 eval: oficial
 cover: "cronicas-marca.jpg"
-download: "Cronicasdelamarca.pdf"
+download: "Cronicasdelamarca.rar"
 moreinfo: "https://tesorosdelamarca.com/producto/cronicas-de-la-marca-del-este/"
 license: "OGL"
 draft: false
