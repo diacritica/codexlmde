@@ -11,7 +11,8 @@ categories:
 tags:
 - Exploración
 - Sandbox
-- Bosque/Selva
+- Bosque
+- Selva
 - Exterior
 minlevels: "5"
 maxlevels: "8"
