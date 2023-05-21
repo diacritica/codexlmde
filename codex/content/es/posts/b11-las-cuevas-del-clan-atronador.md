@@ -19,7 +19,7 @@ mincharacters: "4"
 maxcharacters: "5"
 eval: oficial
 cover: "b11-las-cuevas-del-clan-atronador.jpg"
-download:
+download: "lascuevasdelclanatronador.pdf"
 moreinfo: "https://tesorosdelamarca.com/producto/las-cuevas-del-clan-atronador/"
 license: "OGL"
 draft: false
