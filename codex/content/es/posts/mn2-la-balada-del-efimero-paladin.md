@@ -6,8 +6,8 @@ authors:
 date: 2023-03-17
 type: post
 categories:
-- Clasicos de la Marca
-- Linea MN
+- Clásicos de la Marca
+- Línea MN
 tags:
 - Dungeon
 - Exploración
