@@ -6,8 +6,8 @@ authors:
 date: 2023-05-19
 type: post
 categories:
-- Clasicos de la Marca
-- Linea HO
+- Clásicos de la Marca
+- Línea HO
 tags:
 - Investigación
 - Exploración
