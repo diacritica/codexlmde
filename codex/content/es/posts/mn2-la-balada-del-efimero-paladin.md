@@ -2,7 +2,7 @@
 title: La Balada del Efímero Paladín
 summary: Adéntrate en Marjalnegro, y disfruta con tus aventureros de este entorno desconocido, lleno de misterios y aventuras. Este es el primer módulo ambientado en esta tierra de oportunidades para los más bravos y aguerridos
 authors:
-  - Manu Sáez.
+  - Manu Sáez
 date: 2023-03-17
 type: post
 categories:
@@ -17,7 +17,7 @@ prices: 8€
 session: "2"
 mincharacters: "4"
 maxcharacters: "6"
-eval: oficial ok
+eval: oficial
 cover: "mn2-la-balada-del-efimero-paladin.jpg"
 download: "mn2-la-balada-del-efimero-paladin.pdf"
 moreinfo: "https://tesorosdelamarca.com/producto/la-balada-del-efimero-paladin/"
