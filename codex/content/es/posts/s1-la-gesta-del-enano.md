@@ -7,7 +7,7 @@ date: 2023-02-07
 type: post
 categories:
 - Clásicos de la Marca
-- Linea S
+- Línea S
 tags:
 - Dungeon
 - 1 Jugador
