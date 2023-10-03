@@ -25,6 +25,8 @@ moreinfo: "https://tesorosdelamarca.com/producto/lo-que-el-ojo-no-ve/"
 license: "OGL"
 draft: false
 ---
-Hace cinco siglos, una oscura monstruosidad surgió de las raíces del mundo y asaltó el solitario hogar del clan enano de los Harkûn.
-Incapaces de vencer tan poderosa y funesta criatura, los enanos perdieron la fe en sus antiguos dioses abrazando el culto a una ignota y oscura deidad que prometió otorgarles el poder necesario para vencer el engendro de las profundidades y recobrar así su libertad.
-Pero este trato nefando pronto se volvió en su contra…
+
+Algo nefando y maligno se agita en las más oscuras anfractuosidades de la vieja mina de Rhaymir, cuya localización y leyenda hace ya mucho que se perdió en los anales de la historia de Valion. Es hora de aprestar vuestras armas, aguerridos aventureros, y adentraros en la comarca de Castamir, y así explorar sus confines y combatir un mal ancestral enquistado en esta región indómita dejada de la mano de los dioses.
+
+Lo que el Ojo no ve es un módulo para Aventuras en la Marca del Este para un grupo de 4-6 personajes de nivel 1-2. Se trata de un módulo largo, que puede jugarse en varias sesiones de juego y que conducirá a los personajes hasta nivel 3 o incluso 4 si juegan todos los encuentros.
+
