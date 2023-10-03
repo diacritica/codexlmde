@@ -11,7 +11,7 @@ categories:
 tags:
 - Oneshot
 - Dungeon
-- Iniciacion
+- Iniciación
 minlevels: "1"
 maxlevels: "2"
 prices: gratis
