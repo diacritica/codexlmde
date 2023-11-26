@@ -9,7 +9,7 @@ categories:
 - Clásicos de la Marca
 - Línea G
 tags:
-- Gazetter
+- Gazetteer
 minlevels: "1"
 maxlevels: "36"
 prices: 10,00€
@@ -18,7 +18,7 @@ mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
 cover: "G1-un-paseo-por-el-campo.jpg"
-download: "G1-un-paseo-por-el-campo.pdf"
+download: "G1-un-paseo-por-el-campo.rar"
 moreinfo: "https://tesorosdelamarca.com/producto/un-paseo-por-el-campo/"
 license: "OGL"
 draft: false

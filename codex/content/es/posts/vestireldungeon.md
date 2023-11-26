@@ -9,7 +9,7 @@ type: post
 categories:
 - Clásicos de la Marca
 tags:
-- Gazetter
+- Gazetteer
 - Dungeon
 minlevels: "-"
 maxlevels: "-"

@@ -20,7 +20,7 @@ mincharacters: "4"
 maxcharacters: "5"
 eval: no oficial
 cover: "una_extrana_enfermedad.jpg"
-download: "una_extrana_enfermedad.pdf"
+download: "una_extrana_enfermedad.rar"
 moreinfo: "http://juegosyfrikadas.blogspot.com/2014/08/modulo-una-extrana-enfermedad-en-la.html"
 license: "OGL"
 draft: false
