@@ -1,5 +1,5 @@
 ﻿---
-title: Lo que el Ojo no ve
+title: HO1 - Lo que el Ojo no ve
 summary: Se presenta aquí la reedición de la aventura publicada por Holocubierta, en un nuevo formato más acorde a la línea de Clásicos, pero que conserva la esencia que el autor transmitió en la publicación original.
 authors:
   - José Manuel Palacios

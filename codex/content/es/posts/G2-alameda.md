@@ -9,7 +9,7 @@ categories:
 - Clásicos de la Marca
 - Línea G
 tags:
-- Gazetter
+- Gazetteer
 minlevels: "1"
 maxlevels: "36"
 prices: 7,00€

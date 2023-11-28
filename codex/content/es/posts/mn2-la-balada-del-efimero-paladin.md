@@ -1,5 +1,5 @@
 ﻿---
-title: La Balada del Efímero Paladín
+title: MN2 - La Balada del Efímero Paladín
 summary: Adéntrate en Marjalnegro, y disfruta con tus aventureros de este entorno desconocido, lleno de misterios y aventuras. Este es el primer módulo ambientado en esta tierra de oportunidades para los más bravos y aguerridos
 authors:
   - Manu Sáez
