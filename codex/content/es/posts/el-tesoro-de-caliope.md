@@ -20,7 +20,7 @@ mincharacters: "3"
 maxcharacters: "5"
 eval:  no oficial
 cover: "el-tesoro-de-caliope.jpg"
-download: "el-tesoro-de-caliope.pdf"
+download: "el-tesoro-de-caliope.rar"
 moreinfo: ""
 license: "OGL"
 draft: false
