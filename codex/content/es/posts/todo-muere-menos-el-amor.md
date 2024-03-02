@@ -12,7 +12,7 @@ tags:
 - Investigación
 minlevels: "2"
 maxlevels: "4"
-prices: 1€
+prices: 1,00 €
 session: "2"
 mincharacters: "4"
 maxcharacters: "6"

@@ -15,7 +15,7 @@ tags:
 - Isla
 minlevels: "6"
 maxlevels: "10"
-prices: 9€
+prices: 9,00 €
 session: "5-7"
 mincharacters: "4"
 maxcharacters: "7"

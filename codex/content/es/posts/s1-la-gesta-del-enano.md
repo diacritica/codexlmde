@@ -13,7 +13,7 @@ tags:
 - 1 Jugador
 minlevels: "4"
 maxlevels: "5"
-prices: 8€
+prices: 8,00 €
 session: "4"
 mincharacters: "1"
 maxcharacters: "1"

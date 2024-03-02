@@ -15,7 +15,7 @@ tags:
 - templo
 minlevels: "3"
 maxlevels: "4"
-prices: 8€
+prices: 8,00 €
 session: "3"
 mincharacters: "4"
 maxcharacters: "6"

@@ -14,7 +14,7 @@ tags:
 - Exterior
 minlevels: "8"
 maxlevels: "9"
-prices: 6€
+prices: 6,00 €
 session: "1-2"
 mincharacters: "6"
 maxcharacters: "8"

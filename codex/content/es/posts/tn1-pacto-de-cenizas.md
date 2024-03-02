@@ -15,7 +15,7 @@ tags:
 - El Trono de Niebla
 minlevels: "2"
 maxlevels: "4"
-prices: 7€
+prices: 7,00 €
 session: "2"
 mincharacters: "3"
 maxcharacters: "4"

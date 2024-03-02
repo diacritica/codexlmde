@@ -14,7 +14,7 @@ tags:
 - caja-roja
 minlevels: ""
 maxlevels: ""
-prices: 40€
+prices: 40,00 €
 session: ""
 mincharacters: ""
 maxcharacters: ""

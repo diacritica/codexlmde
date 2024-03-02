@@ -14,7 +14,7 @@ tags:
 - Dungeon
 minlevels: "8"
 maxlevels: "11"
-prices: 7,5€
+prices: 7,50 €
 session: "2-3"
 mincharacters: "4"
 maxcharacters: "6"

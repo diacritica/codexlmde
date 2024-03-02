@@ -13,7 +13,7 @@ tags:
 - Oneshot
 minlevels: "1"
 maxlevels: "2"
-prices: "gratis"
+prices: gratis
 session: "1"
 mincharacters: "2"
 maxcharacters: "6"

@@ -14,7 +14,7 @@ tags:
 - Urbano
 minlevels: "2"
 maxlevels: "3"
-prices: 12€
+prices: 12,00 €
 session: "4"
 mincharacters: "4"
 maxcharacters: "6"

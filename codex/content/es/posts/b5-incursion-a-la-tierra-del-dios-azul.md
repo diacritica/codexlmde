@@ -14,7 +14,7 @@ tags:
 - Ciencia Fantasía
 minlevels: "4"
 maxlevels: "5"
-prices: 6€
+prices: 6,00 €
 session: "3"
 mincharacters: "4"
 maxcharacters: "5"

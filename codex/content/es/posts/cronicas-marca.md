@@ -13,7 +13,7 @@ tags:
 - básico
 minlevels: "1"
 maxlevels: "100"
-prices: 30€
+prices: 30,00 €
 session: "indeterminado"
 mincharacters: "-"
 maxcharacters: "-"

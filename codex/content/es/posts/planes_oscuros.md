@@ -12,7 +12,7 @@ tags:
 - La Orden del Libro
 minlevels: "3"
 maxlevels: "4"
-prices: 17€
+prices: 17,00 €
 session: "5"
 mincharacters: "4"
 maxcharacters: "5"

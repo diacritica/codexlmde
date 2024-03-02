@@ -12,7 +12,7 @@ tags:
 - Torreón
 minlevels: "3"
 maxlevels: "5"
-prices: 1€
+prices: 1,00 €
 session: "2"
 mincharacters: "4"
 maxcharacters: "6"
