@@ -1,5 +1,5 @@
 ---
-title: TN1 - Pacto de cenizas.
+title: TN1 - Pacto de cenizas
 summary: Un oscuro pacto sellado en el corazón del reino, unos personajes marcados por sus pecados, un terror llegado desde las profundidades del pasado, una conspiración a punto de ser revelada y un templo en tinieblas.
 authors:
   - Diego Marqués Vega

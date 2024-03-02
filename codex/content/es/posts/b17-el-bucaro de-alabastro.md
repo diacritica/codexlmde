@@ -3,7 +3,7 @@ title: B17 - El Búcaro de Alabastro
 summary:  Aventura que comienza en Urusal-din, la capital del califato de Visirtán, y llevará a los aventureros a una aldea perdida en el desierto de Eretria que esconde no pocos secretos.
 
 authors:
-  - Miguel Ángel Muñoz.
+  - Miguel Ángel Muñoz
 date: 2023-06-16
 type: post
 categories:

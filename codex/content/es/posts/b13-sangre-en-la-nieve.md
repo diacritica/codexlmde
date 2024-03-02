@@ -2,7 +2,7 @@
 title: B13 - Sangre en la Nieve
 summary: Esta aventura está diseñada para un grupo de 4 a 6 personajes de niveles iniciales. Permite al Narrador situar a los PJs en un lugar inhóspito y salvaje lejos de la civilización, ahíto de peligros y desafíos.
 authors:
-- Joaquín Blanes Garrido.
+- Joaquín Blanes Garrido
 date: 2022-06-10
 type: post
 categories:

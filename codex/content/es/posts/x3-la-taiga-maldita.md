@@ -2,7 +2,7 @@
 title: X3 - La Taiga Maldita
 summary: Esta aventura que tienes entre manos es en realidad un módulo de exploración. En este caso viajaremos hasta la Taiga de Qurolas y la cordillera Qarachar para desentrañar todos sus misterios, empeñados en encontrar la corona del earl Erik de Scandia.
 authors:
-  - Jorge González.
+  - Jorge González
 date: 2022-09-29
 type: post
 categories:
