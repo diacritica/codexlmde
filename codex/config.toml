@@ -1,13 +1,11 @@
 baseurl = "https://codexdelamarca.com/"
-languageCode = "en-us"
-defaultContentLanguage = "en" # en / zh-CN / ... (This field determines which i18n file to use)
+languageCode = "es"
+defaultContentLanguage = "es" # en / zh-CN / ... (This field determines which i18n file to use)
 
 
 theme = "codex"
-disqusShortname = ""      # disqus_shortname
-googleAnalytics = ""      # UA-XXXXXXXX-X
 paginate = 21 #gridstyle use 3 column. so should be 3,6,9,12,15....
-hasCJKLanguage = true # has chinese/japanese/korean ?
+hasCJKLanguage = false # has chinese/japanese/korean ?
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -30,42 +28,42 @@ hasCJKLanguage = true # has chinese/japanese/korean ?
 
 [markup.goldmark.renderer]
 unsafe= true
-[languages.en]
+[languages.es]
 weight = 0
 languageName = "English"
 contentDir = "content/es"
-[languages.en.params]
+[languages.es.params]
       title = "Codex de la Marca"
       authorinfo = "<h5>Codex de la Marca: Angela Rivera Campos y Pablo Ruiz Múzquiz. Diseño de Juan de la Cruz</h5>"
       licenseinfo = "<p class=\"w3-small\">Codex de la Marca agredece el apoyo del <a href='https://lamarcadeleste.com'>Grupo Creativo de La Marca del Este</a>.</p>"
       logotext = "Codex de la Marca" # logo text
       isso_baseurl=""  #if you want to use isso as comment system,set your isso js baseurl here. It is like "https://isso.yourwebsite.com/" or "https://yourwebsite.com/isso/"
-      isso_langcode="en"
+      isso_langcode="es"
       cookie_info = "This website uses cookies to ensure you get the best experience on our website. [Learn more](/privacy-policy/)"
 
-[[languages.en.menu.main]]
+[[languages.es.menu.main]]
     name = "Inicio"
     url = "/"
     weight = 1
 
-[[languages.en.menu.main]]
+[[languages.es.menu.main]]
     name = "Sobre el Códex"
     url = "/about/"
     weight = 15
-[[languages.en.menu.main]]
+[[languages.es.menu.main]]
     name = "Líneas"
     url = "/categories/"
     weight = 3
-[[languages.en.menu.main]]
+[[languages.es.menu.main]]
     name = "Etiquetas"
     url = "/tags/"
     weight = 4
-[[languages.en.menu.main]]
+[[languages.es.menu.main]]
     name = "Autoría"
     url = "/authors/"
     weight = 5
 
-[[languages.en.menu.main]]
+[[languages.es.menu.main]]
     name = "Todas"
     url = "/allposts/"
     weight = 5
@@ -96,22 +94,8 @@ contentDir = "content/es"
     # adsenseid="ca-pub-123456789"
     allowads = false
     logotext = "HUGO W3 SIMPLE" # logo text
-    footer = "&copy; [John Doe](https://johndoe.com) 2018 | [Github](https://github.com/johndoe) | [Twitter](https://twitter.com/johndoe)  | [RSS](/index.xml)"
+    footer = "&copy; 2024 <a href=\"https://codexdelamarca.com\">Codex de la Marca</a>"
 
 
 [params.social]  # Set your social account here, if you don't have some accounts just comment them
-#    a-envelope = "mailto:your@email.com"
-#    b-stack-overflow ="https://stackoverflow.com/users/12345678/john-doe"
-#    c-twitter = "https://twitter.com/johndoe"
-#    d-facebook = "https://www.facebook.com/johndoe"
-#    e-github = "https://github.com/johndoe"
-#    f-youtube = "https://www.youtube.com/channel/12345678"
-#    g-linkedin = "https://www.linkedin.com/johndoe"
-#    h-google = "https://plus.google.com/12345678"
      i-github = "https://github.com/diacritica/codexlmde"
-#    j-weibo = "https://weibo.com"
-#    k-weixin = "http://localhost:1313"
-#    l-tumblr = "https://www.tumblr.com/blog/johndoe"
-#    m-instagram = "https://instagram.com/johndoe"
-#    n-gitlab = "https://gitlab.com/johndoe"
-    o-pinterest = "https://www.pinterest.com/johndoe/"

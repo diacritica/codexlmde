@@ -55,25 +55,34 @@ poststitle:
   other: "Título"
 
 postsdate:
-  other: "Fecha de publicación"
+  other: "Fecha Pub"
 
 postsword:
-  other: "Número de palabras"
+  other: "Nº palabras"
 
 postsauthor:
   other: "Autoría"
 
 postsminlevel:
-  other: "Nivel mínimo"
+  other: "Niv mín"
 
 postsmaxlevel:
-  other: "Nivel máximo"
+  other: "Niv máx"
 
 postsmincharacter:
-  other: "Mínimo nº PJs"
+  other: "Mín PJs"
 
 postsmaxcharacter:
-  other: "Máximo nº PJs"
+  other: "Máx PJs"
+
+postssession:
+  other: "Nº sesiones"
+
+postseval:
+  other: "Carácter"
+
+postsprice:
+  other: "Precio"
 
 
 postssearch:
