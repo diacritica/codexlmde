@@ -19,13 +19,16 @@ mincharacters: "1"
 maxcharacters: "1"
 eval: oficial
 cover: "s1-la-gesta-del-enano.jpg"
-download: "s1-la-gesta-del-enano.pdf"
+download: "s1-la-gesta-del-enano.rar"
 moreinfo: "https://tesorosdelamarca.com/producto/la-gesta-del-enano/"
 license: "OGL"
 draft: false
 
 ---
 
-Hace cinco siglos, una oscura monstruosidad surgió de las raíces del mundo y asaltó el solitario hogar del clan enano de los Harkûn.
-Incapaces de vencer tan poderosa y funesta criatura, los enanos perdieron la fe en sus antiguos dioses abrazando el culto a una ignota y oscura deidad que prometió otorgarles el poder necesario para vencer el engendro de las profundidades y recobrar así su libertad.
-Pero este trato nefando pronto se volvió en su contra...
+Hace cinco siglos, una oscura monstruosidad surgió de las raíces del mundo y asaltó el solitario hogar del clan enano de los Harkûn. Incapaces de vencer tan poderosa y funesta criatura, los enanos perdieron la fe en sus antiguos dioses abrazando el culto a una ignota y oscura deidad que prometió otorgarles el poder necesario para vencer el engendro de las profundidades y recobrar así su libertad. Pero este trato nefando pronto se volvió en su contra...
+
+El archivo de descarga contiene la gran aportación de los mapas dibujados por Jorge Moreno.
+
+<p><a href="https://www.youtube.com/watch?v=00H4cVkDLxY" target="_blank">Video reseña Pedro Gil</a></p>
+

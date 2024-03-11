@@ -30,3 +30,5 @@ El archivo .rar contiene:
 1 Mapa de 88×60 cm de Coronaburgo.
 1 Libreto pdf con la descipcion de la ciudad de Coronaburgo, donde se explican cada una de las localizaciones de la ciudad.
 1 Libreto pdf a todo color de Anexos de Mapamundi de 8 páginas.
+
+<p><a href="https://www.youtube.com/watch?v=DkUIGCN9Wc8" target="_blank">Video reseña de Pedro Gil</a></p>
