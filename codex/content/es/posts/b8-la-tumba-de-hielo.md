@@ -14,7 +14,7 @@ tags:
 - Oneshot
 minlevels: "1"
 maxlevels: "5"
-prices: 7€
+prices: 7,00 €
 session: "2"
 mincharacters: "1"
 maxcharacters: "5"

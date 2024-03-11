@@ -12,7 +12,7 @@ tags:
 - Reglamento
 minlevels: ""
 maxlevels: ""
-prices: 9€
+prices: 9,00 €
 session: ""
 mincharacters: ""
 maxcharacters: ""

@@ -15,7 +15,7 @@ tags:
 - Exploración
 minlevels: "6"
 maxlevels: "10"
-prices: 7€
+prices: 7,00 €
 session: "2-3"
 mincharacters: "1"
 maxcharacters: "5"

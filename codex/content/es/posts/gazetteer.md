@@ -27,7 +27,7 @@ tags:
 - Gazetteer
 minlevels: "1"
 maxlevels: "100"
-prices: 40€
+prices: 40,00 €
 session: "indeterminado"
 mincharacters: "-"
 maxcharacters: "-"

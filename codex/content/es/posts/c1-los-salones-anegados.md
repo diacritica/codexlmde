@@ -14,7 +14,7 @@ tags:
 - Marítima
 minlevels: "5"
 maxlevels: "7"
-prices: 5€
+prices: 5,00 €
 session: "3"
 mincharacters: "3"
 maxcharacters: "6"

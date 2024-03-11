@@ -14,7 +14,7 @@ tags:
 - Exterior
 minlevels: "1"
 maxlevels: "2"
-prices: Gratis
+prices: gratis
 session: "1"
 mincharacters: "4"
 maxcharacters: "5"
