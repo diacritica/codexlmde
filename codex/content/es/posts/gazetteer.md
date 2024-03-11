@@ -18,7 +18,7 @@ authors:
   - Enrique Márquez Sánchez
   - Ángel Velarde “Angelo Scipione”
   - Hugo González
-  - Jordi Morera.
+  - Jordi Morera
 date: 2019-02-01
 type: post
 categories:

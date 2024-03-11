@@ -2,7 +2,7 @@
 title: S1 - La gesta del enano
 summary: Módulo para un narrador y un personaje de, como mínimo, nivel 4
 authors:
-  - Javier Fernández Valls.
+  - Javier Fernández Valls
 date: 2023-02-07
 type: post
 categories:

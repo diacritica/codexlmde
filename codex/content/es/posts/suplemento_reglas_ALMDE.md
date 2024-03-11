@@ -1,8 +1,8 @@
 ﻿---
-title: Suplemento de Reglas.
+title: Suplemento de Reglas
 summary: Este Suplemento de Reglas añade opciones extra para el Reglamento de Aventuras en la Marca del Este.
 authors:
-  - Ignacio C. Cidrón (Teller).
+  - Ignacio C. Cidrón (Teller)
 date: 2023-02-11
 type: post
 categories:
