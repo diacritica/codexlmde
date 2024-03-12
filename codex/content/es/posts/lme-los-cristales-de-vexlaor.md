@@ -27,4 +27,3 @@ draft: false
 ---
 
 Aventura en 4 actos, con un nivel de dificultad mas que aceptable para mantener a los jugadores activos toda la partida, una buena manera de introducirse en la marca estelar.
-<p><a href="../downloads/FAQ-Cronicas_Marca_del_Este.pdf" target="_blank">FAQ La Marca Estelar</a></p>

@@ -26,4 +26,3 @@ draft: false
 
 Los aventureros viajan en una nave comercial de dudosa reputación hacia Poros cuando reciben una señal de socorro que el capitán de su nave decide investigar. 
 La señal resulta ser un señuelo que conduce a los aventureros a una trampa de la que sólo podrán escapar internándose en una extraña estación espacial abandonada...
-<p><a href="../downloads/FAQ-Cronicas_Marca_del_Este.pdf" target="_blank">FAQ La Marca Estelar</a></p>

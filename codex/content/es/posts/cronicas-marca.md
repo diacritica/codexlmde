@@ -29,3 +29,4 @@ draft: false
 Crónicas de la Marca del Este es un juego de rol donde cada participante toma el papel de un intrépido aventurero, como si se tratase de una película donde los jugadores fueran los protagonistas, pudiendo alterar el curso de los acontecimientos a placer, y tan solo limitados por su imaginación.
 Durante el juego, vuestros aventureros lucharán contra monstruos, descubrirán ciudades perdidas, resolverán misterios y explorarán lugares remotos repletos de fortalezas, mazmorras y tesoros de incalculable valor.
 Con el tiempo, la fama y reputación de vuestros héroes crecerá a la par que sus riquezas, ganando niveles de juego según acumulen experiencia.
+<p><a href="../downloads/FAQ-Cronicas_Marca_del_Este.pdf" target="_blank">FAQ Crónicas Marca del Este</a></p>
