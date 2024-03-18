@@ -14,7 +14,7 @@
         {{ range $key, $value := $terms }}
           <a  href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
           	<button class="tag">
-          	 {{ $value.Term }}
+              {{ $value.Name | humanize | title }}
 			<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
 			</button>
 
@@ -27,12 +27,12 @@
   <header class="page-head">
     <h2 class="page-head-title">Etiquetas</h2>
   </header>
-    <div class="w3-container  w3-section w3-center">
-      <div class="w3-container w3-center">
+    <div class="w3-container w3-center">
+      <div class="w3-container w3-section w3-center">
         {{ range $key, $value := $terms }}
           <a href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
-            <button class="w3-btn w3-round w3-green w3-section">
-          	 {{ $value.Term }}
+            <button class="tag">
+              {{ $value.Name | humanize | title }}
 			<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
 			</button>
 
@@ -90,7 +90,7 @@
               {{ range $key, $value := $terms }}
                 <a href="{{ $name | relLangURL }}/{{ $value.Term | urlize }}/">
                   <button class="tag">
-                	 {{ $value.Term }}
+                	 {{ $value.Name | humanize | title }}
       		<span class="w3-badge w3-black w3-margin-left">{{ len $value.Pages }}</span>
       			</button>
 
