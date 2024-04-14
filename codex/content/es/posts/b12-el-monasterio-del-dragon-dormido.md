@@ -21,7 +21,7 @@ mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
 cover: "b12-el-monasterio-del-dragon-dormido.jpg"
-download: "b12-el-monasterio-del-dragon-dormido.pdf"
+download: "b12-el-monasterio-del-dragon-dormido.rar"
 moreinfo: "https://tesorosdelamarca.com/producto/el-monasterio-del-dragon-dormido/"
 license: "OGL"
 draft: false
