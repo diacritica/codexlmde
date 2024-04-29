@@ -3,7 +3,7 @@ title: El Bosque Negro.
 summary:  Oneshot trepidante para pasar una tarde con tus jugadores.
 
 authors:
-- Miguel Rodríguez.
+- Miguel Rodríguez
 date: 2024-03-16
 type: post
 categories:
