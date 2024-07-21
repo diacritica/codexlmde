@@ -6,8 +6,8 @@ authors:
 date: 2024-05-17
 type: post
 categories:
-- Clasicos de la Marca
-- Linea B
+- Clásicos de la Marca
+- Línea B
 tags:
 - Exploración
 - Investigación
