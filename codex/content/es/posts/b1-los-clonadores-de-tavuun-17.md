@@ -7,7 +7,7 @@ date: 2023-11-30
 type: post
 categories:
 - La Marca Estelar
-- Linea B
+- Línea B
 tags:
 - Exploración
 - Iniciación
