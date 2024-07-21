@@ -1,8 +1,8 @@
 ﻿---
-title: La Cala.
+title: La Cala
 summary: ¿El transporte de una mercancía valiosa es una misión sencilla, o no?.
 authors:
-- Jorge González Conde.
+- Jorge González Conde
 date: 2024-06-30
 type: post
 categories:
