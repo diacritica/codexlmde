@@ -39,3 +39,5 @@ Dentro de este PDF, podrás encontrar:
 - Compilación de las reglas básicas y avanzadas de las anteriores cajas.
 
 Si siempre has querido explorar La Marca del Este, ésta es una gran oportunidad y llevarte todos los tesoros que incluye la nueva Caja Roja.
+
+El PDF de la hoja de aventurero puede encontrarse aparte en este enlace: https://app.box.com/s/a86vbz6ais6nwb7y9hf1boe7q4eov5j3
