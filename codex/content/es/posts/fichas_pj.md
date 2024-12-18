@@ -2,11 +2,10 @@
 title: Fichas y Hojas de Personaje
 summary: Presentamos aquí la recopilación de hojas de personaje utilizadas en los diferentes juegos y ediciones de la Marca del Este.
 authors:
-
 date:
 type: post
 categories:
-- Clasicos de la Marca
+- Clásicos de la Marca
 tags:
 - Reglamento
 minlevels: ""
