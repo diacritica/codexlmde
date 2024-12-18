@@ -1,8 +1,8 @@
 ﻿---
 title: Un buen licor
-summary:  Una exploracion sencilla acaba con una peligrosa aventura......
+summary: Una exploracion sencilla acaba con una peligrosa aventura...
 authors:
-- Wiskeim.
+- Wiskeim
 date: 2024-06-19
 type: post
 categories:
@@ -16,7 +16,7 @@ prices:
 session: "1"
 mincharacters: "3"
 maxcharacters: "5"
-eval:  no oficial
+eval: no oficial
 cover: "un-buen-licor.jpg"
 download: "un-buen-licor.pdf"
 moreinfo: https://cronicaludica.blogspot.com/2024/06/cronica-18-aventura-un-buen-vino-en.html
