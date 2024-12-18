@@ -1,8 +1,8 @@
 ﻿---
-title: Compendium de Reglas.
+title: Compendium de Reglas
 summary: Este Compendio de Reglas añade opciones extra para el Reglamento de Aventuras en la Marca del Este.
 authors:
-- Alfonso Rodríguez.
+- Alfonso Rodríguez
 date: 2024-08-29
 type: post
 categories:
