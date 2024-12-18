@@ -1,13 +1,13 @@
 ﻿---
-title: V3 - El Ojo de Sa'nna.
+title: V3 - El Ojo de Sa'nna
 summary: El pueblo de Raimus Caimas en Vermigor lleva años padeciendo los ataques de una criatura desconocida cada mes durante la luna llena.
 authors:
 - Joaquín Blanes Garrido
 date: 2024-06-01
 type: post
 categories:
-- Clasicos de la Marca
-- Linea V
+- Clásicos de la Marca
+- Línea V
 tags:
 - Vermigor
 - Templo
@@ -15,7 +15,7 @@ tags:
 - Investigación
 minlevels: "3"
 maxlevels: "3"
-prices: 7,50€
+prices: 7.50€
 session: "2"
 mincharacters: "4"
 maxcharacters: "6"
