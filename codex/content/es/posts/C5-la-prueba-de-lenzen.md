@@ -6,8 +6,8 @@ authors:
 date: 2023-06-01
 type: post
 categories:
-- Clasicos de la Marca
-- Linea C
+- Clásicos de la Marca
+- Línea C
 tags:
 - Dungeon
 - Competición
