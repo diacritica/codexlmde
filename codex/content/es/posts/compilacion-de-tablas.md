@@ -2,7 +2,7 @@
 title: Compilación de tablas
 summary:  Recopilacion de las tablas incluidas en los reglamentos de Aventuras en la Marca del Este y Cronicas de la Marca del Este
 authors:
-- José Francisco Asensi
+- José Francisco Asensi Noguera
 date: 2024-10-17
 type: post
 categories:
