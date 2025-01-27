@@ -2,12 +2,12 @@
 title: XR1 - La ciudad de Xorandor
 summary: Xorandor, una ciudad tan hermosa como peligrosa, donde la muerte acecha en cada callejón y el miedo es la única ley; donde las ruinas de las casas caídas en los conflictos del ayer alimentan los fuegos bélicos del ahora. Xorandor la grande, malévola y astuta; elegante y fiera; mortífera y cruel, como los seres que la habitan.
 authors:
-  - Diego Marqués Vega.
+  - Diego Marqués Vega
 date: 2024-06-28
 type: post
 categories:
-- Clasicos de la Marca
-- Linea XR
+- Clásicos de la Marca
+- Línea XR
 tags:
 - Xorandor
 - Gazetteer
