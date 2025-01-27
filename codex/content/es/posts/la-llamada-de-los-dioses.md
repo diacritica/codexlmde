@@ -2,7 +2,7 @@
 title: La llamada de los Dioses.
 summary: "La megacamapaña 'La llamada de los dioses' ahora para todos desde el codex."
 authors:
-  - Cristóbal Sánchez Morales.
+  - Cristóbal Sánchez Morales
 date: 2014-02-07
 type: post
 categories:
