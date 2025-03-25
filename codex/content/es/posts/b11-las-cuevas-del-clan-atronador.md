@@ -26,4 +26,4 @@ draft: false
 
 ---
 
-El polvo y el silencio fueron los únicos dueños de los viejos salones del Clan Atronador durante siglos. Hasta que un día todo cambió. Una tribu de goblins, comandados por el temible osgo Ragrak, ocupó las cuevas abandonadas atrora poniendo en peligro toda la comarca y las lindes salvajes del pais. Ya es hora de explorar las traicioneras grutas y combatir a los malvados Invasores. ¿Estarán vuestros aventureros a la altura de la gesta?
+El polvo y el silencio fueron los únicos dueños de los viejos salones del Clan Atronador durante siglos. Hasta que un día todo cambió. Una tribu de goblins, comandados por el temible osgo Ragrak, ocupó las cuevas abandonadas otrora poniendo en peligro toda la comarca y las lindes salvajes del país. Ya es hora de explorar las traicioneras grutas y combatir a los malvados invasores. ¿Estarán vuestros aventureros a la altura de la gesta?
