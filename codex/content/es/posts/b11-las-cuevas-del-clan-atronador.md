@@ -3,7 +3,7 @@ title: B11 - Las cuevas del Clan Atronador
 summary: Esta es una aventura introductoria, perfecta para iniciar a jovenes jugadores y niños, con un formato clasico y sencillo emula las antiguas aventuras de antaño.
 authors:
   - Manuel Prieto Serrato
-date: 30-04-2021
+date: 2021-04-30
 type: post
 categories:
 - Clásicos de la Marca
