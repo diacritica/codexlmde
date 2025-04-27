@@ -13,3 +13,15 @@ Entrar en carpeta `codex/` y ejecutar `hugo server -D`
 Para compilar estático, en la misma carpeta ejecutar `hugo` y comprobar contenido de la carpeta `public/`
 
 Se recomienda hugo versión >= 0.60
+
+## Usando Docker Compose
+
+Ejecutar:
+
+```shell
+docker compose up
+```
+
+Navegar a http://localhost:1313/.
+
+Pulsar `Ctrl+C` para parar.

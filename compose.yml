@@ -1,0 +1,8 @@
+services:
+  server:
+    image: hugomods/hugo:exts-0.127.0
+    command: hugo server --bind=0.0.0.0 -D
+    volumes:
+      - ./codex/:/src
+    ports:
+      - 1313:1313
