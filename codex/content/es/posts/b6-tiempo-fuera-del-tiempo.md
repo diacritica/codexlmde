@@ -19,7 +19,7 @@ mincharacters: "3"
 maxcharacters: "5"
 eval: oficial
 cover: b6-tiempo-fuera-del-tiempo.jpg
-download: b6-tiempo-fuera-del-tiempo.pdf
+download: b6-tiempo-fuera-del-tiempo.rar
 moreinfo: "https://tesorosdelamarca.com/producto/tiempo-fuera-del-tiempo/"
 license: "OGL"
 draft: false
