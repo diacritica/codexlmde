@@ -22,5 +22,5 @@ moreinfo: ""
 license: "OGL"
 draft: false
 ---
-El archivo adjunto contiene los documentos recopilatorios de las tablas usadas en los reglamentos de Aventuras en la Marca del Este y Crónicas de la Marca del Este,
-Las tablas vienen separadas en dos pdf, dependiendo de la reglamentación utlizada para que sea más cómodo su uso.
+El archivo adjunto contiene los documentos recopilatorios de las tablas usadas en los reglamentos de Aventuras en la Marca del Este y Crónicas de la Marca del Este.
+Las tablas vienen separadas en dos PDFs, dependiendo de la reglamentación utilizada, para que sea más cómodo su uso.
