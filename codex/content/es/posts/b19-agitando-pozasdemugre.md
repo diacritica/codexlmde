@@ -1,6 +1,6 @@
 ﻿---
 title: B19 - Agitando Pozasdemugre
-summary:  Avemtura introductoria que se desarrolla en el gran pantano, El autor propone una introduccion al rol a traves de la exploracion del mapa y la investigacion de un misterio.
+summary:  Aventura introductoria que se desarrolla en el Gran Pantano. El autor propone una introducción al rol a traves de la exploración del mapa y la investigación de un misterio.
 authors:
   - Oriol García
 date: 2024-05-17
