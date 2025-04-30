@@ -28,7 +28,7 @@ draft: false
 
 ---
 
-Hace cinco años, durante el último advenimiento a Valion los astros del caos, Silas, un ejército de monstruos, bárbaros y rebeldes atacó la Marca del Este. El castillo de Ermegar, uno de los mejor fortificados de la Marca, fue atacado con especial virulencia, forzando a sus defensores a emplearse a fondo para no desaparecer entre la espada y el fuego mágico. Durante el ataque, la hija del conde, Laurana, fue raptada por una extraña secta, y a pesar de todos los esfuerzos que se hicieron para encontrarla una vez fue rechazado el asalto, nunca se volvió a saber de ella.
+Hace cinco años, durante el último advenimiento a Valion de los astros del caos, Silas, un ejército de monstruos, bárbaros y rebeldes atacó la Marca del Este. El castillo de Ermegar, uno de los mejor fortificados de la Marca, fue atacado con especial virulencia, forzando a sus defensores a emplearse a fondo para no desaparecer entre la espada y el fuego mágico. Durante el ataque, la hija del conde, Laurana, fue raptada por una extraña secta, y a pesar de todos los esfuerzos que se hicieron para encontrarla una vez fue rechazado el asalto, nunca se volvió a saber de ella.
 
 Ahora, cinco años después de lo ocurrido, el destino parece llamar a la puerta de nuestros personajes, pues una pequeña e irrisoria pista encontrada por ellos puede cambiar el rumbo de los acontecimientos, arrojar luz sobre lo sucedido aquella fatídica noche y descubrir una fatal y aterradora conspiración que amenaza con devorar Reino Bosque.
 

@@ -1,6 +1,6 @@
 ﻿---
 title: K1 - En Compañía de Cuervos
-summary: Aquí hablaremos sobre una raza singular, mitad hombre mitad cuervo. Se trata de los kenku. Este suplemento habla de esta raza y de sus posibilidades con aliado o antagonista.
+summary: Aquí hablaremos sobre una raza singular, mitad hombre mitad cuervo. Se trata de los kenku. Este suplemento habla de esta raza y de sus posibilidades como aliado o antagonista.
 authors:
 - Manu Sáez
 date: 2021-07-16

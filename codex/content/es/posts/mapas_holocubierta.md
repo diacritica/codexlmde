@@ -28,7 +28,7 @@ El archivo de descarga contiene:
 
 - Los mapas incluidos en la caja roja de Holocubierta, para su utilización con el módulo de iniciación "La torre en la ciénaga"
 - El mapeado incluido en la aventura "Lo que el ojo no ve"
-- Cartografía de Valion, así como la ampliación de las Tierras de la Marca.
-- Los Mapas necesarios para jugar la trilogía "La orden del libro"
-- Mapas usados en la aventura "Fiesta de disfraces" que se incluyó en la caja verde.
+- Cartografía de Valion, así como la ampliación de las Tierras de la Marca
+- Los mapas necesarios para jugar la trilogía "La orden del libro"
+- Mapas usados en la aventura "Fiesta de disfraces" que se incluyó en la caja verde
 - Recopilación de mapas que se incluyeron en la caja azul, "Vademecun de campaña" con las principales ciudades de la Marca del Este.

@@ -25,4 +25,4 @@ draft: false
 
 ---
 
-La espada en la roca es el cuarto módulo de la Línea H de módulos no-oficiales para Aventuras en la Marca del Este. En esta ocasión los aventureros se adentrarán en un peligroso dungeon con la esperanza de hacerse con una espada mágica que promete poder ilimitado.en una carrera contra el reloj, con el objetivo de recuperar un antiguo tesoro que les permitirá detener el inexorable avance del ejército de muertos vivientes que se dirige hacia la capital.
+La espada en la roca es el cuarto módulo de la Línea H de módulos no oficiales para Aventuras en la Marca del Este. En esta ocasión los aventureros se adentrarán en un peligroso dungeon con la esperanza de hacerse con una espada mágica que promete poder ilimitado, en una carrera contra el reloj, con el objetivo de recuperar un antiguo tesoro que les permitirá detener el inexorable avance del ejército de muertos vivientes que se dirige hacia la capital.

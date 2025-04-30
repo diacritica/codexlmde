@@ -1,6 +1,6 @@
 ﻿---
 title: La Torre del Sabio
-summary: Una extraña enfermedad contraída por varios jóvenes obliga a los Pj a buscar la ayuda de un misterioso erudito que vive aislado en su torre.
+summary: Una extraña enfermedad contraída por varios jóvenes obliga a los PJs a buscar la ayuda de un misterioso erudito que vive aislado en su torre.
 authors:
   - Alfonso Saavedra
 date: 2013-06-13

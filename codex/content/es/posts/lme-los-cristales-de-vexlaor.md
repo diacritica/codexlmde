@@ -1,6 +1,6 @@
 ---
 title: Los Cristales de Vex La'or
-summary: Seguro que nunca pensaste que responder a una llamada de auxilio podía complicarse tanto…..
+summary: Seguro que nunca pensaste que responder a una llamada de auxilio podía complicarse tanto...
 authors:
   - Arturo Oviedo
 date: 2021-01-01
@@ -26,4 +26,4 @@ draft: false
 
 ---
 
-Aventura en 4 actos, con un nivel de dificultad mas que aceptable para mantener a los jugadores activos toda la partida, una buena manera de introducirse en la marca estelar.
+Aventura en 4 actos, con un nivel de dificultad más que aceptable para mantener a los jugadores activos toda la partida. Una buena manera de introducirse en La Marca Estelar.

@@ -29,5 +29,5 @@ draft: false
 Una aventura de una sola sesión que transcurre fundamentalmente en un pequeño pueblo. Perfecto para introducir a nuevos jugadores en el rol.
 
 **Nota del autor:**
-Lo que tienes frente a tus ojos es mi primera aventura adaptada a la marca del este pensadas para nivele 3. Esta aventura tiene un enorme valor sentimental por que fue la primera aventura que diseñe ahora ya hace 16 años y la he dirigido 4 veces desde entonces y ha sido la más recordada por todos los jugadores que la jugaron en mis orígenes roleros. Ahora aquella aventura se presenta en un nuevo formato mas claro y corregido pese a ello sigue siendo pensada como una aventura corta y sencilla para jugar en una o dos tardes.
+Lo que tienes frente a tus ojos es mi primera aventura adaptada a La Marca del Este pensada para jugadores de nivel 3. Esta aventura tiene un enorme valor sentimental por que fue la primera aventura que diseñé, ahora ya hace 16 años, y la he dirigido 4 veces desde entonces y ha sido la más recordada por todos los jugadores que la jugaron en mis orígenes roleros. Ahora aquella aventura se presenta en un nuevo formato más claro y corregido, pese a ello sigue siendo pensada como una aventura corta y sencilla para jugar en una o dos tardes.
 

@@ -29,4 +29,4 @@ La aventura que te dispones a leer a continuación nace con la idea de recrear u
 Es una aventura corta pero dura, recomendada para personajes que ronden el nivel 10.
 La presencia en el grupo de un Paladín o Clérigo será casi indispensable.
 
-El enlace de descarga incluye los mapas aportados por el autor para poder jugar la aventura
+El enlace de descarga incluye los mapas aportados por el autor para poder jugar la aventura.

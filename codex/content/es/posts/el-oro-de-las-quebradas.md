@@ -29,4 +29,4 @@ Las luces del asentamiento se difuminaban entre los árboles, mientras el minero
 
 “Orcus lo coja y le haga unas caricias” pensaba Tomilí mientras se agachaba y ponía la nota en el tocón.
 
-Lejos de Tomilí, un tejón olisquea un montón comida en exterior de una cueva. Sediento se acerca a beber de un gran tonel lleno de agua, pero cuando está dando sus primeros sorbos, nota algo en el aire, erizándose el pelo, sale disparado sin esperar a conocer el origen del olor… Un gañido de frustración acompaña la huída del tejón mientras se esconde en la oscuridad de las Quebradas.
+Lejos de Tomilí, un tejón olisquea un montón comida en el exterior de una cueva. Sediento se acerca a beber de un gran tonel lleno de agua, pero cuando está dando sus primeros sorbos, nota algo en el aire, erizándose el pelo, sale disparado sin esperar a conocer el origen del olor… Un gañido de frustración acompaña la huída del tejón mientras se esconde en la oscuridad de las Quebradas.
