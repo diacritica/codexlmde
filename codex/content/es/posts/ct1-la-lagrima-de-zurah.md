@@ -32,4 +32,4 @@ draft: false
 ¡Que Isthar tenga misericordia en estos momentos tan aciagos!
 La Lágrima de Zurâh es la primera entrega de una trilogía que será completada en sucesivas entregas por los módulos titulados El Sello del Profeta y La prisión de los dioses de piedra.
 Te damos la bienvenida a las fascinantes tierras de Alsabâh, lugar de misterios y oscuros secretos, antaño enterrados en las arenas del tiempo.
-Esta partida está diseñada para cuatro (o cinco) jugadores pregenerados de nivel 3-4, aunque el Narrador puede incorporar otros AJ modificando la historia inicial
+Esta partida está diseñada para cuatro (o cinco) jugadores pregenerados de nivel 3-4, aunque el Narrador puede incorporar otros AJ modificando la historia inicial.

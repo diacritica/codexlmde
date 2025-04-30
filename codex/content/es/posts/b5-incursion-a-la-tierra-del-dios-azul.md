@@ -36,6 +36,6 @@ A lo largo del módulo se incluirán indicaciones para emplear las reglas opcion
 
 Por último, si algo tiene que enseñar este módulo a tus jugadores, nuevos o veteranos, es “mira arriba, mira siempre arriba” y es un tutor severo.
 
-Este módulo ha sido especialmente diseñado para usarse con el reglamento de Aventuras en la Marca del Este. No obstante, podrá ser empleado con otros juegos similares con relativa facilidad y aplicando pocos cambios, incluyendo la quitan edición del juego de rol de fantasía por antonomasia.
+Este módulo ha sido especialmente diseñado para usarse con el reglamento de Aventuras en la Marca del Este. No obstante, podrá ser empleado con otros juegos similares con relativa facilidad y aplicando pocos cambios, incluyendo la quinta edición del juego de rol de fantasía por antonomasia.
 
 Esta aventura trata de emular los viejos módulos que aparecieran en su día para el juego que Aventuras de la Marca del Este clona, como homenaje a un estilo muy particular y querido de entender esta afición, así como una no disimulada pretensión de establecer una línea de aventuras clásicas, con el aroma inconfundible de antaño, sencillas y adaptables, sin pretensiones, como aquellas que jugábamos ya hace más de veinte años.

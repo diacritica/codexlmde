@@ -1,6 +1,6 @@
 ﻿---
 title: Todo muere, menos el amor
-summary: Rowton, una pequeña localidad al norte del reino humano de Válasos, es el epicentro de una serie de misteriosas apariciones de muertos vivientes. Los héroes acuden a la llamada de auxilio del burgomaestre de Rowton y se verán envueltos en una historia de venganza y amor que trasciende la barrera entre la vida y la muerte.
+summary: Rowton, una pequeña localidad al norte del reino humano de Válasos, es el epicentro de una serie de misteriosas apariciones de muertos vivientes. Los héroes acuden a la llamada de auxilio del burgomaestre de Rowton, y se verán envueltos en una historia de venganza y amor que trasciende la barrera entre la vida y la muerte.
 authors:
   - Héctor Prieto de la Calle
 date: 2019-05-01

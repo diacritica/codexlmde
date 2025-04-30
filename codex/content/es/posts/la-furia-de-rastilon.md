@@ -1,6 +1,6 @@
 ﻿---
 title: ES1 - La Furia de Rastilon
-summary: Un gran peligro se abate sobre la Marca del Este, tal vez la amenaza más grande que jamás pudiéramos imaginar, llegada de alguien de las estrellas. El Imperio Rastilon ha puesto sus ojos en Valion y sólo los grandes héroes que jamás hayan existido podrán conjurar este desafío.
+summary: Un gran peligro se abate sobre la Marca del Este, tal vez la amenaza más grave que jamás pudiéramos imaginar, llegada de allende las estrellas. El Imperio Rastilon ha puesto sus ojos en Valion y sólo los más grandes héroes que jamás hayan existido podrán conjurar este desafío. Es la hora de la verdad.
 authors:
   - Pedro Gil
 date: 2020-03-16
@@ -30,4 +30,4 @@ draft: false
 
 ---
 
-Esta es una Aventura diseñada para un Grupo de 4 a 6 Jugadores de Nivel 15-17. Este es, por tanto, un módulo complejo, para Niveles Avanzados, que retoma algunas de las Criaturas antagonistas presentes en una de las Aventuras anteriormente publicadas por la línea de Clásicos (en concreto, La Catacumbra de los Espantos de Kavaduz), los temidos y odiados Rastilones.
+Esta es una aventura diseñada para un grupo de 4 a 6 jugadores de nivel 15-17. Este es, por tanto, un módulo complejo, para niveles avanzados, que retoma algunas de las criaturas antagonistas presentes en una de las aventuras anteriormente publicadas por la línea de Clásicos (La Catacumbra de los Espantos de Kavaduz siendo concretos), los temidos y odiados rastilones.

@@ -1,6 +1,6 @@
 ﻿---
 title: El Bosque Negro.
-summary:  Oneshot trepidante para pasar una tarde con tus jugadores.
+summary: Oneshot trepidante para pasar una tarde con tus jugadores.
 
 authors:
 - Miguel Rodríguez
@@ -28,5 +28,5 @@ draft: false
 
 ---
 
-La desaparición de unos potros pone en jaque la paz de los centauros. ¿¿Podrán los aventureros encontrarlos antes que estalle la guerra??.
+La desaparición de unos potros pone en jaque la paz de los centauros. ¿Podrán los aventureros encontrarlos antes que estalle la guerra?
 

@@ -1,7 +1,7 @@
 ﻿---
 title: H2 - El último caballero de la orden escarlata
 
-summary: Una reliquia maldita está haciendo que criaturas malignas deambulen por nuestro mundo, trayendo consigo el caos y la muerte que su señor, Penumbra, les ha ordenado. Un caballero, el último de su Orden, ha jurado acabar con ese Mal y para ello, ayudado por los aventureros, se adentrará en la tumba que debía custodiar la reliquia.
+summary: Una reliquia maldita está haciendo que criaturas malignas deambulen por nuestro mundo, trayendo consigo el caos y la muerte que su señor, Penumbra, les ha ordenado. Un caballero, el último de su orden, ha jurado acabar con ese mal y para ello, ayudado por los aventureros, se adentrará en la tumba que debía custodiar la reliquia.
 authors:
   - Héctor Prieto de la Calle
 date: 2017-09-01
@@ -26,4 +26,4 @@ draft: false
 
 ---
 
-El último caballero de la Orden Escarlata es el segundo título de la Línea H de módulos no-oficiales para Aventuras en la Marca del Este. Es un módulo clásico donde los aventureros deberán adentrarse en un dungeon, lleno de trampas y monstruos, para hacerse con una reliquia oculta en la sala más profunda de la tumba.
+El último caballero de la Orden Escarlata es el segundo título de la Línea H de módulos no oficiales para Aventuras en la Marca del Este. Es un módulo clásico donde los aventureros deberán adentrarse en un dungeon, lleno de trampas y monstruos, para hacerse con una reliquia oculta en la sala más profunda de la tumba.

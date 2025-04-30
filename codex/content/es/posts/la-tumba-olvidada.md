@@ -24,4 +24,4 @@ draft: false
 
 ---
 
-La tumba olvidada es un nuevo título de la colección Aventuras de Mazmorreo para los juegos OSR del mercado
+La tumba olvidada es un nuevo título de la colección Aventuras de Mazmorreo para los juegos OSR del mercado.

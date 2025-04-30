@@ -25,10 +25,10 @@ draft: false
 
 ---
 
-Hoy he avanzado a través de la oscuridad del pantano, abriéndome camino entre troncos caídos y ramas desgajadas. de vez en cuando, el corazón se me subía a la garganta al sentir el frio roce de la piel de algún reptil.
+Hoy he avanzado a través de la oscuridad del pantano, abriéndome camino entre troncos caídos y ramas desgajadas. De vez en cuando, el corazón se me subía a la garganta al sentir el frío roce de la piel de algún reptil.
 
-Según tengo entendido, en este pantano hay gigantescas serpientes que se cuelgan de las ramas para capturar a sus indefensas presas. Pero los seres con los que yo temo encontrarme son más terribles que la más temible de las serpientes, y cuanto más me aproximo a ellos, más cauteloso he tratado de que mis pasos fueran.
+Según tengo entendido, en este pantano hay gigantescas serpientes que se cuelgan de las ramas para capturar a sus indefensas presas. Pero los seres con los que yo temo encontrarme son más terribles que la más temible de las serpientes, y cuanto más me aproximo a ellos, más cautelosos he tratado de que mis pasos fueran.
 
-Al anochecer, un destello brillo rojizo entre los árboles, y pude oír un fiero murmullo de voces que se confundían con el redoble del tambor...
+Al anochecer, un brillo destelleó rojizo entre los árboles, y pude oír un fiero murmullo de voces que se confundían con el redoble del tambor...
 
 **Planes Oscuros** es la segunda parte de la trilogía de la orden del libro. Este producto no es un juego completo, requiere un ejemplar del juego de rol Aventuras en la Marca del Este.

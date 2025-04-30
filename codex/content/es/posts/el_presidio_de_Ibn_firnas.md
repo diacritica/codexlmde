@@ -1,6 +1,6 @@
 ﻿---
 title: El Presidio de Ibn Firnäs
-summary: Si los aventureros pensaban que estaban de suerte al poder huir de la prisión que los retenía, es porque no tuvieron en cuenta los peligros que amenazan tras los barrotes de su propia celda
+summary: Si los aventureros pensaban que estaban de suerte al poder huir de la prisión que los retenía, es porque no tuvieron en cuenta los peligros que amenazan tras los barrotes de su propia celda.
 authors:
   - Ángel Velarde «Angelo Scipione»
 date: 2016-05-12

@@ -24,5 +24,5 @@ draft: false
 
 ---
 
-Tenemos aquí un homenaje a la famosa máquina que Capcom saco en los salones recreativos de los 90. El autor del módulo sigue la misma línea de trama que seguía el juego.
+Tenemos aquí un homenaje a la famosa máquina que Capcom sacó en los salones recreativos de los 90. El autor del módulo sigue la misma línea de trama que seguía el juego.
 De esta manera puedes volver a revivir las aventuras que disfrutaste en tu juventud delante de una pantalla, pero esta vez tirando los dados en la mesa de juego.

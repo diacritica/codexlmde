@@ -25,4 +25,4 @@ draft: false
 
 ---
 
-Nuestros hermanos caídos en batalla es el tercer módulo de la Línea H de módulos no-oficiales para Aventuras en la Marca del Este. En esta ocasión los aventureros deberán asaltar la tumba de la Reina Vigdis I en una carrera contra el reloj, con el objetivo de recuperar un antiguo tesoro que les permitirá detener el inexorable avance del ejército de muertos vivientes que se dirige hacia la capital.
+Nuestros hermanos caídos en batalla es el tercer módulo de la Línea H de módulos no oficiales para Aventuras en la Marca del Este. En esta ocasión los aventureros deberán asaltar la tumba de la Reina Vigdis I en una carrera contra el reloj, con el objetivo de recuperar un antiguo tesoro que les permitirá detener el inexorable avance del ejército de muertos vivientes que se dirige hacia la capital.

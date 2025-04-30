@@ -1,6 +1,6 @@
 ---
 title: B10 - El túmulo perdido de Azgoz el testarudo
-summary: Azgoz fue un valiente caballero paladín.Murió y fue enterrado en un túmulo cerca de la ciudad, en las Colinas Azules. El paradero de su tumba se perdió.
+summary: Azgoz fue un valiente caballero paladín. Murió y fue enterrado en un túmulo cerca de la ciudad, en las Colinas Azules. El paradero de su tumba se perdió.
 authors:
   - Pedro Gil
 date: 2021-03-19

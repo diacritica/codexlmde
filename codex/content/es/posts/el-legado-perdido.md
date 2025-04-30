@@ -34,4 +34,4 @@ En lo que todos están de acuerdo es en que este mal no para de crecer y que ter
 
 En este momento aparecen nuestros héroes, conocedores de las miserias del pueblo de Aguasmuertas, dispuestos a dar una solución a sus ciudadanos y alcanzar la gloria o caer en el intento. Un castillo embrujado, unos personajes marcados por actos del pasado, un misterio que clama por ser resuelto y una mazmorra llena de horrores. Todo eso y mucho más te espera a ti y tus jugadores en El Legado Perdido.
 
-**CRÓNICAS OLVIDADAS** Crónicas Olvidadas es una nueva línea de aventuras fruto de la colaboración entre Códice y el grupo creativo de Aventuras en la Marca del Este. Con ella buscamos recuperar el espíritu de los módulos de los años ochenta, tanto en temática como en arte y proporcionar nuevas aventuras con un fuerte sabor nostálgico.
+**Crónicas Olvidadas** es una nueva línea de aventuras fruto de la colaboración entre Códice y el grupo creativo de Aventuras en la Marca del Este. Con ella buscamos recuperar el espíritu de los módulos de los años ochenta, tanto en temática como en arte y proporcionar nuevas aventuras con un fuerte sabor nostálgico.

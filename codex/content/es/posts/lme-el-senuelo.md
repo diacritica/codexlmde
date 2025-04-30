@@ -1,6 +1,6 @@
 ---
 title: El Señuelo 
-summary: Esta aventura Se desarrolla durante un viaje espacial y puede usarse como gancho para unir a un grupo de jugadores o simplemente ser un pequeño suceso en uno de sus primeros viajes.
+summary: Esta aventura se desarrolla durante un viaje espacial y puede usarse como gancho para unir a un grupo de jugadores o simplemente ser un pequeño suceso en uno de sus primeros viajes.
 authors:
   - José Manuel Palacios Rodrigo
 date: 2016-06-01

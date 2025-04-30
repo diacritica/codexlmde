@@ -29,4 +29,4 @@ draft: false
 
 En una apacible aldea, la Muerte camina entre los vivos. Solo un grupo de aguerridos aventureros será capaz de enfrentarse a los muertos cuando éstos decidan alzarse contra quienes aún siguen en pie.
 
-La aldea asolada por la muerte es el primer título de la Línea H de módulos no-oficiales para Aventuras en la Marca del Este. En esta ocasión los aventureros llegarán a una apartada villa donde la oscuridad se cierne irrefrenablemente. Deberán luchar contra animales salvajes, bandoleros y criaturas llegadas del mundo de los muertos para evitar que se abra un portal que invoque a Penumbra a nuestro mundo.
+La aldea asolada por la muerte es el primer título de la Línea H de módulos no oficiales para Aventuras en la Marca del Este. En esta ocasión los aventureros llegarán a una apartada villa donde la oscuridad se cierne irrefrenablemente. Deberán luchar contra animales salvajes, bandoleros y criaturas llegadas del mundo de los muertos para evitar que se abra un portal que invoque a Penumbra a nuestro mundo.

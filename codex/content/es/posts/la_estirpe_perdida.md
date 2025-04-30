@@ -1,6 +1,6 @@
 ﻿---
 title: La Estirpe Perdida
-summary: "Un encuentro casual en el camino hace que los aventureros se introduzcan en una celebración Szgani con todo lo que acarrea: mujeres, alcohol, diversión… ¿Que puede salir mal?"
+summary: "Un encuentro casual en el camino hace que los aventureros se introduzcan en una celebración Szgani con todo lo que acarrea: mujeres, alcohol, diversión… ¿Qué puede salir mal?"
 authors:
   - Juan Carlos Morello
 date: 2015-02-05

@@ -26,8 +26,9 @@ draft: false
 
 ---
 
-La hermana de un jugador enferma y el sanador local les dice que sólo el agua de la fuente del templo prohibido puede sanarla, pero está prohibido ir.
+La hermana de un jugador está enferma y el sanador local les dice que sólo el agua de la fuente del templo prohibido puede sanarla, pero está prohibido ir.
 Los jugadores exponen su caso al gobernador, el representante de la ley del Rey en su comarca, y piden permiso para ir al templo por el agua sanadora.
-El gobernador se niega. Los jugadores deciden desoír las advertencias y amenazas e ir por su cuenta al templo para traer de vuelta en agua que salve a la hermana.
+El gobernador se niega. Los jugadores deciden desoír las advertencias y amenazas e ir por su cuenta al templo para traer de vuelta el agua que salve a la hermana.
 
-La aventura se presentó al "CONCURSO ROL JAM II DE LA SINERGIA DE ROL" y queremos agradecer a su autor permitirnos incorporarla al Codex
+La aventura se presentó al "CONCURSO ROL JAM II DE LA SINERGIA DE ROL" y queremos agradecer a su autor permitirnos incorporarla al Codex.
+

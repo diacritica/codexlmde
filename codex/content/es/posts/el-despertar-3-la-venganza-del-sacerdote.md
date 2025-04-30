@@ -33,4 +33,4 @@ Es extraño. Habéis viajado durante semanas a través del desierto explorado ci
 
 ¿Cómo y por qué sobrevivisteis?, ¿ha sido gracias a la suerte?, ¿el favor de los dioses?, ¿o tal vez un poco de ambos?
 
-**La Venganza del Sacerdote** Es la tercera parte de la trilogía de aventuras ***El Despertar***
+**La Venganza del Sacerdote** es la tercera parte de la trilogía de aventuras ***El Despertar***

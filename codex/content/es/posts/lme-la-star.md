@@ -24,8 +24,7 @@ draft: false
 
 ---
 
-Tras un aterrizaje forzoso del cual los personajes han sobrevivido de milagro…. Se dan cuenta que han perdido sus recuerdos mas recientes…
-¿Que están haciendo aquí?... que misión les llevaba a ese planeta……
-Una buena aventura para jugar con la intriga y el misterio en un entorno Sci-Fi. 
-Un buen modulo que pone a disposición personajes pre generados y todo lo necesario para sentarse a jugar.
-
+Tras un aterrizaje forzoso del cual los personajes han sobrevivido de milagro, se dan cuenta que han perdido sus recuerdos mas recientes…
+¿Que están haciendo aquí? ¿Que misión les llevaba a ese planeta?
+Una buena aventura para jugar con la intriga y el misterio en un entorno Sci-Fi.
+Un buen modulo que pone a disposición personajes pregenerados y todo lo necesario para sentarse a jugar.

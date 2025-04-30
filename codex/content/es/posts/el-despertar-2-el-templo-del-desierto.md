@@ -33,4 +33,4 @@ Pero a medida que se acercan, encontrarán innumerables desafíos que pondrán a
 Los aventureros comienzan en Semerkhet, capital de Neferu. Tras varias semanas de viaje por la Marca del Este y a través del Mar, al fin llegaron a su destino.
 Durante las siguientes semanas, los aventureros viajarán a través del Desierto de Virt’hum para tratar de encontrar las ruinas de Nefter, la antigua capital de Neferu. Allí se enfrentarán a una serie de acertijos que les llevará hasta...
 
-**El Templo del Desierto** Es la segunda parte de la trilogía de aventuras ***El Despertar***
+**El Templo del Desierto** es la segunda parte de la trilogía de aventuras ***El Despertar***

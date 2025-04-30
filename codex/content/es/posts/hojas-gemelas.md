@@ -36,4 +36,4 @@ Silvia, espero seguir charlando contigo de todo lo que se nos pase por la cabeza
 
 Leticia, contigo jugué de pequeño cuando la vida simplemente era divertida. Ahora la vida suele convertirse en fría y difícil. Pensé en ti cuando describía a una de las hermanas. Es una mujer bella e inteligente que por muchos golpes que le da la vida siempre tiene fuerzas para levantarse.
 
-Y Cris, tú más que nadie eres la razón para que yo escriba estas aventuras. Las escribo para jugar contigo, las escribo por que estás conmigo y porque entre los dos tenemos un peque que nos hace cada día más felices y que al no dejarnos salir de casa tenemos que quedarnos jugando al Rol. Te quiero.
+Y Cris, tú más que nadie eres la razón para que yo escriba estas aventuras. Las escribo para jugar contigo, las escribo porque estás conmigo y porque entre los dos tenemos un peque que nos hace cada día más felices y que al no dejarnos salir de casa tenemos que quedarnos jugando al Rol. Te quiero.

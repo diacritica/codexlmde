@@ -44,9 +44,9 @@ El Gazetteer es la nueva caja de campaña que describe con todo lujo de detalles
 
 En la misma encontraremos:
 
-Un manual completo, profusamente ilustrado en blanco y negro con más de 180 páginas
-9 mapas tamaño A3 mostrando las tierras de Valion a todo color, con cientos de localizaciones
-6 mapas A3 impresos a doble cara mostrando de un lado la ciudad de Robleda y del otro su intrincado sistema de subterráneos.
-1 Mapa de la zona de La Marca del Este
-Pantalla para el Narrador de tres paneles apaisados con una ilustración exclusiva
-1 Hoja de Personaje de diseño especial para esta edición.
+- Un manual completo, profusamente ilustrado en blanco y negro con más de 180 páginas
+- 9 mapas tamaño A3 mostrando las tierras de Valion a todo color, con cientos de localizaciones
+- 6 mapas A3 impresos a doble cara mostrando de un lado la ciudad de Robleda y del otro su intrincado sistema de subterráneos
+- Mapa de la zona de La Marca del Este
+- Pantalla para el Narrador de tres paneles apaisados con una ilustración exclusiva
+- Hoja de Personaje de diseño especial para esta edición.

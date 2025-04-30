@@ -29,6 +29,6 @@ draft: false
 
 Tiempo fuera del tiempo es una aventura para un grupo de 3 a 5 personajes de nivel 2 a 4. Los Aj’s investigan una fortaleza maldita cuando se ven atrapados, obligados a luchar por sus vidas contra el peor enemigo al que se han enfrentado: el tiempo.
 
-Este módulo ha sido especialmente diseñado para usarse con el reglamento de Aventuras en la Marca del Este. No obstante, podrá ser empleado con otros juegos similares con relativa facilidad y aplicando pocos cambios, incluyendo la quitan edición del juego de rol de fantasía por antonomasia.
+Este módulo ha sido especialmente diseñado para usarse con el reglamento de Aventuras en la Marca del Este. No obstante, podrá ser empleado con otros juegos similares con relativa facilidad y aplicando pocos cambios, incluyendo la quinta edición del juego de rol de fantasía por antonomasia.
 
 Esta aventura trata de emular los viejos módulos que aparecieran en su día para el juego que Aventuras de la Marca del Este clona, como homenaje a un estilo muy particular y querido de entender esta afición, así como una no disimulada pretensión de establecer una línea de aventuras clásicas, con el aroma inconfundible de antaño, sencillas y adaptables, sin pretensiones, como aquellas que jugábamos ya hace más de veinte años.
