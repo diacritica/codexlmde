@@ -19,7 +19,7 @@ mincharacters: "3"
 maxcharacters: "6"
 eval: oficial
 cover: "b14-vileza-en-el-bastion-de-los-bandidos.jpg"
-download: "b14-vileza-en-el-bastion-de-los-bandidos.pdf"
+download: "b14-vileza-en-el-bastion-de-los-bandidos.rar"
 moreinfo: "https://tesorosdelamarca.com/producto/vileza-en-el-bastion-de-los-bandidos/"
 license: "OGL"
 draft: false
@@ -28,3 +28,5 @@ draft: false
 
 Una localización mítica en Valion: un lugar misterioso, que se sabe ahíto de riquezas de antaño, peligros ignotos y reliquias de otrora.
 Muchos son los guerreros que se han aventurado a explorar sus pasadizos, galerías y salones, y pocos son los que han vuelto para contar lo que allí vieron.
+
+El archivo de descarga incluye los mapas de Jorge Moreno, dibujados por él exclusivamente y poniéndolos a disposición de todos, a través del Codex.
