@@ -27,7 +27,7 @@ draft: false
 
 ---
 
-Los aventureros se embarcan en la difícil misión de encontrar la cura a una extraña enfermedad antes de que esta se extienda por robleda, y provoque una plaga entre sus habitantes.
+Los aventureros se embarcan en la difícil misión de encontrar la cura a una extraña enfermedad antes de que esta se extienda por Robleda, y provoque una plaga entre sus habitantes.
 Una misión sencilla, llegar a la torre, investigar y solucionar el problema, encontrar la cura y volver rápidamente.
 Lo que no les han dicho es que el camino a la torre no será fácil y lo que encontrarán en la torre pondrá su temple a prueba.
 

@@ -27,6 +27,6 @@ draft: false
 
 ---
 
-La cripta nefanda de Uztum el maldito es una aventura diseñada para un grupo de 4 a 6 jugadores de nivel 1-3. Si tenemos planeado jugar el módulo con sólo cuatro jugadores, recomendamos que éstos sean de nivel 2o. A efectos de juego, la cripta de Uztum es una recóndita y misteriosa localización que puede emplazarse en cualquier escenario de campaña que se desee, o bien jugarse independientemente.
+La cripta nefanda de Uztum el maldito es una aventura diseñada para un grupo de 4 a 6 jugadores de nivel 1-3. Si tenemos planeado jugar el módulo con sólo cuatro jugadores, recomendamos que éstos sean de nivel 2. A efectos de juego, la cripta de Uztum es una recóndita y misteriosa localización que puede emplazarse en cualquier escenario de campaña que se desee, o bien jugarse independientemente.
 
 También es posible localizar la misma en el escenario de campaña por defecto de la Marca del Este, presente en la caja azul, en cuyo caso recomendamos situar la cripta en algún lugar entre las estribaciones orientales de la Colinas Rojas y la ribera occidental del Río Oxus, hacia poniente desde Puerto Oeste, en la Marca del Oeste del Reino Bosque.

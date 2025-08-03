@@ -1,6 +1,6 @@
 ﻿---
 title: Crónicas de la Marca del Este
-summary: Bienvenidos a Crónicas de la Marca del Este. con este reglamento se abre ante ti un mundo rebosante de aventuras, personajes epicos, monstruos temibles, peligrosas mazmorras, bastiones inexpugnables y magia poderosa.
+summary: Bienvenidos a Crónicas de la Marca del Este. Con este reglamento se abre ante ti un mundo rebosante de aventuras, personajes épicos, monstruos temibles, peligrosas mazmorras, bastiones inexpugnables y magia poderosa.
 authors:
   - Javier García “Dwayne Hicks”
   - Pedro Gil

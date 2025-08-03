@@ -25,8 +25,7 @@ draft: false
 
 ---
 
-Bienvenidos La Fiesta de los Disfraces, una aventura ideada para un grupo de 4 a 6 jugadores de niveles entre 7 y 10, aunque resultará sencillo para el Narrador adecuarla a niveles más bajos o mayores. Se recomienda que el grupo tenga al menos un guerrero o un paladín, un ladrón o un asesino y un mago. No obstante, por la naturaleza de la trama, no es aconsejable tener más de dos aventureros expertos en las artes mágicas, ya que no es previsible que fueran invitados en más que esa proporción a la fiesta. Igualmente, un grupo con alineamiento legal muy estricto puede dar menos juego en los momentos decisivos de la
-aventura. La historia está pensada para jugarse en dos y tres sesiones.
+Bienvenidos a La Fiesta de los Disfraces, una aventura ideada para un grupo de 4 a 6 jugadores de niveles entre 7 y 10, aunque resultará sencillo para el Narrador adecuarla a niveles más bajos o mayores. Se recomienda que el grupo tenga al menos un guerrero o un paladín, un ladrón o un asesino y un mago. No obstante, por la naturaleza de la trama, no es aconsejable tener más de dos aventureros expertos en las artes mágicas, ya que no es previsible que fueran invitados en más que esa proporción a la fiesta. Igualmente, un grupo con alineamiento legal muy estricto puede dar menos juego en los momentos decisivos de la aventura. La historia está pensada para jugarse en dos y tres sesiones.
 
 Se ha conseguido dirigir esta aventura en jornadas de rol en una sola sesión con AJs pregenerados y acortando algunos aspectos de la aventura. Es perfecta para jornadas ya que funciona muy bien con AJs que no se conocen entre sí.
 

@@ -31,4 +31,4 @@ Los aventureros son contratados en La Fonda por Balus Hifez, un Neferí que prop
 Una vez en el mar, creerán que tienen una fácil travesía, pero se toparán con lo que los marineros consideran una leyenda, un mito, pero que es algo muy real.
 
 
-**El Tesoro de los Faraones** Es la primera parte de una trilogía de aventuras ***El Despertar***
+**El Tesoro de los Faraones** es la primera parte de una trilogía de aventuras ***El Despertar***
