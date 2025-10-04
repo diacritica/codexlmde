@@ -1,6 +1,6 @@
 ﻿---
-title: El Espectro de las tormentas.
-summary:  Una aventuras maritima con dosis de misterio, intriga y un viaje inesperado donde los peligros sobrenaturales se suceden.
+title: El Espectro de las tormentas
+summary: Una aventuras maritima con dosis de misterio, intriga y un viaje inesperado donde los peligros sobrenaturales se suceden.
 
 authors:
   - Miguel Rodríguez
@@ -18,7 +18,7 @@ prices:
 session: "3"
 mincharacters: "4"
 maxcharacters: "5"
-eval: oficial
+eval: no oficial
 cover: "el_espectro_de_las_tormentas.jpg"
 download: "el_espectro_de_las_tormentas.pdf"
 moreinfo:
