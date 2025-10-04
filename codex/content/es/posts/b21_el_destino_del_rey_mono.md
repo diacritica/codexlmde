@@ -2,11 +2,11 @@
 title: B21 - El Destino del Rey Mono
 summary: El destino del Rey Mono es una aventura para el juego Aventuras en la Marca del Este, centrada en una isla cerca de las costas de Vankor (una región similar al Sudeste Asiático de nuestro mundo).
 authors:
-- José Carlos Domínguez.
+- José Carlos Domínguez
 date: 2025-02-21
 type: post
 categories:
-- Clasicos de la Marca
+- Clásicos de la Marca
 - Linea B
 tags:
 - Exploración
