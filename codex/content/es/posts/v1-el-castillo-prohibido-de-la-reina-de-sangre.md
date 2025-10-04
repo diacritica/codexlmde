@@ -23,7 +23,7 @@ mincharacters: "5"
 maxcharacters: "6"
 eval: oficial
 cover: "v1-el-castillo-prohibido-de-la-reina-de-sangre.jpg"
-download: "v1-el-castillo-prohibido-de-la-reina-de-sangre.pdf"
+download: "v1-el-castillo-prohibido-de-la-reina-de-sangre.rar"
 moreinfo: "https://tesorosdelamarca.com/producto/castillo-prohibido-la-reina-sangre/"
 license: "OGL"
 draft: false
@@ -35,3 +35,5 @@ El Castillo Prohibido de la Reina de Sangre es un módulo para un grupo de perso
 El mal que emana del Castillo Prohibido maldito de Varania tiene a las gentes del Valle de Galas completamente subyugadas. Nunca antes una tierra había estado tan maldita y nunca antes un grupo de héroes había sido tan necesario. ¿Aceptarán los personajes el desafío?
 
 Nos encontramos ante un interesante sandbox lleno de misterios e intrigas, que no dejarán indiferentes a los jugadores. Un narrador experimentado puede hacer que sea este el inicio de una campaña en las tierras de Vermigor.
+
+El archivo de descarga incluye los mapas que Jorge Moreno ha dibujado exclusivamente para la aventura y que pone a disposición de todos, a través del Codex.
