@@ -7,7 +7,7 @@ date: 2025-02-21
 type: post
 categories:
 - Clásicos de la Marca
-- Linea B
+- Línea B
 tags:
 - Exploración
 - Templo
@@ -27,4 +27,5 @@ draft: false
 ---
 
 Desde el continente puede verse la pequeña isla de Laebong, en el centro del golfo de Vankor, y la pagoda que se alza en su costa oriental.
+
 Los nativos cuentan que está maldita y los pocos que se han atrevido a cruzar sus traicioneras aguas vuelven hablando de lagartos gigantes y un enorme simio blanco que porta una corona.
