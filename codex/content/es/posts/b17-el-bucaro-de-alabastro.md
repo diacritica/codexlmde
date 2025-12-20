@@ -20,8 +20,8 @@ session: "3"
 mincharacters: "4"
 maxcharacters: "6"
 eval: oficial
-cover: "b17-el-bucaro de-alabastro.jpg"
-download: "b17-el-bucaro de-alabastro.pdf"
+cover: "b17-el-bucaro-de-alabastro.jpg"
+download: "b17-el-bucaro-de-alabastro.rar"
 moreinfo: "https://tesorosdelamarca.com/producto/el-bucaro-de-alabastro/"
 license: "OGL"
 draft: false
