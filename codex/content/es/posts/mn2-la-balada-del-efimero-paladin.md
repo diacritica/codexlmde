@@ -9,6 +9,7 @@ categories:
 - Clásicos de la Marca
 - Línea MN
 tags:
+- Marjalnegro
 - Dungeon
 - Exploración
 minlevels: "1"
