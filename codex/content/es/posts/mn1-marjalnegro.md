@@ -9,6 +9,7 @@ categories:
 - Clásicos de la Marca
 - Línea MN
 tags:
+- Marjalnegro
 - Gazetteer
 minlevels: "1"
 maxlevels: "36"
