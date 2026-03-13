@@ -24,4 +24,4 @@ draft: false
 ---
 
 Tras un año convulso, la ciudad de Marvalar espera con ansia el día 25 de Eburum, para que en el periodo navideño Santa traiga regalos y alegría a la capital.
-Pero no ocurre nada, la reina Virgidis II os convoca para salvar la Navidad, ¿acudiréis al llamado?.
+Pero no ocurre nada, la reina Vigdis II os convoca para salvar la Navidad, ¿acudiréis al llamado?.
