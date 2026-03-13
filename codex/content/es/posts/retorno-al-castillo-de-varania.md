@@ -16,7 +16,7 @@ prices: gratis
 session: "1"
 mincharacters: "4"
 maxcharacters: "6"
-eval: oficial
+eval: no oficial
 cover: "retorno-al-castillo-de-varania.jpg"
 download: "retorno-al-castillo-de-varania.pdf"
 moreinfo: ""
