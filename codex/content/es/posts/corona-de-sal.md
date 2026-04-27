@@ -10,7 +10,7 @@ categories:
 tags:
 - Templo
 - Terror
-- Exploracíón
+- Exploración
 minlevels: "1"
 maxlevels: "5"
 prices: 25€
