@@ -17,7 +17,7 @@ mincharacters: ""
 maxcharacters: ""
 eval: no oficial
 cover: "compendium-de-reglas.jpg"
-download: "compendium-de-reglas.pdf"
+download: "compendium-de-reglas.rar"
 moreinfo: ""
 license: "OGL"
 draft: false
