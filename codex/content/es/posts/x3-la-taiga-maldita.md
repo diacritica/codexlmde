@@ -13,6 +13,7 @@ tags:
 - sandbox
 - exterior
 - dragón
+- Reglamento
 minlevels: "5"
 maxlevels: "9"
 prices: 10.00€
