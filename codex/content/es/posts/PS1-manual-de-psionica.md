@@ -1,5 +1,5 @@
 ﻿---
-title: PS1 - Manual de Psionica
+title: PS1 - Manual de Psiónica
 summary: Ampliación de reglas para incorporar a tus partidas habilidades y poderes Psionicos.
 authors:
   - Pedro Gil

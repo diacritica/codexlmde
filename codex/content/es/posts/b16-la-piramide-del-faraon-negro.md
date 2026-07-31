@@ -1,5 +1,5 @@
 ---
-title: B16 - La Piramide del Faraon Negro        
+title: B16 - La Pirámide del Faraón Negro        
 summary: Esta aventura está centrada en Neferu, la tierra de los faraones en Cirinea, donde los aventureros podrán saquear una antigua pirámide olvidada y las cámaras que se ocultan bajo ella.
 authors:
   - José Carlos Domínguez

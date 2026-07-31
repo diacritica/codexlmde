@@ -1,5 +1,5 @@
 ﻿---
-title: B25 - El altar Impio
+title: B25 - El altar Impío
 summary: Los personajes se verán envueltos en una maraña de intrigas palaciegas, en la que nada es lo que parece, y que los llevará a una misión poco menos que suicida.
 authors:
 - Manuel López Coloma
