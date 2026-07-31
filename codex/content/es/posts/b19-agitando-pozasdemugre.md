@@ -11,6 +11,7 @@ categories:
 tags:
 - Exploración
 - Investigación
+- Reglamento
 minlevels: "1"
 maxlevels: "3"
 prices: 7.50€

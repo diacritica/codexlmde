@@ -11,6 +11,7 @@ categories:
 tags:
 - Exploración
 - Templo
+- Reglamento
 minlevels: "2"
 maxlevels: "4"
 prices: 8€

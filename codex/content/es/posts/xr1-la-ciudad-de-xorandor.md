@@ -11,7 +11,7 @@ categories:
 tags:
 - Xorandor
 - Gazetteer
-
+- Reglamento
 minlevels: ""
 maxlevels: ""
 prices: 25€

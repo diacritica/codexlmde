@@ -13,6 +13,7 @@ tags:
 - Vermigor
 - Urbano
 - Investigación
+- Reglamento
 minlevels: "6"
 maxlevels: "8"
 prices: 9,00 €

@@ -12,6 +12,7 @@ tags:
 - Exploración
 - Investigación
 - Ciencia Fantasía
+- Reglamento
 minlevels: "4"
 maxlevels: "5"
 prices: 6,00 €

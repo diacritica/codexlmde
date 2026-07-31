@@ -11,7 +11,7 @@ categories:
 - Línea X
 tags:
 - Exploración
-
+- Reglamento
 minlevels: "10"
 maxlevels: "12"
 prices: 9€

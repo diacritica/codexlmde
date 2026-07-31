@@ -12,6 +12,7 @@ tags:
 - Urbano
 - Investigación
 - Dungeon
+- Reglamento
 minlevels: "5"
 maxlevels: "6"
 prices: 5,00 €

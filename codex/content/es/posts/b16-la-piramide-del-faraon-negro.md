@@ -11,6 +11,7 @@ categories:
 tags:
 - Dungeon 
 - Templo  
+- Reglamento
 minlevels: "4" 
 maxlevels: "5"  
 prices: 8€  
